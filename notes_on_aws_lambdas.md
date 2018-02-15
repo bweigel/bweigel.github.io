@@ -4,6 +4,11 @@
 
 ### [serverless-python-requirements](https://github.com/UnitedIncome/serverless-python-requirements)
 
+#### Cannot create individually packaged lambdas, only a "fat" zip
+
+One cannot seem to package the lambdas individually, which means all the lambdas share the same deployment package (and libraries)
+which may lead to overhead (especially with zipped requirements).
+
 #### Zipping requirements leads to much longer cold-start times
 
 The plugin offers the option for zipping the requirements, which is nice when the dependencies are quite large 
