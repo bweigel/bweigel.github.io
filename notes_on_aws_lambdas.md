@@ -1,4 +1,13 @@
-# AWS Lambda - Notes
+AWS Lambda - Notes
+---------------------
+
+# Serverless 
+
+## Where to define IAM Roles for Lambdas?
+
+1. Let serverless take care of it
+2. Define your role `serverless.yml`  and attach managed policies
+3. define your role and policy inside the `serverless.yml`
 
 ## Serverless Plugins
 
