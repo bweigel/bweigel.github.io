@@ -17,6 +17,7 @@ AWS Lambda - Notes
 
 One cannot seem to package the lambdas individually, which means all the lambdas share the same deployment package (and libraries)
 which may lead to overhead (especially with zipped requirements).
+Also this *may prevent deployment of individual functions* using `sls deploy function -f <function-name>`. This seems to be due to different hard restrictions when using CF (~250MB unzipped lambda code) as compared to just updating function code (~60MB; the stack does not neeed to be updated here).
 
 #### Zipping requirements leads to much longer cold-start times
 
@@ -39,3 +40,4 @@ except ImportError:
 This adds a **substantial** amount (up to 10 seconds) of warm-up time (the first time a lambda instance is started).
 If multiple lambdas are deployed and only one of the functions needs the large dependency package (but the others need some other smaller dependency)
 all the lambdas potentially suffer from this overhead.
+
