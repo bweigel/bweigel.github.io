@@ -41,3 +41,13 @@ This adds a **substantial** amount (up to 10 seconds) of warm-up time (the first
 If multiple lambdas are deployed and only one of the functions needs the large dependency package (but the others need some other smaller dependency)
 all the lambdas potentially suffer from this overhead.
 
+#### Can you combat long cold-start times with warming-up your lambdas?
+
+Sometimes AWS lambdas behave strangely and might have a delay before processing your data. This becomes apparent if it is user facing (i.e. an API-Gateway integrated to talk to your lambda which should respond to the user). 
+Why are lambdas sometimes slow? The first time a lambda is triggered a container instance is started behind the scenes and your code is pre-loaded for execution. After this initial "warm up"-phase the lambda becomes productive member of your cloud infrastructure. Things that impact your lambda warm-up time:
+- the runtime environment 
+  - NodeJS and Python are usually quicker than JVM or .NET)
+- the amount of code deployed 
+  - more dependencies means we need more time to load them
+  - the need to unzip a `.requirements.zip` as described above is especially time consuming
+-
