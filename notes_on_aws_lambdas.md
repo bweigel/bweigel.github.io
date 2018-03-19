@@ -19,6 +19,8 @@ One cannot seem to package the lambdas individually, which means all the lambdas
 which may lead to overhead (especially with zipped requirements).
 Also this *may prevent deployment of individual functions* using `sls deploy function -f <function-name>`. This seems to be due to different hard restrictions when using CF (~250MB unzipped lambda code) as compared to just updating function code (~60MB; the stack does not neeed to be updated here).
 
+**Update 27.02.18** It seems like individual packaging is possible now (as of [PR 131](https://github.com/UnitedIncome/serverless-python-requirements/pull/131)). Still have to verify if each usecase is covered.
+
 #### Zipping requirements leads to much longer cold-start times
 
 The plugin offers the option for zipping the requirements, which is nice when the dependencies are quite large 
@@ -50,4 +52,4 @@ Why are lambdas sometimes slow? The first time a lambda is triggered a container
 - the amount of code deployed 
   - more dependencies means we need more time to load them
   - the need to unzip a `.requirements.zip` as described above is especially time consuming
--
+
