@@ -60,7 +60,7 @@ data_train, data_test, labels_train, labels_test = train_test_split(
 vectorizer = TfidfVectorizer(sublinear_tf=True, max_df=0.5)
 vectorizer.fit(data_train)
 # save fitted vectorizer
-joblib.dump(vectorizer, './models/tdidf_vectorizer.pkl')
+joblib.dump(vectorizer, './models/tfidf_vectorizer.pkl')
 ```
 
 After obtaining our vectors we can train the Naive-Bayes classifer and serialize it to disk:
@@ -85,12 +85,12 @@ print (accuracy_score(labels_test, predictions))
 > 0.9032258064516129
 ```
 
-You should now have two files (`tdidf_vectorizer.pkl` and `naive_bayes_clf.pkl`) that correspond to the preproccessor and prediction models, respectively. To see, if they still work together you can try loading the models from disk and predicting some result:
+You should now have two files (`tfidf_vectorizer.pkl` and `naive_bayes_clf.pkl`) that correspond to the preproccessor and prediction models, respectively. To see, if they still work together you can try loading the models from disk and predicting some result:
 
 ```python
 import numpy as np
 
-service_vectorizer = joblib.load('./models/tdidf_vectorizer.pkl')
+service_vectorizer = joblib.load('./models/tfidf_vectorizer.pkl')
 service_classifier = joblib.load('./models/naive_bayes_clf.pkl')    
 
 _texts = ["you know it is urgent and free"]
@@ -111,11 +111,11 @@ To deploy your models type:
 ```bash
 $ aws s3 cp --recursive models s3://<your_bucket_name>/models/
 upload: models/naive_bayes_clf.pkl to s3://<your_bucket_name>/models/naive_bayes_clf.pkl
-upload: models/tdidf_vectorizer.pkl to s3://<your_bucket_name>/models/tdidf_vectorizer.pkl
+upload: models/tfidf_vectorizer.pkl to s3://<your_bucket_name>/models/tfidf_vectorizer.pkl
 ```
 To check if it's all there type `aws s3 ls <your_bucket_name>/models/`. This lists the model files on S3. 
 
-This concludes the first part. In this part we have:
+**TL;DR** This concludes the first part. In this part we have:
 - trained a TF-IDF vectorizer
 - trained a gaussian naive bayes classifier
 - used `joblib.dump()` to persist both models to disk
@@ -125,48 +125,163 @@ This concludes the first part. In this part we have:
 
 ## Building & deploying the service
 
-Now that we have a serialized model we need a service that takes this model and uses it to call the models `predict()`-method on our input data. Furthermore, we need a way to tell our service what the input data is.
-We will use AWS Lambda to take care of the first part (calling `model.predict(X)` given some input `X`) and let AWS ApiGateway handle the passing of the input data, which our users will supply via a `POST`-method to our ApiGateway endpoint.
+Now that we have a serialized model we need a service that takes this model and uses it to call the models `predict()`-method 
+on our input data. Furthermore, we need a way to tell our service what the input data is.
+We will use AWS Lambda to take care of the first part (calling `model.predict(X)` given some input `X`) and let AWS ApiGateway 
+handle the passing of the input data, which our users will supply via a `POST`-method to our ApiGateway endpoint.
+The body shall contain the payload that we want to classify as raw text.
 
-**main.py**
+The function code is shown below.
+
+**main.py**:
 ```python
+import ...
+
 def get_model():
-    ... S3 | dynamoDB
-    return model
+    ... 
+    return vectorizer, classifier
         
 MODEL = get_model()
 
-def get_input_data_from_event(event):
+def predict(data):
     ...
-    return data
-    
-def predict_from_event(event):
-    data = get_input_data_from_event(event)
-    return MODEL.predict(data)
-     
+    return prediction
 
-def create_response(result):
-    return {"body": result,
-            "statusCode": 200,                
-            "isBase64Encoded": False}
-                       
 def lambda_handler(event, context):
-    result = predict_from_event(event)
-    return create_response(result)
+    data = event["body"]
+    result = predict(data)
+    return {
+            "body": json.dumps(result),
+            "statusCode": 200
+            }
 ```
 
-### Fetching the model from S3
+We will need three methods: 
+ - the entry point of our lambda, `lambda_handler(event, context)`
+ - one method to retrieve our model from S3, `get_model()`
+ - and one method to carry out the prediction, `predict(data)`
 
-TODO
+When we call the API via ApiGateway, AWS will do its magic and pass our client request into our entrypoint, the `lambda_handler`.
+The `event` object will contain the request, which will look something like this:
 
-### Extracting the input data from ApiGateway proxy event
+```json
+{
+  "body": "Am I spam or am I ham?",
+  
+  "resource": "/spamorham",
+  "requestContext": {
+    "resourceId": "123456",
+    "apiId": "1234567890",
+    "resourcePath": "/spamorham",
+    "httpMethod": "POST",
+    "requestId": "c6af9ac6-7b61-11e6-9a41-93e8deadbeef",
+    "accountId": "123456789012",
+    "identity": {
+      ...
+    },
+    "stage": "prod"
+  },
+  "queryStringParameters": {
+    "foo": "bar"
+  },
+  "headers": ...,
+  "pathParameters": ...,
+  "httpMethod": "POST",
+  "stageVariables": ...,
+  "path": "/spamorham"
+}
+```
+There is a lot of information here about the request context, headers, querystring parameters etc.
+However, we are only interested in the `body`, which contains the payload to be classified (i.e. "Am I spam or am I ham?")
 
-TODO
+To predict something from that payload, we need our model which is curently stored in S3 (see [above](https://github.com/bweigel/bweigel.github.io/blob/master/deploying_a_ml_service_to_aws_lambda.md#deploying-serialized-preprocessor--classifier)).
 
-### Predicting a result
+#### Fetching the model from S3
 
-TODO
+Retrieving the model (vectorizer & classifier) from S3 is fairly straight forward using the [boto3] api.
+We load the model into memory using a `BytesIO()`-fileobject, which is subsequently deserialized using `joblib.load(...)`.
+This way we avoid IO (writing to disk and loading from disk again), because:
+> The fastest I/O is no I/O. <br>&emsp;- *Nils-Peter Nelson*
 
+```python
+def get_model():
+    model_bucket = "mybucket"
+    s3 = boto3.resource("s3").Bucket(model_bucket)
+    
+    with BytesIO() as vec:
+        s3.download_fileobj(Key="models/tfidf_vectorizer.pkl", Fileobj=vec)
+        vectorizer = joblib.load(vec)
+
+    with BytesIO() as clas:
+        s3.download_fileobj(Key="models/naive_bayes_clf.pkl", Fileobj=clas)
+        classifier = joblib.load(clas)
+
+    return vectorizer, classifier
+```
+
+The method returns a tuple, which contains the vectorizer as the first element and the classifier as the second.
+
+Notice above, we retrieve the model during module initialization and assign it to the global variable `MODEL`.
+We do this to optimize performance (see https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html). 
+Globally defined variables are only initialized once during the startup of the container instance and thus we only have to retrieve the model from S3 once
+and can serve subsequent requests much quicker.
+
+Now that we have our model and the payload, we are ready to predict.
+
+#### Predicting a result
+
+We cannot predict a result from a mere string. Our TF-IDF vectorizer expects an array to do its magic.
+See below for how it's done.
+
+```python
+def predict(data):
+    if isinstance(data, str):
+        data = [data]
+    
+    text_array = np.array(data)
+    vector = MODEL[0].transform(text_array).toarray()
+    prediction = MODEL[1].predict(vector)
+    return prediction.tolist()
+```
+
+We convert our string to an element of an array. This is done by wrapping the string in a list
+and converting this to a numpy array `text_array`.
+A prediction is executed by transforming the `text_array` into a vector using our TF-IDF vectorizer
+
+```python
+vector = MODEL[0].transform(text_array).toarray()
+```
+We can use this vector with our naive bayes classifier to predict if our text was ham or mere spam.
+
+```python
+prediction = MODEL[1].predict(vector)
+```
+
+Lastly we return a list containing our result.
+ 
 ### Unsing the result to create a valid proxy response
 
-TODO
+Last but not least we need to return something from our lambda code. For the ApiGateway to understand
+what we return it must obey a specific [format](https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-lambda-proxy-integrations.html),
+otherwise ApiGateway will respond with a `502 Bad Gateway` to the client. 
+
+Here, our lambda returns the following
+
+```json
+{
+"body": json.dumps(result),
+"statusCode": 200
+}
+```
+
+telling the client we have an `200 OK` statuscode and returning the stringified result.
+
+Now there is nothing left, but test our new API:
+
+![](./resources/spam_or_ham.png)
+
+![](./resources/spam_or_ham_response.png)
+
+Cool. Everything works as expected. I hope this was helpful.
+
+[boto3]: https://boto3.readthedocs.io/en/latest/index.html
