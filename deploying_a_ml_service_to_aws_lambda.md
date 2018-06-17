@@ -259,7 +259,7 @@ prediction = MODEL[1].predict(vector)
 
 Lastly we return a list containing our result.
  
-### Unsing the result to create a valid proxy response
+#### Unsing the result to create a valid proxy response
 
 Last but not least we need to return something from our lambda code. For the ApiGateway to understand
 what we return it must obey a specific [format](https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-lambda-proxy-integrations.html),
@@ -275,6 +275,11 @@ Here, our lambda returns the following
 ```
 
 telling the client we have an `200 OK` statuscode and returning the stringified result.
+
+
+### Deploying the service using serverless ...
+
+TODO
 
 Now there is nothing left, but test our new API:
 
