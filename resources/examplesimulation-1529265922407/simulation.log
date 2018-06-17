@@ -1,0 +1,1801 @@
+RUN	ExampleSimulation		examplesimulation	1529265922407	 	2.0
+USER	Slim Categorization Coldstart-scenario	1	START	1529265922962	1529265922962
+USER	Slim Categorization Coldstart-scenario	2	START	1529265923009	1529265923009
+USER	Slim Categorization Coldstart-scenario	3	START	1529265923010	1529265923010
+USER	Slim Categorization Coldstart-scenario	4	START	1529265923011	1529265923011
+USER	Slim Categorization Coldstart-scenario	5	START	1529265923012	1529265923012
+USER	Slim Categorization Coldstart-scenario	6	START	1529265923013	1529265923013
+USER	Slim Categorization Coldstart-scenario	7	START	1529265923014	1529265923014
+USER	Slim Categorization Coldstart-scenario	8	START	1529265923015	1529265923015
+USER	Slim Categorization Coldstart-scenario	9	START	1529265923018	1529265923018
+USER	Slim Categorization Coldstart-scenario	10	START	1529265923019	1529265923019
+USER	Slim Categorization Coldstart-scenario	11	START	1529265923020	1529265923020
+USER	Slim Categorization Coldstart-scenario	12	START	1529265923020	1529265923020
+USER	Slim Categorization Coldstart-scenario	13	START	1529265923021	1529265923021
+USER	Slim Categorization Coldstart-scenario	14	START	1529265923023	1529265923023
+USER	Slim Categorization Coldstart-scenario	15	START	1529265923024	1529265923024
+USER	Slim Categorization Coldstart-scenario	16	START	1529265923028	1529265923028
+USER	Slim Categorization Coldstart-scenario	17	START	1529265923029	1529265923029
+USER	Slim Categorization Coldstart-scenario	18	START	1529265923030	1529265923030
+USER	Slim Categorization Coldstart-scenario	19	START	1529265923032	1529265923032
+USER	Slim Categorization Coldstart-scenario	20	START	1529265923033	1529265923033
+USER	Slim Categorization Coldstart-scenario	21	START	1529265923034	1529265923034
+USER	Slim Categorization Coldstart-scenario	22	START	1529265923039	1529265923039
+USER	Slim Categorization Coldstart-scenario	23	START	1529265923051	1529265923051
+USER	Slim Categorization Coldstart-scenario	24	START	1529265923059	1529265923059
+USER	Slim Categorization Coldstart-scenario	25	START	1529265923062	1529265923062
+USER	Slim Categorization Coldstart-scenario	26	START	1529265923063	1529265923063
+USER	Slim Categorization Coldstart-scenario	27	START	1529265923064	1529265923064
+USER	Slim Categorization Coldstart-scenario	28	START	1529265923075	1529265923075
+USER	Slim Categorization Coldstart-scenario	29	START	1529265923076	1529265923076
+USER	Slim Categorization Coldstart-scenario	30	START	1529265923077	1529265923077
+USER	Slim Categorization Coldstart-scenario	31	START	1529265923078	1529265923078
+USER	Slim Categorization Coldstart-scenario	32	START	1529265923079	1529265923079
+USER	Slim Categorization Coldstart-scenario	33	START	1529265923080	1529265923080
+USER	Slim Categorization Coldstart-scenario	34	START	1529265923080	1529265923080
+USER	Slim Categorization Coldstart-scenario	35	START	1529265923081	1529265923081
+USER	Slim Categorization Coldstart-scenario	36	START	1529265923082	1529265923082
+USER	Slim Categorization Coldstart-scenario	37	START	1529265923082	1529265923082
+USER	Slim Categorization Coldstart-scenario	38	START	1529265923083	1529265923083
+USER	Slim Categorization Coldstart-scenario	39	START	1529265923084	1529265923084
+USER	Slim Categorization Coldstart-scenario	40	START	1529265923085	1529265923085
+USER	Slim Categorization Coldstart-scenario	41	START	1529265923086	1529265923086
+USER	Slim Categorization Coldstart-scenario	42	START	1529265923087	1529265923087
+USER	Slim Categorization Coldstart-scenario	43	START	1529265923088	1529265923088
+USER	Slim Categorization Coldstart-scenario	44	START	1529265923089	1529265923089
+USER	Slim Categorization Coldstart-scenario	45	START	1529265923090	1529265923090
+USER	Slim Categorization Coldstart-scenario	46	START	1529265923090	1529265923090
+USER	Slim Categorization Coldstart-scenario	47	START	1529265923091	1529265923091
+USER	Slim Categorization Coldstart-scenario	48	START	1529265923091	1529265923091
+USER	Slim Categorization Coldstart-scenario	49	START	1529265923092	1529265923092
+USER	Slim Categorization Coldstart-scenario	50	START	1529265923092	1529265923092
+USER	Slim Categorization Coldstart-scenario	51	START	1529265923093	1529265923093
+USER	Slim Categorization Coldstart-scenario	52	START	1529265923093	1529265923093
+USER	Slim Categorization Coldstart-scenario	53	START	1529265923094	1529265923094
+USER	Slim Categorization Coldstart-scenario	54	START	1529265923094	1529265923094
+USER	Slim Categorization Coldstart-scenario	55	START	1529265923095	1529265923095
+USER	Slim Categorization Coldstart-scenario	56	START	1529265923095	1529265923095
+USER	Slim Categorization Coldstart-scenario	57	START	1529265923096	1529265923096
+USER	Slim Categorization Coldstart-scenario	58	START	1529265923096	1529265923096
+USER	Slim Categorization Coldstart-scenario	59	START	1529265923097	1529265923097
+USER	Slim Categorization Coldstart-scenario	60	START	1529265923097	1529265923097
+USER	Slim Categorization Coldstart-scenario	61	START	1529265923098	1529265923098
+USER	Slim Categorization Coldstart-scenario	62	START	1529265923098	1529265923098
+USER	Slim Categorization Coldstart-scenario	63	START	1529265923099	1529265923099
+USER	Slim Categorization Coldstart-scenario	64	START	1529265923099	1529265923099
+USER	Slim Categorization Coldstart-scenario	65	START	1529265923100	1529265923100
+USER	Slim Categorization Coldstart-scenario	66	START	1529265923100	1529265923100
+USER	Slim Categorization Coldstart-scenario	67	START	1529265923101	1529265923101
+USER	Slim Categorization Coldstart-scenario	68	START	1529265923101	1529265923101
+USER	Slim Categorization Coldstart-scenario	69	START	1529265923102	1529265923102
+USER	Slim Categorization Coldstart-scenario	70	START	1529265923102	1529265923102
+USER	Slim Categorization Coldstart-scenario	71	START	1529265923103	1529265923103
+USER	Slim Categorization Coldstart-scenario	72	START	1529265923103	1529265923103
+USER	Slim Categorization Coldstart-scenario	73	START	1529265923104	1529265923104
+USER	Slim Categorization Coldstart-scenario	74	START	1529265923104	1529265923104
+USER	Slim Categorization Coldstart-scenario	75	START	1529265923105	1529265923105
+USER	Slim Categorization Coldstart-scenario	76	START	1529265923105	1529265923105
+USER	Slim Categorization Coldstart-scenario	77	START	1529265923106	1529265923106
+USER	Slim Categorization Coldstart-scenario	78	START	1529265923106	1529265923106
+USER	Slim Categorization Coldstart-scenario	79	START	1529265923107	1529265923107
+USER	Slim Categorization Coldstart-scenario	80	START	1529265923107	1529265923107
+USER	Slim Categorization Coldstart-scenario	81	START	1529265923108	1529265923108
+USER	Slim Categorization Coldstart-scenario	82	START	1529265923108	1529265923108
+USER	Slim Categorization Coldstart-scenario	83	START	1529265923109	1529265923109
+USER	Slim Categorization Coldstart-scenario	84	START	1529265923109	1529265923109
+USER	Slim Categorization Coldstart-scenario	85	START	1529265923109	1529265923109
+USER	Slim Categorization Coldstart-scenario	86	START	1529265923110	1529265923110
+USER	Slim Categorization Coldstart-scenario	87	START	1529265923111	1529265923111
+USER	Slim Categorization Coldstart-scenario	88	START	1529265923111	1529265923111
+USER	Slim Categorization Coldstart-scenario	89	START	1529265923111	1529265923111
+USER	Slim Categorization Coldstart-scenario	90	START	1529265923112	1529265923112
+USER	Slim Categorization Coldstart-scenario	91	START	1529265923112	1529265923112
+USER	Slim Categorization Coldstart-scenario	92	START	1529265923113	1529265923113
+USER	Slim Categorization Coldstart-scenario	93	START	1529265923113	1529265923113
+USER	Slim Categorization Coldstart-scenario	94	START	1529265923114	1529265923114
+USER	Slim Categorization Coldstart-scenario	95	START	1529265923138	1529265923138
+USER	Slim Categorization Coldstart-scenario	96	START	1529265923139	1529265923139
+USER	Slim Categorization Coldstart-scenario	97	START	1529265923139	1529265923139
+USER	Slim Categorization Coldstart-scenario	98	START	1529265923140	1529265923140
+USER	Slim Categorization Coldstart-scenario	99	START	1529265923140	1529265923140
+USER	Slim Categorization Coldstart-scenario	100	START	1529265923141	1529265923141
+USER	Slim Categorization Coldstart-scenario	101	START	1529265923142	1529265923142
+USER	Slim Categorization Coldstart-scenario	102	START	1529265923142	1529265923142
+USER	Slim Categorization Coldstart-scenario	103	START	1529265923143	1529265923143
+USER	Slim Categorization Coldstart-scenario	104	START	1529265923143	1529265923143
+USER	Slim Categorization Coldstart-scenario	105	START	1529265923143	1529265923143
+USER	Slim Categorization Coldstart-scenario	106	START	1529265923144	1529265923144
+USER	Slim Categorization Coldstart-scenario	107	START	1529265923145	1529265923145
+USER	Slim Categorization Coldstart-scenario	108	START	1529265923145	1529265923145
+USER	Slim Categorization Coldstart-scenario	109	START	1529265923146	1529265923146
+USER	Slim Categorization Coldstart-scenario	110	START	1529265923146	1529265923146
+USER	Slim Categorization Coldstart-scenario	111	START	1529265923147	1529265923147
+USER	Slim Categorization Coldstart-scenario	112	START	1529265923147	1529265923147
+USER	Slim Categorization Coldstart-scenario	113	START	1529265923148	1529265923148
+USER	Slim Categorization Coldstart-scenario	114	START	1529265923149	1529265923149
+USER	Slim Categorization Coldstart-scenario	115	START	1529265923149	1529265923149
+USER	Slim Categorization Coldstart-scenario	116	START	1529265923150	1529265923150
+USER	Slim Categorization Coldstart-scenario	117	START	1529265923151	1529265923151
+USER	Slim Categorization Coldstart-scenario	118	START	1529265923151	1529265923151
+USER	Slim Categorization Coldstart-scenario	119	START	1529265923152	1529265923152
+USER	Slim Categorization Coldstart-scenario	120	START	1529265923152	1529265923152
+USER	Slim Categorization Coldstart-scenario	121	START	1529265923153	1529265923153
+USER	Slim Categorization Coldstart-scenario	122	START	1529265923153	1529265923153
+USER	Slim Categorization Coldstart-scenario	123	START	1529265923154	1529265923154
+USER	Slim Categorization Coldstart-scenario	124	START	1529265923154	1529265923154
+USER	Slim Categorization Coldstart-scenario	125	START	1529265923155	1529265923155
+USER	Slim Categorization Coldstart-scenario	126	START	1529265923155	1529265923155
+USER	Slim Categorization Coldstart-scenario	127	START	1529265923156	1529265923156
+USER	Slim Categorization Coldstart-scenario	128	START	1529265923157	1529265923157
+USER	Slim Categorization Coldstart-scenario	129	START	1529265923158	1529265923158
+USER	Slim Categorization Coldstart-scenario	130	START	1529265923158	1529265923158
+USER	Slim Categorization Coldstart-scenario	131	START	1529265923158	1529265923158
+USER	Slim Categorization Coldstart-scenario	132	START	1529265923159	1529265923159
+USER	Slim Categorization Coldstart-scenario	133	START	1529265923159	1529265923159
+USER	Slim Categorization Coldstart-scenario	134	START	1529265923164	1529265923164
+USER	Slim Categorization Coldstart-scenario	135	START	1529265923165	1529265923165
+USER	Slim Categorization Coldstart-scenario	136	START	1529265923165	1529265923165
+USER	Slim Categorization Coldstart-scenario	137	START	1529265923165	1529265923165
+USER	Slim Categorization Coldstart-scenario	138	START	1529265923166	1529265923166
+USER	Slim Categorization Coldstart-scenario	139	START	1529265923167	1529265923167
+USER	Slim Categorization Coldstart-scenario	140	START	1529265923168	1529265923168
+USER	Slim Categorization Coldstart-scenario	141	START	1529265923169	1529265923169
+USER	Slim Categorization Coldstart-scenario	142	START	1529265923169	1529265923169
+USER	Slim Categorization Coldstart-scenario	143	START	1529265923170	1529265923170
+USER	Slim Categorization Coldstart-scenario	144	START	1529265923170	1529265923170
+USER	Slim Categorization Coldstart-scenario	145	START	1529265923171	1529265923171
+USER	Slim Categorization Coldstart-scenario	146	START	1529265923171	1529265923171
+USER	Slim Categorization Coldstart-scenario	147	START	1529265923172	1529265923172
+USER	Slim Categorization Coldstart-scenario	148	START	1529265923172	1529265923172
+USER	Slim Categorization Coldstart-scenario	149	START	1529265923172	1529265923172
+USER	Slim Categorization Coldstart-scenario	150	START	1529265923173	1529265923173
+USER	Slim Categorization Coldstart-scenario	151	START	1529265923173	1529265923173
+USER	Slim Categorization Coldstart-scenario	152	START	1529265923174	1529265923174
+USER	Slim Categorization Coldstart-scenario	153	START	1529265923174	1529265923174
+USER	Slim Categorization Coldstart-scenario	154	START	1529265923174	1529265923174
+USER	Slim Categorization Coldstart-scenario	155	START	1529265923175	1529265923175
+USER	Slim Categorization Coldstart-scenario	156	START	1529265923175	1529265923175
+USER	Slim Categorization Coldstart-scenario	157	START	1529265923176	1529265923176
+USER	Slim Categorization Coldstart-scenario	158	START	1529265923176	1529265923176
+USER	Slim Categorization Coldstart-scenario	159	START	1529265923177	1529265923177
+USER	Slim Categorization Coldstart-scenario	160	START	1529265923177	1529265923177
+USER	Slim Categorization Coldstart-scenario	161	START	1529265923178	1529265923178
+USER	Slim Categorization Coldstart-scenario	162	START	1529265923178	1529265923178
+USER	Slim Categorization Coldstart-scenario	163	START	1529265923179	1529265923179
+USER	Slim Categorization Coldstart-scenario	164	START	1529265923179	1529265923179
+USER	Slim Categorization Coldstart-scenario	165	START	1529265923180	1529265923180
+USER	Slim Categorization Coldstart-scenario	166	START	1529265923180	1529265923180
+USER	Slim Categorization Coldstart-scenario	167	START	1529265923180	1529265923180
+USER	Slim Categorization Coldstart-scenario	168	START	1529265923181	1529265923181
+USER	Slim Categorization Coldstart-scenario	169	START	1529265923181	1529265923181
+USER	Slim Categorization Coldstart-scenario	170	START	1529265923182	1529265923182
+USER	Slim Categorization Coldstart-scenario	171	START	1529265923182	1529265923182
+USER	Slim Categorization Coldstart-scenario	172	START	1529265923186	1529265923186
+USER	Slim Categorization Coldstart-scenario	173	START	1529265923187	1529265923187
+USER	Slim Categorization Coldstart-scenario	174	START	1529265923187	1529265923187
+USER	Slim Categorization Coldstart-scenario	175	START	1529265923188	1529265923188
+USER	Slim Categorization Coldstart-scenario	176	START	1529265923188	1529265923188
+USER	Slim Categorization Coldstart-scenario	177	START	1529265923188	1529265923188
+USER	Slim Categorization Coldstart-scenario	178	START	1529265923189	1529265923189
+USER	Slim Categorization Coldstart-scenario	179	START	1529265923189	1529265923189
+USER	Slim Categorization Coldstart-scenario	180	START	1529265923190	1529265923190
+USER	Slim Categorization Coldstart-scenario	181	START	1529265923190	1529265923190
+USER	Slim Categorization Coldstart-scenario	182	START	1529265923190	1529265923190
+USER	Slim Categorization Coldstart-scenario	183	START	1529265923191	1529265923191
+USER	Slim Categorization Coldstart-scenario	184	START	1529265923191	1529265923191
+USER	Slim Categorization Coldstart-scenario	185	START	1529265923192	1529265923192
+USER	Slim Categorization Coldstart-scenario	186	START	1529265923192	1529265923192
+USER	Slim Categorization Coldstart-scenario	187	START	1529265923192	1529265923192
+USER	Slim Categorization Coldstart-scenario	188	START	1529265923193	1529265923193
+USER	Slim Categorization Coldstart-scenario	189	START	1529265923193	1529265923193
+USER	Slim Categorization Coldstart-scenario	190	START	1529265923194	1529265923194
+USER	Slim Categorization Coldstart-scenario	191	START	1529265923194	1529265923194
+USER	Slim Categorization Coldstart-scenario	192	START	1529265923195	1529265923195
+USER	Slim Categorization Coldstart-scenario	193	START	1529265923195	1529265923195
+USER	Slim Categorization Coldstart-scenario	194	START	1529265923195	1529265923195
+USER	Slim Categorization Coldstart-scenario	195	START	1529265923196	1529265923196
+USER	Slim Categorization Coldstart-scenario	196	START	1529265923196	1529265923196
+USER	Slim Categorization Coldstart-scenario	197	START	1529265923196	1529265923196
+USER	Slim Categorization Coldstart-scenario	198	START	1529265923197	1529265923197
+USER	Slim Categorization Coldstart-scenario	199	START	1529265923197	1529265923197
+USER	Slim Categorization Coldstart-scenario	200	START	1529265923198	1529265923198
+USER	Fat Categorization Coldstart-scenario	201	START	1529265923198	1529265923198
+USER	Fat Categorization Coldstart-scenario	202	START	1529265923269	1529265923269
+USER	Fat Categorization Coldstart-scenario	203	START	1529265923270	1529265923270
+USER	Fat Categorization Coldstart-scenario	204	START	1529265923271	1529265923271
+USER	Fat Categorization Coldstart-scenario	205	START	1529265923272	1529265923272
+USER	Fat Categorization Coldstart-scenario	206	START	1529265923273	1529265923273
+USER	Fat Categorization Coldstart-scenario	207	START	1529265923276	1529265923276
+USER	Fat Categorization Coldstart-scenario	208	START	1529265923277	1529265923277
+USER	Fat Categorization Coldstart-scenario	209	START	1529265923277	1529265923277
+USER	Fat Categorization Coldstart-scenario	210	START	1529265923278	1529265923278
+USER	Fat Categorization Coldstart-scenario	211	START	1529265923279	1529265923279
+USER	Fat Categorization Coldstart-scenario	212	START	1529265923279	1529265923279
+USER	Fat Categorization Coldstart-scenario	213	START	1529265923280	1529265923280
+USER	Fat Categorization Coldstart-scenario	214	START	1529265923280	1529265923280
+USER	Fat Categorization Coldstart-scenario	215	START	1529265923280	1529265923280
+USER	Fat Categorization Coldstart-scenario	216	START	1529265923281	1529265923281
+USER	Fat Categorization Coldstart-scenario	217	START	1529265923281	1529265923281
+USER	Fat Categorization Coldstart-scenario	218	START	1529265923282	1529265923282
+USER	Fat Categorization Coldstart-scenario	219	START	1529265923282	1529265923282
+USER	Fat Categorization Coldstart-scenario	220	START	1529265923283	1529265923283
+USER	Fat Categorization Coldstart-scenario	221	START	1529265923283	1529265923283
+USER	Fat Categorization Coldstart-scenario	222	START	1529265923284	1529265923284
+USER	Fat Categorization Coldstart-scenario	223	START	1529265923284	1529265923284
+USER	Fat Categorization Coldstart-scenario	224	START	1529265923284	1529265923284
+USER	Fat Categorization Coldstart-scenario	225	START	1529265923285	1529265923285
+USER	Fat Categorization Coldstart-scenario	226	START	1529265923285	1529265923285
+USER	Fat Categorization Coldstart-scenario	227	START	1529265923303	1529265923303
+USER	Fat Categorization Coldstart-scenario	228	START	1529265923303	1529265923303
+USER	Fat Categorization Coldstart-scenario	229	START	1529265923304	1529265923304
+USER	Fat Categorization Coldstart-scenario	230	START	1529265923304	1529265923304
+USER	Fat Categorization Coldstart-scenario	231	START	1529265923305	1529265923305
+USER	Fat Categorization Coldstart-scenario	232	START	1529265923305	1529265923305
+USER	Fat Categorization Coldstart-scenario	233	START	1529265923305	1529265923305
+USER	Fat Categorization Coldstart-scenario	234	START	1529265923306	1529265923306
+USER	Fat Categorization Coldstart-scenario	235	START	1529265923306	1529265923306
+USER	Fat Categorization Coldstart-scenario	236	START	1529265923306	1529265923306
+USER	Fat Categorization Coldstart-scenario	237	START	1529265923307	1529265923307
+USER	Fat Categorization Coldstart-scenario	238	START	1529265923307	1529265923307
+USER	Fat Categorization Coldstart-scenario	239	START	1529265923308	1529265923308
+USER	Fat Categorization Coldstart-scenario	240	START	1529265923308	1529265923308
+USER	Fat Categorization Coldstart-scenario	241	START	1529265923308	1529265923308
+USER	Fat Categorization Coldstart-scenario	242	START	1529265923308	1529265923308
+USER	Fat Categorization Coldstart-scenario	243	START	1529265923309	1529265923309
+USER	Fat Categorization Coldstart-scenario	244	START	1529265923309	1529265923309
+USER	Fat Categorization Coldstart-scenario	245	START	1529265923309	1529265923309
+USER	Fat Categorization Coldstart-scenario	246	START	1529265923310	1529265923310
+USER	Fat Categorization Coldstart-scenario	247	START	1529265923310	1529265923310
+USER	Fat Categorization Coldstart-scenario	248	START	1529265923310	1529265923310
+USER	Fat Categorization Coldstart-scenario	249	START	1529265923311	1529265923311
+USER	Fat Categorization Coldstart-scenario	250	START	1529265923311	1529265923311
+USER	Fat Categorization Coldstart-scenario	251	START	1529265923312	1529265923312
+USER	Fat Categorization Coldstart-scenario	252	START	1529265923312	1529265923312
+USER	Fat Categorization Coldstart-scenario	253	START	1529265923312	1529265923312
+USER	Fat Categorization Coldstart-scenario	254	START	1529265923313	1529265923313
+USER	Fat Categorization Coldstart-scenario	255	START	1529265923314	1529265923314
+USER	Fat Categorization Coldstart-scenario	256	START	1529265923315	1529265923315
+USER	Fat Categorization Coldstart-scenario	257	START	1529265923316	1529265923316
+USER	Fat Categorization Coldstart-scenario	258	START	1529265923316	1529265923316
+USER	Fat Categorization Coldstart-scenario	259	START	1529265923317	1529265923317
+USER	Fat Categorization Coldstart-scenario	260	START	1529265923317	1529265923317
+USER	Fat Categorization Coldstart-scenario	261	START	1529265923318	1529265923318
+USER	Fat Categorization Coldstart-scenario	262	START	1529265923318	1529265923318
+USER	Fat Categorization Coldstart-scenario	263	START	1529265923319	1529265923319
+USER	Fat Categorization Coldstart-scenario	264	START	1529265923319	1529265923319
+USER	Fat Categorization Coldstart-scenario	265	START	1529265923320	1529265923320
+USER	Fat Categorization Coldstart-scenario	266	START	1529265923320	1529265923320
+USER	Fat Categorization Coldstart-scenario	267	START	1529265923320	1529265923320
+USER	Fat Categorization Coldstart-scenario	268	START	1529265923320	1529265923320
+USER	Fat Categorization Coldstart-scenario	269	START	1529265923321	1529265923321
+USER	Fat Categorization Coldstart-scenario	270	START	1529265923321	1529265923321
+USER	Fat Categorization Coldstart-scenario	271	START	1529265923322	1529265923322
+USER	Fat Categorization Coldstart-scenario	272	START	1529265923322	1529265923322
+USER	Fat Categorization Coldstart-scenario	273	START	1529265923325	1529265923325
+USER	Fat Categorization Coldstart-scenario	274	START	1529265923326	1529265923326
+USER	Fat Categorization Coldstart-scenario	275	START	1529265923326	1529265923326
+USER	Fat Categorization Coldstart-scenario	276	START	1529265923327	1529265923327
+USER	Fat Categorization Coldstart-scenario	277	START	1529265923327	1529265923327
+USER	Fat Categorization Coldstart-scenario	278	START	1529265923327	1529265923327
+USER	Fat Categorization Coldstart-scenario	279	START	1529265923328	1529265923328
+USER	Fat Categorization Coldstart-scenario	280	START	1529265923328	1529265923328
+USER	Fat Categorization Coldstart-scenario	281	START	1529265923328	1529265923328
+USER	Fat Categorization Coldstart-scenario	282	START	1529265923329	1529265923329
+USER	Fat Categorization Coldstart-scenario	283	START	1529265923329	1529265923329
+USER	Fat Categorization Coldstart-scenario	284	START	1529265923329	1529265923329
+USER	Fat Categorization Coldstart-scenario	285	START	1529265923330	1529265923330
+USER	Fat Categorization Coldstart-scenario	286	START	1529265923330	1529265923330
+USER	Fat Categorization Coldstart-scenario	287	START	1529265923330	1529265923330
+USER	Fat Categorization Coldstart-scenario	288	START	1529265923330	1529265923330
+USER	Fat Categorization Coldstart-scenario	289	START	1529265923331	1529265923331
+USER	Fat Categorization Coldstart-scenario	290	START	1529265923331	1529265923331
+USER	Fat Categorization Coldstart-scenario	291	START	1529265923331	1529265923331
+USER	Fat Categorization Coldstart-scenario	292	START	1529265923331	1529265923331
+USER	Fat Categorization Coldstart-scenario	293	START	1529265923332	1529265923332
+USER	Fat Categorization Coldstart-scenario	294	START	1529265923332	1529265923332
+USER	Fat Categorization Coldstart-scenario	295	START	1529265923332	1529265923332
+USER	Fat Categorization Coldstart-scenario	296	START	1529265923333	1529265923333
+USER	Fat Categorization Coldstart-scenario	297	START	1529265923333	1529265923333
+USER	Fat Categorization Coldstart-scenario	298	START	1529265923333	1529265923333
+USER	Fat Categorization Coldstart-scenario	299	START	1529265923333	1529265923333
+USER	Fat Categorization Coldstart-scenario	300	START	1529265923334	1529265923334
+USER	Fat Categorization Coldstart-scenario	301	START	1529265923334	1529265923334
+USER	Fat Categorization Coldstart-scenario	302	START	1529265923334	1529265923334
+USER	Fat Categorization Coldstart-scenario	303	START	1529265923334	1529265923334
+USER	Fat Categorization Coldstart-scenario	304	START	1529265923335	1529265923335
+USER	Fat Categorization Coldstart-scenario	305	START	1529265923335	1529265923335
+USER	Fat Categorization Coldstart-scenario	306	START	1529265923336	1529265923336
+USER	Fat Categorization Coldstart-scenario	307	START	1529265923336	1529265923336
+USER	Fat Categorization Coldstart-scenario	308	START	1529265923336	1529265923336
+USER	Fat Categorization Coldstart-scenario	309	START	1529265923336	1529265923336
+USER	Fat Categorization Coldstart-scenario	310	START	1529265923337	1529265923337
+USER	Fat Categorization Coldstart-scenario	311	START	1529265923337	1529265923337
+USER	Fat Categorization Coldstart-scenario	312	START	1529265923337	1529265923337
+USER	Fat Categorization Coldstart-scenario	313	START	1529265923338	1529265923338
+USER	Fat Categorization Coldstart-scenario	314	START	1529265923338	1529265923338
+USER	Fat Categorization Coldstart-scenario	315	START	1529265923338	1529265923338
+USER	Fat Categorization Coldstart-scenario	316	START	1529265923338	1529265923338
+USER	Fat Categorization Coldstart-scenario	317	START	1529265923339	1529265923339
+USER	Fat Categorization Coldstart-scenario	318	START	1529265923339	1529265923339
+USER	Fat Categorization Coldstart-scenario	319	START	1529265923339	1529265923339
+USER	Fat Categorization Coldstart-scenario	320	START	1529265923340	1529265923340
+USER	Fat Categorization Coldstart-scenario	321	START	1529265923340	1529265923340
+USER	Fat Categorization Coldstart-scenario	322	START	1529265923340	1529265923340
+USER	Fat Categorization Coldstart-scenario	323	START	1529265923340	1529265923340
+USER	Fat Categorization Coldstart-scenario	324	START	1529265923341	1529265923341
+USER	Fat Categorization Coldstart-scenario	325	START	1529265923341	1529265923341
+USER	Fat Categorization Coldstart-scenario	326	START	1529265923341	1529265923341
+USER	Fat Categorization Coldstart-scenario	327	START	1529265923341	1529265923341
+USER	Fat Categorization Coldstart-scenario	328	START	1529265923342	1529265923342
+USER	Fat Categorization Coldstart-scenario	329	START	1529265923342	1529265923342
+USER	Fat Categorization Coldstart-scenario	330	START	1529265923342	1529265923342
+USER	Fat Categorization Coldstart-scenario	331	START	1529265923342	1529265923342
+USER	Fat Categorization Coldstart-scenario	332	START	1529265923343	1529265923343
+USER	Fat Categorization Coldstart-scenario	333	START	1529265923343	1529265923343
+USER	Fat Categorization Coldstart-scenario	334	START	1529265923343	1529265923343
+USER	Fat Categorization Coldstart-scenario	335	START	1529265923343	1529265923343
+USER	Fat Categorization Coldstart-scenario	336	START	1529265923344	1529265923344
+USER	Fat Categorization Coldstart-scenario	337	START	1529265923344	1529265923344
+USER	Fat Categorization Coldstart-scenario	338	START	1529265923344	1529265923344
+USER	Fat Categorization Coldstart-scenario	339	START	1529265923344	1529265923344
+USER	Fat Categorization Coldstart-scenario	340	START	1529265923345	1529265923345
+USER	Fat Categorization Coldstart-scenario	341	START	1529265923345	1529265923345
+USER	Fat Categorization Coldstart-scenario	342	START	1529265923345	1529265923345
+USER	Fat Categorization Coldstart-scenario	343	START	1529265923345	1529265923345
+USER	Fat Categorization Coldstart-scenario	344	START	1529265923346	1529265923346
+USER	Fat Categorization Coldstart-scenario	345	START	1529265923346	1529265923346
+USER	Fat Categorization Coldstart-scenario	346	START	1529265923346	1529265923346
+USER	Fat Categorization Coldstart-scenario	347	START	1529265923347	1529265923347
+USER	Fat Categorization Coldstart-scenario	348	START	1529265923347	1529265923347
+USER	Fat Categorization Coldstart-scenario	349	START	1529265923347	1529265923347
+USER	Fat Categorization Coldstart-scenario	350	START	1529265923347	1529265923347
+USER	Fat Categorization Coldstart-scenario	351	START	1529265923374	1529265923374
+USER	Fat Categorization Coldstart-scenario	352	START	1529265923375	1529265923375
+USER	Fat Categorization Coldstart-scenario	353	START	1529265923375	1529265923375
+USER	Fat Categorization Coldstart-scenario	354	START	1529265923375	1529265923375
+USER	Fat Categorization Coldstart-scenario	355	START	1529265923376	1529265923376
+USER	Fat Categorization Coldstart-scenario	356	START	1529265923376	1529265923376
+USER	Fat Categorization Coldstart-scenario	357	START	1529265923376	1529265923376
+USER	Fat Categorization Coldstart-scenario	358	START	1529265923376	1529265923376
+USER	Fat Categorization Coldstart-scenario	359	START	1529265923377	1529265923377
+USER	Fat Categorization Coldstart-scenario	360	START	1529265923377	1529265923377
+USER	Fat Categorization Coldstart-scenario	361	START	1529265923377	1529265923377
+USER	Fat Categorization Coldstart-scenario	362	START	1529265923378	1529265923378
+USER	Fat Categorization Coldstart-scenario	363	START	1529265923378	1529265923378
+USER	Fat Categorization Coldstart-scenario	364	START	1529265923378	1529265923378
+USER	Fat Categorization Coldstart-scenario	365	START	1529265923379	1529265923379
+USER	Fat Categorization Coldstart-scenario	366	START	1529265923379	1529265923379
+USER	Fat Categorization Coldstart-scenario	367	START	1529265923379	1529265923379
+USER	Fat Categorization Coldstart-scenario	368	START	1529265923380	1529265923380
+USER	Fat Categorization Coldstart-scenario	369	START	1529265923380	1529265923380
+USER	Fat Categorization Coldstart-scenario	370	START	1529265923380	1529265923380
+USER	Fat Categorization Coldstart-scenario	371	START	1529265923381	1529265923381
+USER	Fat Categorization Coldstart-scenario	372	START	1529265923381	1529265923381
+USER	Fat Categorization Coldstart-scenario	373	START	1529265923381	1529265923381
+USER	Fat Categorization Coldstart-scenario	374	START	1529265923382	1529265923382
+USER	Fat Categorization Coldstart-scenario	375	START	1529265923382	1529265923382
+USER	Fat Categorization Coldstart-scenario	376	START	1529265923382	1529265923382
+USER	Fat Categorization Coldstart-scenario	377	START	1529265923383	1529265923383
+USER	Fat Categorization Coldstart-scenario	378	START	1529265923383	1529265923383
+USER	Fat Categorization Coldstart-scenario	379	START	1529265923383	1529265923383
+USER	Fat Categorization Coldstart-scenario	380	START	1529265923384	1529265923384
+USER	Fat Categorization Coldstart-scenario	381	START	1529265923384	1529265923384
+USER	Fat Categorization Coldstart-scenario	382	START	1529265923384	1529265923384
+USER	Fat Categorization Coldstart-scenario	383	START	1529265923385	1529265923385
+USER	Fat Categorization Coldstart-scenario	384	START	1529265923385	1529265923385
+USER	Fat Categorization Coldstart-scenario	385	START	1529265923386	1529265923386
+USER	Fat Categorization Coldstart-scenario	386	START	1529265923386	1529265923386
+USER	Fat Categorization Coldstart-scenario	387	START	1529265923387	1529265923387
+USER	Fat Categorization Coldstart-scenario	388	START	1529265923387	1529265923387
+USER	Fat Categorization Coldstart-scenario	389	START	1529265923387	1529265923387
+USER	Fat Categorization Coldstart-scenario	390	START	1529265923388	1529265923388
+USER	Fat Categorization Coldstart-scenario	391	START	1529265923388	1529265923388
+USER	Fat Categorization Coldstart-scenario	392	START	1529265923388	1529265923388
+USER	Fat Categorization Coldstart-scenario	393	START	1529265923388	1529265923388
+USER	Fat Categorization Coldstart-scenario	394	START	1529265923389	1529265923389
+USER	Fat Categorization Coldstart-scenario	395	START	1529265923389	1529265923389
+USER	Fat Categorization Coldstart-scenario	396	START	1529265923389	1529265923389
+USER	Fat Categorization Coldstart-scenario	397	START	1529265923390	1529265923390
+USER	Fat Categorization Coldstart-scenario	398	START	1529265923390	1529265923390
+USER	Fat Categorization Coldstart-scenario	399	START	1529265923390	1529265923390
+USER	Fat Categorization Coldstart-scenario	400	START	1529265923391	1529265923391
+USER	Zip Categorization Coldstart-scenario	401	START	1529265923391	1529265923391
+USER	Zip Categorization Coldstart-scenario	402	START	1529265924437	1529265924437
+USER	Zip Categorization Coldstart-scenario	403	START	1529265924438	1529265924438
+USER	Zip Categorization Coldstart-scenario	404	START	1529265924438	1529265924438
+USER	Zip Categorization Coldstart-scenario	405	START	1529265924438	1529265924438
+USER	Zip Categorization Coldstart-scenario	406	START	1529265924438	1529265924438
+USER	Zip Categorization Coldstart-scenario	407	START	1529265924439	1529265924439
+USER	Zip Categorization Coldstart-scenario	408	START	1529265924439	1529265924439
+USER	Zip Categorization Coldstart-scenario	409	START	1529265924439	1529265924439
+USER	Zip Categorization Coldstart-scenario	410	START	1529265924439	1529265924439
+USER	Zip Categorization Coldstart-scenario	411	START	1529265924440	1529265924440
+USER	Zip Categorization Coldstart-scenario	412	START	1529265924440	1529265924440
+USER	Zip Categorization Coldstart-scenario	413	START	1529265924440	1529265924440
+USER	Zip Categorization Coldstart-scenario	414	START	1529265924440	1529265924440
+USER	Zip Categorization Coldstart-scenario	415	START	1529265924440	1529265924440
+USER	Zip Categorization Coldstart-scenario	416	START	1529265924441	1529265924441
+USER	Zip Categorization Coldstart-scenario	417	START	1529265924441	1529265924441
+USER	Zip Categorization Coldstart-scenario	418	START	1529265924441	1529265924441
+USER	Zip Categorization Coldstart-scenario	419	START	1529265924441	1529265924441
+USER	Zip Categorization Coldstart-scenario	420	START	1529265924441	1529265924441
+USER	Zip Categorization Coldstart-scenario	421	START	1529265924441	1529265924441
+USER	Zip Categorization Coldstart-scenario	422	START	1529265924442	1529265924442
+USER	Zip Categorization Coldstart-scenario	423	START	1529265924442	1529265924442
+USER	Zip Categorization Coldstart-scenario	424	START	1529265924442	1529265924442
+USER	Zip Categorization Coldstart-scenario	425	START	1529265924442	1529265924442
+USER	Zip Categorization Coldstart-scenario	426	START	1529265924443	1529265924443
+USER	Zip Categorization Coldstart-scenario	427	START	1529265924443	1529265924443
+USER	Zip Categorization Coldstart-scenario	428	START	1529265924443	1529265924443
+USER	Zip Categorization Coldstart-scenario	429	START	1529265924443	1529265924443
+USER	Zip Categorization Coldstart-scenario	430	START	1529265924443	1529265924443
+USER	Zip Categorization Coldstart-scenario	431	START	1529265924444	1529265924444
+USER	Zip Categorization Coldstart-scenario	432	START	1529265924444	1529265924444
+USER	Zip Categorization Coldstart-scenario	433	START	1529265924444	1529265924444
+USER	Zip Categorization Coldstart-scenario	434	START	1529265924444	1529265924444
+USER	Zip Categorization Coldstart-scenario	435	START	1529265924444	1529265924444
+USER	Zip Categorization Coldstart-scenario	436	START	1529265924445	1529265924445
+USER	Zip Categorization Coldstart-scenario	437	START	1529265924445	1529265924445
+USER	Zip Categorization Coldstart-scenario	438	START	1529265924445	1529265924445
+USER	Zip Categorization Coldstart-scenario	439	START	1529265924445	1529265924445
+USER	Zip Categorization Coldstart-scenario	440	START	1529265924446	1529265924446
+USER	Zip Categorization Coldstart-scenario	441	START	1529265924446	1529265924446
+USER	Zip Categorization Coldstart-scenario	442	START	1529265924446	1529265924446
+USER	Zip Categorization Coldstart-scenario	443	START	1529265924446	1529265924446
+USER	Zip Categorization Coldstart-scenario	444	START	1529265924447	1529265924447
+USER	Zip Categorization Coldstart-scenario	445	START	1529265924447	1529265924447
+USER	Zip Categorization Coldstart-scenario	446	START	1529265924447	1529265924447
+USER	Zip Categorization Coldstart-scenario	447	START	1529265924448	1529265924448
+USER	Zip Categorization Coldstart-scenario	448	START	1529265924448	1529265924448
+USER	Zip Categorization Coldstart-scenario	449	START	1529265924449	1529265924449
+USER	Zip Categorization Coldstart-scenario	450	START	1529265924449	1529265924449
+USER	Zip Categorization Coldstart-scenario	451	START	1529265924449	1529265924449
+USER	Zip Categorization Coldstart-scenario	452	START	1529265924449	1529265924449
+USER	Zip Categorization Coldstart-scenario	453	START	1529265924449	1529265924449
+USER	Zip Categorization Coldstart-scenario	454	START	1529265924450	1529265924450
+USER	Zip Categorization Coldstart-scenario	455	START	1529265924450	1529265924450
+USER	Zip Categorization Coldstart-scenario	456	START	1529265924450	1529265924450
+USER	Zip Categorization Coldstart-scenario	457	START	1529265924450	1529265924450
+USER	Zip Categorization Coldstart-scenario	458	START	1529265924450	1529265924450
+USER	Zip Categorization Coldstart-scenario	459	START	1529265924451	1529265924451
+USER	Zip Categorization Coldstart-scenario	460	START	1529265924451	1529265924451
+USER	Zip Categorization Coldstart-scenario	461	START	1529265924451	1529265924451
+USER	Zip Categorization Coldstart-scenario	462	START	1529265924451	1529265924451
+USER	Zip Categorization Coldstart-scenario	463	START	1529265924451	1529265924451
+USER	Zip Categorization Coldstart-scenario	464	START	1529265924452	1529265924452
+USER	Zip Categorization Coldstart-scenario	465	START	1529265924452	1529265924452
+USER	Zip Categorization Coldstart-scenario	466	START	1529265924452	1529265924452
+USER	Zip Categorization Coldstart-scenario	467	START	1529265924452	1529265924452
+USER	Zip Categorization Coldstart-scenario	468	START	1529265924452	1529265924452
+USER	Zip Categorization Coldstart-scenario	469	START	1529265924453	1529265924453
+USER	Zip Categorization Coldstart-scenario	470	START	1529265924453	1529265924453
+USER	Zip Categorization Coldstart-scenario	471	START	1529265924453	1529265924453
+USER	Zip Categorization Coldstart-scenario	472	START	1529265924453	1529265924453
+USER	Zip Categorization Coldstart-scenario	473	START	1529265924454	1529265924454
+USER	Zip Categorization Coldstart-scenario	474	START	1529265924454	1529265924454
+USER	Zip Categorization Coldstart-scenario	475	START	1529265924454	1529265924454
+USER	Zip Categorization Coldstart-scenario	476	START	1529265924454	1529265924454
+USER	Zip Categorization Coldstart-scenario	477	START	1529265924455	1529265924455
+USER	Zip Categorization Coldstart-scenario	478	START	1529265924455	1529265924455
+USER	Zip Categorization Coldstart-scenario	479	START	1529265924455	1529265924455
+USER	Zip Categorization Coldstart-scenario	480	START	1529265924455	1529265924455
+USER	Zip Categorization Coldstart-scenario	481	START	1529265924455	1529265924455
+USER	Zip Categorization Coldstart-scenario	482	START	1529265924456	1529265924456
+USER	Zip Categorization Coldstart-scenario	483	START	1529265924456	1529265924456
+USER	Zip Categorization Coldstart-scenario	484	START	1529265924456	1529265924456
+USER	Zip Categorization Coldstart-scenario	485	START	1529265924456	1529265924456
+USER	Zip Categorization Coldstart-scenario	486	START	1529265924456	1529265924456
+USER	Zip Categorization Coldstart-scenario	487	START	1529265924457	1529265924457
+USER	Zip Categorization Coldstart-scenario	488	START	1529265924457	1529265924457
+USER	Zip Categorization Coldstart-scenario	489	START	1529265924457	1529265924457
+USER	Zip Categorization Coldstart-scenario	490	START	1529265924457	1529265924457
+USER	Zip Categorization Coldstart-scenario	491	START	1529265924457	1529265924457
+USER	Zip Categorization Coldstart-scenario	492	START	1529265924458	1529265924458
+USER	Zip Categorization Coldstart-scenario	493	START	1529265924458	1529265924458
+USER	Zip Categorization Coldstart-scenario	494	START	1529265924458	1529265924458
+USER	Zip Categorization Coldstart-scenario	495	START	1529265924458	1529265924458
+USER	Zip Categorization Coldstart-scenario	496	START	1529265924458	1529265924458
+USER	Zip Categorization Coldstart-scenario	497	START	1529265924459	1529265924459
+USER	Zip Categorization Coldstart-scenario	498	START	1529265924459	1529265924459
+USER	Zip Categorization Coldstart-scenario	499	START	1529265924459	1529265924459
+USER	Zip Categorization Coldstart-scenario	500	START	1529265924459	1529265924459
+USER	Zip Categorization Coldstart-scenario	501	START	1529265924459	1529265924459
+USER	Zip Categorization Coldstart-scenario	502	START	1529265924460	1529265924460
+USER	Zip Categorization Coldstart-scenario	503	START	1529265924460	1529265924460
+USER	Zip Categorization Coldstart-scenario	504	START	1529265924460	1529265924460
+USER	Zip Categorization Coldstart-scenario	505	START	1529265924460	1529265924460
+USER	Zip Categorization Coldstart-scenario	506	START	1529265924460	1529265924460
+USER	Zip Categorization Coldstart-scenario	507	START	1529265924461	1529265924461
+USER	Zip Categorization Coldstart-scenario	508	START	1529265924461	1529265924461
+USER	Zip Categorization Coldstart-scenario	509	START	1529265924461	1529265924461
+USER	Zip Categorization Coldstart-scenario	510	START	1529265924461	1529265924461
+USER	Zip Categorization Coldstart-scenario	511	START	1529265924462	1529265924462
+USER	Zip Categorization Coldstart-scenario	512	START	1529265924462	1529265924462
+USER	Zip Categorization Coldstart-scenario	513	START	1529265924463	1529265924463
+USER	Zip Categorization Coldstart-scenario	514	START	1529265924463	1529265924463
+USER	Zip Categorization Coldstart-scenario	515	START	1529265924464	1529265924464
+USER	Zip Categorization Coldstart-scenario	516	START	1529265924464	1529265924464
+USER	Zip Categorization Coldstart-scenario	517	START	1529265924464	1529265924464
+USER	Zip Categorization Coldstart-scenario	518	START	1529265924464	1529265924464
+USER	Zip Categorization Coldstart-scenario	519	START	1529265924464	1529265924464
+USER	Zip Categorization Coldstart-scenario	520	START	1529265924465	1529265924465
+USER	Zip Categorization Coldstart-scenario	521	START	1529265924465	1529265924465
+USER	Zip Categorization Coldstart-scenario	522	START	1529265924465	1529265924465
+USER	Zip Categorization Coldstart-scenario	523	START	1529265924465	1529265924465
+USER	Zip Categorization Coldstart-scenario	524	START	1529265924465	1529265924465
+USER	Zip Categorization Coldstart-scenario	525	START	1529265924466	1529265924466
+USER	Zip Categorization Coldstart-scenario	526	START	1529265924466	1529265924466
+USER	Zip Categorization Coldstart-scenario	527	START	1529265924466	1529265924466
+USER	Zip Categorization Coldstart-scenario	528	START	1529265924466	1529265924466
+USER	Zip Categorization Coldstart-scenario	529	START	1529265924466	1529265924466
+USER	Zip Categorization Coldstart-scenario	530	START	1529265924467	1529265924467
+USER	Zip Categorization Coldstart-scenario	531	START	1529265924467	1529265924467
+USER	Zip Categorization Coldstart-scenario	532	START	1529265924467	1529265924467
+USER	Zip Categorization Coldstart-scenario	533	START	1529265924467	1529265924467
+USER	Zip Categorization Coldstart-scenario	534	START	1529265924467	1529265924467
+USER	Zip Categorization Coldstart-scenario	535	START	1529265924468	1529265924468
+USER	Zip Categorization Coldstart-scenario	536	START	1529265924468	1529265924468
+USER	Zip Categorization Coldstart-scenario	537	START	1529265924468	1529265924468
+USER	Zip Categorization Coldstart-scenario	538	START	1529265924468	1529265924468
+USER	Zip Categorization Coldstart-scenario	539	START	1529265924468	1529265924468
+USER	Zip Categorization Coldstart-scenario	540	START	1529265924468	1529265924468
+USER	Zip Categorization Coldstart-scenario	541	START	1529265924469	1529265924469
+USER	Zip Categorization Coldstart-scenario	542	START	1529265924469	1529265924469
+USER	Zip Categorization Coldstart-scenario	543	START	1529265924469	1529265924469
+USER	Zip Categorization Coldstart-scenario	544	START	1529265924469	1529265924469
+USER	Zip Categorization Coldstart-scenario	545	START	1529265924469	1529265924469
+USER	Zip Categorization Coldstart-scenario	546	START	1529265924470	1529265924470
+USER	Zip Categorization Coldstart-scenario	547	START	1529265924470	1529265924470
+USER	Zip Categorization Coldstart-scenario	548	START	1529265924470	1529265924470
+USER	Zip Categorization Coldstart-scenario	549	START	1529265924470	1529265924470
+USER	Zip Categorization Coldstart-scenario	550	START	1529265924470	1529265924470
+USER	Zip Categorization Coldstart-scenario	551	START	1529265924470	1529265924470
+USER	Zip Categorization Coldstart-scenario	552	START	1529265924471	1529265924471
+USER	Zip Categorization Coldstart-scenario	553	START	1529265924471	1529265924471
+USER	Zip Categorization Coldstart-scenario	554	START	1529265924471	1529265924471
+USER	Zip Categorization Coldstart-scenario	555	START	1529265924471	1529265924471
+USER	Zip Categorization Coldstart-scenario	556	START	1529265924471	1529265924471
+USER	Zip Categorization Coldstart-scenario	557	START	1529265924471	1529265924471
+USER	Zip Categorization Coldstart-scenario	558	START	1529265924472	1529265924472
+USER	Zip Categorization Coldstart-scenario	559	START	1529265924472	1529265924472
+USER	Zip Categorization Coldstart-scenario	560	START	1529265924472	1529265924472
+USER	Zip Categorization Coldstart-scenario	561	START	1529265924472	1529265924472
+USER	Zip Categorization Coldstart-scenario	562	START	1529265924472	1529265924472
+USER	Zip Categorization Coldstart-scenario	563	START	1529265924472	1529265924472
+USER	Zip Categorization Coldstart-scenario	564	START	1529265924473	1529265924473
+USER	Zip Categorization Coldstart-scenario	565	START	1529265924473	1529265924473
+USER	Zip Categorization Coldstart-scenario	566	START	1529265924473	1529265924473
+USER	Zip Categorization Coldstart-scenario	567	START	1529265924473	1529265924473
+USER	Zip Categorization Coldstart-scenario	568	START	1529265924473	1529265924473
+USER	Zip Categorization Coldstart-scenario	569	START	1529265924474	1529265924474
+USER	Zip Categorization Coldstart-scenario	570	START	1529265924474	1529265924474
+USER	Zip Categorization Coldstart-scenario	571	START	1529265924474	1529265924474
+USER	Zip Categorization Coldstart-scenario	572	START	1529265924475	1529265924475
+USER	Zip Categorization Coldstart-scenario	573	START	1529265924475	1529265924475
+USER	Zip Categorization Coldstart-scenario	574	START	1529265924475	1529265924475
+USER	Zip Categorization Coldstart-scenario	575	START	1529265924475	1529265924475
+USER	Zip Categorization Coldstart-scenario	576	START	1529265924476	1529265924476
+USER	Zip Categorization Coldstart-scenario	577	START	1529265924476	1529265924476
+USER	Zip Categorization Coldstart-scenario	578	START	1529265924476	1529265924476
+USER	Zip Categorization Coldstart-scenario	579	START	1529265924476	1529265924476
+USER	Zip Categorization Coldstart-scenario	580	START	1529265924476	1529265924476
+USER	Zip Categorization Coldstart-scenario	581	START	1529265924477	1529265924477
+USER	Zip Categorization Coldstart-scenario	582	START	1529265924477	1529265924477
+USER	Zip Categorization Coldstart-scenario	583	START	1529265924477	1529265924477
+USER	Zip Categorization Coldstart-scenario	584	START	1529265924477	1529265924477
+USER	Zip Categorization Coldstart-scenario	585	START	1529265924478	1529265924478
+USER	Zip Categorization Coldstart-scenario	586	START	1529265924478	1529265924478
+USER	Zip Categorization Coldstart-scenario	587	START	1529265924478	1529265924478
+USER	Zip Categorization Coldstart-scenario	588	START	1529265924478	1529265924478
+USER	Zip Categorization Coldstart-scenario	589	START	1529265924479	1529265924479
+USER	Zip Categorization Coldstart-scenario	590	START	1529265924479	1529265924479
+USER	Zip Categorization Coldstart-scenario	591	START	1529265924479	1529265924479
+USER	Zip Categorization Coldstart-scenario	592	START	1529265924479	1529265924479
+USER	Zip Categorization Coldstart-scenario	593	START	1529265924480	1529265924480
+USER	Zip Categorization Coldstart-scenario	594	START	1529265924480	1529265924480
+USER	Zip Categorization Coldstart-scenario	595	START	1529265924480	1529265924480
+USER	Zip Categorization Coldstart-scenario	596	START	1529265924481	1529265924481
+USER	Zip Categorization Coldstart-scenario	597	START	1529265924481	1529265924481
+USER	Zip Categorization Coldstart-scenario	598	START	1529265924481	1529265924481
+USER	Zip Categorization Coldstart-scenario	599	START	1529265924481	1529265924481
+USER	Zip Categorization Coldstart-scenario	600	START	1529265924481	1529265924481
+REQUEST	Slim Categorization Coldstart-scenario	3		Slim Categorization Coldstart	1529265923011	1529265926757	OK	 
+USER	Slim Categorization Coldstart-scenario	3	END	1529265923010	1529265926780
+REQUEST	Slim Categorization Coldstart-scenario	8		Slim Categorization Coldstart	1529265923015	1529265926924	OK	 
+USER	Slim Categorization Coldstart-scenario	8	END	1529265923015	1529265926927
+REQUEST	Slim Categorization Coldstart-scenario	38		Slim Categorization Coldstart	1529265923084	1529265926955	OK	 
+USER	Slim Categorization Coldstart-scenario	38	END	1529265923083	1529265926957
+REQUEST	Slim Categorization Coldstart-scenario	13		Slim Categorization Coldstart	1529265923021	1529265926977	OK	 
+USER	Slim Categorization Coldstart-scenario	13	END	1529265923021	1529265926979
+REQUEST	Slim Categorization Coldstart-scenario	44		Slim Categorization Coldstart	1529265923089	1529265927022	OK	 
+REQUEST	Slim Categorization Coldstart-scenario	16		Slim Categorization Coldstart	1529265923028	1529265927023	OK	 
+USER	Slim Categorization Coldstart-scenario	44	END	1529265923089	1529265927023
+USER	Slim Categorization Coldstart-scenario	16	END	1529265923028	1529265927023
+REQUEST	Slim Categorization Coldstart-scenario	148		Slim Categorization Coldstart	1529265923172	1529265927122	OK	 
+USER	Slim Categorization Coldstart-scenario	148	END	1529265923172	1529265927122
+REQUEST	Slim Categorization Coldstart-scenario	50		Slim Categorization Coldstart	1529265923093	1529265927125	OK	 
+USER	Slim Categorization Coldstart-scenario	50	END	1529265923092	1529265927125
+REQUEST	Slim Categorization Coldstart-scenario	89		Slim Categorization Coldstart	1529265923112	1529265927160	OK	 
+USER	Slim Categorization Coldstart-scenario	89	END	1529265923111	1529265927161
+REQUEST	Slim Categorization Coldstart-scenario	74		Slim Categorization Coldstart	1529265923104	1529265927175	OK	 
+USER	Slim Categorization Coldstart-scenario	74	END	1529265923104	1529265927176
+REQUEST	Slim Categorization Coldstart-scenario	19		Slim Categorization Coldstart	1529265923032	1529265927179	OK	 
+USER	Slim Categorization Coldstart-scenario	19	END	1529265923032	1529265927180
+REQUEST	Slim Categorization Coldstart-scenario	52		Slim Categorization Coldstart	1529265923094	1529265927193	OK	 
+USER	Slim Categorization Coldstart-scenario	52	END	1529265923093	1529265927195
+REQUEST	Slim Categorization Coldstart-scenario	76		Slim Categorization Coldstart	1529265923105	1529265927228	OK	 
+USER	Slim Categorization Coldstart-scenario	76	END	1529265923105	1529265927229
+REQUEST	Slim Categorization Coldstart-scenario	5		Slim Categorization Coldstart	1529265923012	1529265927234	OK	 
+USER	Slim Categorization Coldstart-scenario	5	END	1529265923012	1529265927235
+REQUEST	Slim Categorization Coldstart-scenario	58		Slim Categorization Coldstart	1529265923096	1529265927235	OK	 
+USER	Slim Categorization Coldstart-scenario	58	END	1529265923096	1529265927236
+REQUEST	Slim Categorization Coldstart-scenario	24		Slim Categorization Coldstart	1529265923059	1529265927241	OK	 
+USER	Slim Categorization Coldstart-scenario	24	END	1529265923059	1529265927242
+REQUEST	Slim Categorization Coldstart-scenario	34		Slim Categorization Coldstart	1529265923080	1529265927262	OK	 
+USER	Slim Categorization Coldstart-scenario	34	END	1529265923080	1529265927263
+REQUEST	Slim Categorization Coldstart-scenario	85		Slim Categorization Coldstart	1529265923110	1529265927284	OK	 
+USER	Slim Categorization Coldstart-scenario	85	END	1529265923109	1529265927285
+REQUEST	Slim Categorization Coldstart-scenario	55		Slim Categorization Coldstart	1529265923095	1529265927285	OK	 
+USER	Slim Categorization Coldstart-scenario	55	END	1529265923095	1529265927285
+REQUEST	Slim Categorization Coldstart-scenario	146		Slim Categorization Coldstart	1529265923171	1529265927322	OK	 
+USER	Slim Categorization Coldstart-scenario	146	END	1529265923171	1529265927323
+REQUEST	Slim Categorization Coldstart-scenario	88		Slim Categorization Coldstart	1529265923111	1529265927347	OK	 
+USER	Slim Categorization Coldstart-scenario	88	END	1529265923111	1529265927348
+REQUEST	Fat Categorization Coldstart-scenario	264		Fat Categorization Coldstart	1529265923319	1529265927368	OK	 
+USER	Fat Categorization Coldstart-scenario	264	END	1529265923319	1529265927369
+REQUEST	Slim Categorization Coldstart-scenario	32		Slim Categorization Coldstart	1529265923079	1529265927390	OK	 
+USER	Slim Categorization Coldstart-scenario	32	END	1529265923079	1529265927391
+REQUEST	Slim Categorization Coldstart-scenario	77		Slim Categorization Coldstart	1529265923106	1529265927442	OK	 
+USER	Slim Categorization Coldstart-scenario	77	END	1529265923106	1529265927443
+REQUEST	Fat Categorization Coldstart-scenario	267		Fat Categorization Coldstart	1529265923320	1529265927451	OK	 
+USER	Fat Categorization Coldstart-scenario	267	END	1529265923320	1529265927452
+REQUEST	Fat Categorization Coldstart-scenario	384		Fat Categorization Coldstart	1529265923386	1529265927456	OK	 
+USER	Fat Categorization Coldstart-scenario	384	END	1529265923385	1529265927457
+REQUEST	Slim Categorization Coldstart-scenario	150		Slim Categorization Coldstart	1529265923173	1529265927458	OK	 
+USER	Slim Categorization Coldstart-scenario	150	END	1529265923173	1529265927459
+REQUEST	Slim Categorization Coldstart-scenario	22		Slim Categorization Coldstart	1529265923039	1529265927460	OK	 
+USER	Slim Categorization Coldstart-scenario	22	END	1529265923039	1529265927461
+REQUEST	Slim Categorization Coldstart-scenario	20		Slim Categorization Coldstart	1529265923034	1529265927491	OK	 
+USER	Slim Categorization Coldstart-scenario	20	END	1529265923033	1529265927491
+REQUEST	Fat Categorization Coldstart-scenario	270		Fat Categorization Coldstart	1529265923322	1529265927502	OK	 
+USER	Fat Categorization Coldstart-scenario	270	END	1529265923321	1529265927502
+REQUEST	Slim Categorization Coldstart-scenario	156		Slim Categorization Coldstart	1529265923175	1529265927505	OK	 
+USER	Slim Categorization Coldstart-scenario	156	END	1529265923175	1529265927505
+REQUEST	Slim Categorization Coldstart-scenario	105		Slim Categorization Coldstart	1529265923144	1529265927517	OK	 
+USER	Slim Categorization Coldstart-scenario	105	END	1529265923143	1529265927518
+REQUEST	Fat Categorization Coldstart-scenario	273		Fat Categorization Coldstart	1529265923325	1529265927533	OK	 
+REQUEST	Slim Categorization Coldstart-scenario	165		Slim Categorization Coldstart	1529265923180	1529265927533	OK	 
+USER	Slim Categorization Coldstart-scenario	165	END	1529265923180	1529265927534
+USER	Fat Categorization Coldstart-scenario	273	END	1529265923325	1529265927534
+REQUEST	Slim Categorization Coldstart-scenario	29		Slim Categorization Coldstart	1529265923077	1529265927560	OK	 
+USER	Slim Categorization Coldstart-scenario	29	END	1529265923076	1529265927561
+REQUEST	Fat Categorization Coldstart-scenario	339		Fat Categorization Coldstart	1529265923344	1529265927586	OK	 
+USER	Fat Categorization Coldstart-scenario	339	END	1529265923344	1529265927587
+REQUEST	Slim Categorization Coldstart-scenario	68		Slim Categorization Coldstart	1529265923101	1529265927587	OK	 
+USER	Slim Categorization Coldstart-scenario	68	END	1529265923101	1529265927587
+REQUEST	Fat Categorization Coldstart-scenario	286		Fat Categorization Coldstart	1529265923330	1529265927590	OK	 
+USER	Fat Categorization Coldstart-scenario	286	END	1529265923330	1529265927590
+REQUEST	Fat Categorization Coldstart-scenario	239		Fat Categorization Coldstart	1529265923308	1529265927622	OK	 
+REQUEST	Fat Categorization Coldstart-scenario	268		Fat Categorization Coldstart	1529265923321	1529265927622	OK	 
+USER	Fat Categorization Coldstart-scenario	268	END	1529265923320	1529265927623
+USER	Fat Categorization Coldstart-scenario	239	END	1529265923308	1529265927623
+REQUEST	Slim Categorization Coldstart-scenario	131		Slim Categorization Coldstart	1529265923159	1529265927625	OK	 
+USER	Slim Categorization Coldstart-scenario	131	END	1529265923158	1529265927625
+REQUEST	Slim Categorization Coldstart-scenario	166		Slim Categorization Coldstart	1529265923180	1529265927625	OK	 
+USER	Slim Categorization Coldstart-scenario	166	END	1529265923180	1529265927626
+REQUEST	Fat Categorization Coldstart-scenario	287		Fat Categorization Coldstart	1529265923330	1529265927627	OK	 
+USER	Fat Categorization Coldstart-scenario	287	END	1529265923330	1529265927628
+REQUEST	Fat Categorization Coldstart-scenario	245		Fat Categorization Coldstart	1529265923309	1529265927632	OK	 
+USER	Fat Categorization Coldstart-scenario	245	END	1529265923309	1529265927633
+REQUEST	Fat Categorization Coldstart-scenario	230		Fat Categorization Coldstart	1529265923304	1529265927638	OK	 
+USER	Fat Categorization Coldstart-scenario	230	END	1529265923304	1529265927639
+REQUEST	Slim Categorization Coldstart-scenario	23		Slim Categorization Coldstart	1529265923051	1529265927646	OK	 
+USER	Slim Categorization Coldstart-scenario	23	END	1529265923051	1529265927646
+REQUEST	Fat Categorization Coldstart-scenario	365		Fat Categorization Coldstart	1529265923379	1529265927649	OK	 
+USER	Fat Categorization Coldstart-scenario	365	END	1529265923379	1529265927649
+REQUEST	Fat Categorization Coldstart-scenario	353		Fat Categorization Coldstart	1529265923375	1529265927658	OK	 
+USER	Fat Categorization Coldstart-scenario	353	END	1529265923375	1529265927658
+REQUEST	Slim Categorization Coldstart-scenario	87		Slim Categorization Coldstart	1529265923111	1529265927661	OK	 
+USER	Slim Categorization Coldstart-scenario	87	END	1529265923111	1529265927661
+REQUEST	Fat Categorization Coldstart-scenario	259		Fat Categorization Coldstart	1529265923317	1529265927664	OK	 
+USER	Fat Categorization Coldstart-scenario	259	END	1529265923317	1529265927664
+REQUEST	Fat Categorization Coldstart-scenario	220		Fat Categorization Coldstart	1529265923283	1529265927670	OK	 
+USER	Fat Categorization Coldstart-scenario	220	END	1529265923283	1529265927671
+REQUEST	Slim Categorization Coldstart-scenario	36		Slim Categorization Coldstart	1529265923082	1529265927670	OK	 
+USER	Slim Categorization Coldstart-scenario	36	END	1529265923082	1529265927671
+REQUEST	Slim Categorization Coldstart-scenario	82		Slim Categorization Coldstart	1529265923108	1529265927700	OK	 
+USER	Slim Categorization Coldstart-scenario	82	END	1529265923108	1529265927701
+REQUEST	Fat Categorization Coldstart-scenario	218		Fat Categorization Coldstart	1529265923282	1529265927702	OK	 
+USER	Fat Categorization Coldstart-scenario	218	END	1529265923282	1529265927703
+REQUEST	Slim Categorization Coldstart-scenario	42		Slim Categorization Coldstart	1529265923088	1529265927709	OK	 
+USER	Slim Categorization Coldstart-scenario	42	END	1529265923087	1529265927710
+REQUEST	Fat Categorization Coldstart-scenario	257		Fat Categorization Coldstart	1529265923316	1529265927713	OK	 
+USER	Fat Categorization Coldstart-scenario	257	END	1529265923316	1529265927713
+REQUEST	Slim Categorization Coldstart-scenario	86		Slim Categorization Coldstart	1529265923110	1529265927723	OK	 
+USER	Slim Categorization Coldstart-scenario	86	END	1529265923110	1529265927723
+REQUEST	Slim Categorization Coldstart-scenario	61		Slim Categorization Coldstart	1529265923098	1529265927730	OK	 
+USER	Slim Categorization Coldstart-scenario	61	END	1529265923098	1529265927730
+REQUEST	Fat Categorization Coldstart-scenario	256		Fat Categorization Coldstart	1529265923315	1529265927735	OK	 
+USER	Fat Categorization Coldstart-scenario	256	END	1529265923315	1529265927735
+REQUEST	Fat Categorization Coldstart-scenario	252		Fat Categorization Coldstart	1529265923312	1529265927737	OK	 
+USER	Fat Categorization Coldstart-scenario	252	END	1529265923312	1529265927737
+REQUEST	Slim Categorization Coldstart-scenario	190		Slim Categorization Coldstart	1529265923194	1529265927742	OK	 
+USER	Slim Categorization Coldstart-scenario	190	END	1529265923194	1529265927743
+REQUEST	Slim Categorization Coldstart-scenario	194		Slim Categorization Coldstart	1529265923195	1529265927747	OK	 
+USER	Slim Categorization Coldstart-scenario	194	END	1529265923195	1529265927749
+REQUEST	Slim Categorization Coldstart-scenario	107		Slim Categorization Coldstart	1529265923145	1529265927749	OK	 
+USER	Slim Categorization Coldstart-scenario	107	END	1529265923145	1529265927751
+REQUEST	Slim Categorization Coldstart-scenario	183		Slim Categorization Coldstart	1529265923191	1529265927751	OK	 
+USER	Slim Categorization Coldstart-scenario	183	END	1529265923191	1529265927753
+REQUEST	Slim Categorization Coldstart-scenario	64		Slim Categorization Coldstart	1529265923099	1529265927781	OK	 
+USER	Slim Categorization Coldstart-scenario	64	END	1529265923099	1529265927783
+REQUEST	Fat Categorization Coldstart-scenario	211		Fat Categorization Coldstart	1529265923279	1529265927801	OK	 
+USER	Fat Categorization Coldstart-scenario	211	END	1529265923279	1529265927802
+REQUEST	Fat Categorization Coldstart-scenario	244		Fat Categorization Coldstart	1529265923309	1529265927802	OK	 
+USER	Fat Categorization Coldstart-scenario	244	END	1529265923309	1529265927802
+REQUEST	Slim Categorization Coldstart-scenario	78		Slim Categorization Coldstart	1529265923106	1529265927804	OK	 
+USER	Slim Categorization Coldstart-scenario	78	END	1529265923106	1529265927804
+REQUEST	Fat Categorization Coldstart-scenario	226		Fat Categorization Coldstart	1529265923285	1529265927811	OK	 
+USER	Fat Categorization Coldstart-scenario	226	END	1529265923285	1529265927812
+REQUEST	Slim Categorization Coldstart-scenario	25		Slim Categorization Coldstart	1529265923063	1529265927817	OK	 
+USER	Slim Categorization Coldstart-scenario	25	END	1529265923062	1529265927818
+REQUEST	Slim Categorization Coldstart-scenario	90		Slim Categorization Coldstart	1529265923112	1529265927831	OK	 
+USER	Slim Categorization Coldstart-scenario	90	END	1529265923112	1529265927832
+REQUEST	Slim Categorization Coldstart-scenario	31		Slim Categorization Coldstart	1529265923078	1529265927875	OK	 
+USER	Slim Categorization Coldstart-scenario	31	END	1529265923078	1529265927876
+REQUEST	Slim Categorization Coldstart-scenario	149		Slim Categorization Coldstart	1529265923173	1529265927877	OK	 
+USER	Slim Categorization Coldstart-scenario	149	END	1529265923172	1529265927877
+REQUEST	Fat Categorization Coldstart-scenario	240		Fat Categorization Coldstart	1529265923308	1529265927882	OK	 
+USER	Fat Categorization Coldstart-scenario	240	END	1529265923308	1529265927883
+REQUEST	Slim Categorization Coldstart-scenario	14		Slim Categorization Coldstart	1529265923023	1529265927883	OK	 
+USER	Slim Categorization Coldstart-scenario	14	END	1529265923023	1529265927883
+REQUEST	Slim Categorization Coldstart-scenario	45		Slim Categorization Coldstart	1529265923090	1529265927890	OK	 
+USER	Slim Categorization Coldstart-scenario	45	END	1529265923090	1529265927891
+REQUEST	Fat Categorization Coldstart-scenario	243		Fat Categorization Coldstart	1529265923309	1529265927914	OK	 
+USER	Fat Categorization Coldstart-scenario	243	END	1529265923309	1529265927915
+REQUEST	Slim Categorization Coldstart-scenario	162		Slim Categorization Coldstart	1529265923178	1529265927925	OK	 
+USER	Slim Categorization Coldstart-scenario	162	END	1529265923178	1529265927925
+REQUEST	Fat Categorization Coldstart-scenario	203		Fat Categorization Coldstart	1529265923270	1529265927938	OK	 
+USER	Fat Categorization Coldstart-scenario	203	END	1529265923270	1529265927939
+REQUEST	Slim Categorization Coldstart-scenario	26		Slim Categorization Coldstart	1529265923064	1529265927941	OK	 
+USER	Slim Categorization Coldstart-scenario	26	END	1529265923063	1529265927942
+REQUEST	Slim Categorization Coldstart-scenario	12		Slim Categorization Coldstart	1529265923021	1529265927965	OK	 
+USER	Slim Categorization Coldstart-scenario	12	END	1529265923020	1529265927965
+REQUEST	Slim Categorization Coldstart-scenario	11		Slim Categorization Coldstart	1529265923020	1529265927984	OK	 
+USER	Slim Categorization Coldstart-scenario	11	END	1529265923020	1529265927986
+REQUEST	Fat Categorization Coldstart-scenario	206		Fat Categorization Coldstart	1529265923276	1529265927998	OK	 
+USER	Fat Categorization Coldstart-scenario	206	END	1529265923273	1529265928000
+REQUEST	Slim Categorization Coldstart-scenario	9		Slim Categorization Coldstart	1529265923018	1529265928024	OK	 
+USER	Slim Categorization Coldstart-scenario	9	END	1529265923018	1529265928026
+REQUEST	Slim Categorization Coldstart-scenario	140		Slim Categorization Coldstart	1529265923168	1529265928032	OK	 
+REQUEST	Slim Categorization Coldstart-scenario	56		Slim Categorization Coldstart	1529265923095	1529265928032	OK	 
+REQUEST	Fat Categorization Coldstart-scenario	222		Fat Categorization Coldstart	1529265923284	1529265928033	OK	 
+USER	Slim Categorization Coldstart-scenario	140	END	1529265923168	1529265928034
+USER	Slim Categorization Coldstart-scenario	56	END	1529265923095	1529265928034
+USER	Fat Categorization Coldstart-scenario	222	END	1529265923284	1529265928034
+REQUEST	Slim Categorization Coldstart-scenario	145		Slim Categorization Coldstart	1529265923171	1529265928040	OK	 
+USER	Slim Categorization Coldstart-scenario	145	END	1529265923171	1529265928041
+REQUEST	Slim Categorization Coldstart-scenario	101		Slim Categorization Coldstart	1529265923142	1529265928072	OK	 
+USER	Slim Categorization Coldstart-scenario	101	END	1529265923142	1529265928073
+REQUEST	Slim Categorization Coldstart-scenario	97		Slim Categorization Coldstart	1529265923140	1529265928080	OK	 
+USER	Slim Categorization Coldstart-scenario	97	END	1529265923139	1529265928081
+REQUEST	Slim Categorization Coldstart-scenario	21		Slim Categorization Coldstart	1529265923035	1529265928083	OK	 
+USER	Slim Categorization Coldstart-scenario	21	END	1529265923034	1529265928083
+REQUEST	Fat Categorization Coldstart-scenario	204		Fat Categorization Coldstart	1529265923272	1529265928142	OK	 
+USER	Fat Categorization Coldstart-scenario	204	END	1529265923271	1529265928142
+REQUEST	Fat Categorization Coldstart-scenario	231		Fat Categorization Coldstart	1529265923305	1529265928144	OK	 
+USER	Fat Categorization Coldstart-scenario	231	END	1529265923305	1529265928145
+REQUEST	Slim Categorization Coldstart-scenario	138		Slim Categorization Coldstart	1529265923166	1529265928147	OK	 
+USER	Slim Categorization Coldstart-scenario	138	END	1529265923166	1529265928147
+REQUEST	Slim Categorization Coldstart-scenario	157		Slim Categorization Coldstart	1529265923176	1529265928169	OK	 
+REQUEST	Fat Categorization Coldstart-scenario	265		Fat Categorization Coldstart	1529265923320	1529265928170	OK	 
+USER	Slim Categorization Coldstart-scenario	157	END	1529265923176	1529265928171
+USER	Fat Categorization Coldstart-scenario	265	END	1529265923320	1529265928172
+REQUEST	Slim Categorization Coldstart-scenario	69		Slim Categorization Coldstart	1529265923102	1529265928183	OK	 
+USER	Slim Categorization Coldstart-scenario	69	END	1529265923102	1529265928185
+REQUEST	Slim Categorization Coldstart-scenario	63		Slim Categorization Coldstart	1529265923099	1529265928195	OK	 
+USER	Slim Categorization Coldstart-scenario	63	END	1529265923099	1529265928196
+REQUEST	Fat Categorization Coldstart-scenario	260		Fat Categorization Coldstart	1529265923318	1529265928212	OK	 
+USER	Fat Categorization Coldstart-scenario	260	END	1529265923317	1529265928214
+REQUEST	Slim Categorization Coldstart-scenario	70		Slim Categorization Coldstart	1529265923102	1529265928220	OK	 
+USER	Slim Categorization Coldstart-scenario	70	END	1529265923102	1529265928221
+REQUEST	Slim Categorization Coldstart-scenario	137		Slim Categorization Coldstart	1529265923166	1529265928273	OK	 
+USER	Slim Categorization Coldstart-scenario	137	END	1529265923165	1529265928275
+REQUEST	Slim Categorization Coldstart-scenario	59		Slim Categorization Coldstart	1529265923097	1529265928295	OK	 
+USER	Slim Categorization Coldstart-scenario	59	END	1529265923097	1529265928296
+REQUEST	Fat Categorization Coldstart-scenario	255		Fat Categorization Coldstart	1529265923314	1529265928312	OK	 
+USER	Fat Categorization Coldstart-scenario	255	END	1529265923314	1529265928313
+REQUEST	Slim Categorization Coldstart-scenario	141		Slim Categorization Coldstart	1529265923169	1529265928314	OK	 
+USER	Slim Categorization Coldstart-scenario	141	END	1529265923169	1529265928315
+REQUEST	Slim Categorization Coldstart-scenario	154		Slim Categorization Coldstart	1529265923174	1529265928321	OK	 
+USER	Slim Categorization Coldstart-scenario	154	END	1529265923174	1529265928321
+REQUEST	Fat Categorization Coldstart-scenario	334		Fat Categorization Coldstart	1529265923343	1529265928322	OK	 
+USER	Fat Categorization Coldstart-scenario	334	END	1529265923343	1529265928323
+REQUEST	Slim Categorization Coldstart-scenario	94		Slim Categorization Coldstart	1529265923114	1529265928324	OK	 
+USER	Slim Categorization Coldstart-scenario	94	END	1529265923114	1529265928325
+REQUEST	Fat Categorization Coldstart-scenario	241		Fat Categorization Coldstart	1529265923308	1529265928330	OK	 
+USER	Fat Categorization Coldstart-scenario	241	END	1529265923308	1529265928331
+REQUEST	Slim Categorization Coldstart-scenario	65		Slim Categorization Coldstart	1529265923100	1529265928338	OK	 
+USER	Slim Categorization Coldstart-scenario	65	END	1529265923100	1529265928338
+REQUEST	Fat Categorization Coldstart-scenario	209		Fat Categorization Coldstart	1529265923278	1529265928339	OK	 
+USER	Fat Categorization Coldstart-scenario	209	END	1529265923277	1529265928340
+REQUEST	Fat Categorization Coldstart-scenario	303		Fat Categorization Coldstart	1529265923335	1529265928346	OK	 
+USER	Fat Categorization Coldstart-scenario	303	END	1529265923334	1529265928347
+REQUEST	Fat Categorization Coldstart-scenario	383		Fat Categorization Coldstart	1529265923385	1529265928357	OK	 
+USER	Fat Categorization Coldstart-scenario	383	END	1529265923385	1529265928357
+REQUEST	Fat Categorization Coldstart-scenario	272		Fat Categorization Coldstart	1529265923322	1529265928359	OK	 
+USER	Fat Categorization Coldstart-scenario	272	END	1529265923322	1529265928359
+REQUEST	Slim Categorization Coldstart-scenario	121		Slim Categorization Coldstart	1529265923153	1529265928368	OK	 
+USER	Slim Categorization Coldstart-scenario	121	END	1529265923153	1529265928368
+REQUEST	Slim Categorization Coldstart-scenario	136		Slim Categorization Coldstart	1529265923165	1529265928376	OK	 
+USER	Slim Categorization Coldstart-scenario	136	END	1529265923165	1529265928378
+REQUEST	Slim Categorization Coldstart-scenario	71		Slim Categorization Coldstart	1529265923103	1529265928379	OK	 
+USER	Slim Categorization Coldstart-scenario	71	END	1529265923103	1529265928381
+REQUEST	Slim Categorization Coldstart-scenario	96		Slim Categorization Coldstart	1529265923139	1529265928387	OK	 
+USER	Slim Categorization Coldstart-scenario	96	END	1529265923139	1529265928389
+REQUEST	Slim Categorization Coldstart-scenario	95		Slim Categorization Coldstart	1529265923138	1529265928390	OK	 
+USER	Slim Categorization Coldstart-scenario	95	END	1529265923138	1529265928392
+REQUEST	Slim Categorization Coldstart-scenario	125		Slim Categorization Coldstart	1529265923155	1529265928393	OK	 
+USER	Slim Categorization Coldstart-scenario	125	END	1529265923155	1529265928395
+REQUEST	Slim Categorization Coldstart-scenario	46		Slim Categorization Coldstart	1529265923090	1529265928394	OK	 
+USER	Slim Categorization Coldstart-scenario	46	END	1529265923090	1529265928396
+REQUEST	Slim Categorization Coldstart-scenario	4		Slim Categorization Coldstart	1529265923012	1529265928405	OK	 
+USER	Slim Categorization Coldstart-scenario	4	END	1529265923011	1529265928407
+REQUEST	Slim Categorization Coldstart-scenario	170		Slim Categorization Coldstart	1529265923182	1529265928417	OK	 
+USER	Slim Categorization Coldstart-scenario	170	END	1529265923182	1529265928418
+REQUEST	Slim Categorization Coldstart-scenario	118		Slim Categorization Coldstart	1529265923151	1529265928432	OK	 
+USER	Slim Categorization Coldstart-scenario	118	END	1529265923151	1529265928432
+REQUEST	Slim Categorization Coldstart-scenario	108		Slim Categorization Coldstart	1529265923145	1529265928439	OK	 
+USER	Slim Categorization Coldstart-scenario	108	END	1529265923145	1529265928440
+REQUEST	Slim Categorization Coldstart-scenario	2		Slim Categorization Coldstart	1529265923009	1529265928440	OK	 
+USER	Slim Categorization Coldstart-scenario	2	END	1529265923009	1529265928440
+REQUEST	Slim Categorization Coldstart-scenario	187		Slim Categorization Coldstart	1529265923193	1529265928452	OK	 
+USER	Slim Categorization Coldstart-scenario	187	END	1529265923192	1529265928452
+REQUEST	Slim Categorization Coldstart-scenario	60		Slim Categorization Coldstart	1529265923097	1529265928466	OK	 
+USER	Slim Categorization Coldstart-scenario	60	END	1529265923097	1529265928466
+REQUEST	Slim Categorization Coldstart-scenario	102		Slim Categorization Coldstart	1529265923142	1529265928467	OK	 
+USER	Slim Categorization Coldstart-scenario	102	END	1529265923142	1529265928468
+REQUEST	Slim Categorization Coldstart-scenario	152		Slim Categorization Coldstart	1529265923174	1529265928520	OK	 
+USER	Slim Categorization Coldstart-scenario	152	END	1529265923174	1529265928521
+REQUEST	Slim Categorization Coldstart-scenario	48		Slim Categorization Coldstart	1529265923092	1529265928541	OK	 
+USER	Slim Categorization Coldstart-scenario	48	END	1529265923091	1529265928541
+REQUEST	Slim Categorization Coldstart-scenario	33		Slim Categorization Coldstart	1529265923080	1529265928554	OK	 
+USER	Slim Categorization Coldstart-scenario	33	END	1529265923080	1529265928555
+REQUEST	Slim Categorization Coldstart-scenario	193		Slim Categorization Coldstart	1529265923195	1529265928556	OK	 
+USER	Slim Categorization Coldstart-scenario	193	END	1529265923195	1529265928557
+REQUEST	Slim Categorization Coldstart-scenario	120		Slim Categorization Coldstart	1529265923152	1529265928561	OK	 
+USER	Slim Categorization Coldstart-scenario	120	END	1529265923152	1529265928561
+REQUEST	Slim Categorization Coldstart-scenario	17		Slim Categorization Coldstart	1529265923029	1529265928578	OK	 
+USER	Slim Categorization Coldstart-scenario	17	END	1529265923029	1529265928579
+REQUEST	Slim Categorization Coldstart-scenario	35		Slim Categorization Coldstart	1529265923081	1529265928582	OK	 
+USER	Slim Categorization Coldstart-scenario	35	END	1529265923081	1529265928582
+REQUEST	Slim Categorization Coldstart-scenario	15		Slim Categorization Coldstart	1529265923025	1529265928589	OK	 
+USER	Slim Categorization Coldstart-scenario	15	END	1529265923024	1529265928590
+REQUEST	Slim Categorization Coldstart-scenario	83		Slim Categorization Coldstart	1529265923109	1529265928591	OK	 
+USER	Slim Categorization Coldstart-scenario	83	END	1529265923109	1529265928592
+REQUEST	Slim Categorization Coldstart-scenario	67		Slim Categorization Coldstart	1529265923101	1529265928599	OK	 
+USER	Slim Categorization Coldstart-scenario	67	END	1529265923101	1529265928599
+REQUEST	Slim Categorization Coldstart-scenario	180		Slim Categorization Coldstart	1529265923190	1529265928612	OK	 
+USER	Slim Categorization Coldstart-scenario	180	END	1529265923190	1529265928613
+REQUEST	Slim Categorization Coldstart-scenario	139		Slim Categorization Coldstart	1529265923167	1529265928632	OK	 
+USER	Slim Categorization Coldstart-scenario	139	END	1529265923167	1529265928632
+REQUEST	Fat Categorization Coldstart-scenario	293		Fat Categorization Coldstart	1529265923332	1529265928635	OK	 
+USER	Fat Categorization Coldstart-scenario	293	END	1529265923332	1529265928636
+REQUEST	Slim Categorization Coldstart-scenario	40		Slim Categorization Coldstart	1529265923085	1529265928654	OK	 
+USER	Slim Categorization Coldstart-scenario	40	END	1529265923085	1529265928655
+REQUEST	Fat Categorization Coldstart-scenario	363		Fat Categorization Coldstart	1529265923378	1529265928656	OK	 
+USER	Fat Categorization Coldstart-scenario	363	END	1529265923378	1529265928656
+REQUEST	Fat Categorization Coldstart-scenario	333		Fat Categorization Coldstart	1529265923343	1529265928678	OK	 
+USER	Fat Categorization Coldstart-scenario	333	END	1529265923343	1529265928679
+REQUEST	Fat Categorization Coldstart-scenario	221		Fat Categorization Coldstart	1529265923283	1529265928687	OK	 
+USER	Fat Categorization Coldstart-scenario	221	END	1529265923283	1529265928689
+REQUEST	Slim Categorization Coldstart-scenario	28		Slim Categorization Coldstart	1529265923076	1529265928717	OK	 
+USER	Slim Categorization Coldstart-scenario	28	END	1529265923075	1529265928719
+REQUEST	Slim Categorization Coldstart-scenario	106		Slim Categorization Coldstart	1529265923144	1529265928721	OK	 
+USER	Slim Categorization Coldstart-scenario	106	END	1529265923144	1529265928722
+REQUEST	Slim Categorization Coldstart-scenario	37		Slim Categorization Coldstart	1529265923082	1529265928728	OK	 
+USER	Slim Categorization Coldstart-scenario	37	END	1529265923082	1529265928730
+REQUEST	Fat Categorization Coldstart-scenario	253		Fat Categorization Coldstart	1529265923312	1529265928750	OK	 
+USER	Fat Categorization Coldstart-scenario	253	END	1529265923312	1529265928752
+REQUEST	Slim Categorization Coldstart-scenario	93		Slim Categorization Coldstart	1529265923114	1529265928754	OK	 
+USER	Slim Categorization Coldstart-scenario	93	END	1529265923113	1529265928756
+REQUEST	Slim Categorization Coldstart-scenario	153		Slim Categorization Coldstart	1529265923174	1529265928775	OK	 
+USER	Slim Categorization Coldstart-scenario	153	END	1529265923174	1529265928777
+REQUEST	Fat Categorization Coldstart-scenario	337		Fat Categorization Coldstart	1529265923344	1529265928777	OK	 
+USER	Fat Categorization Coldstart-scenario	337	END	1529265923344	1529265928779
+REQUEST	Slim Categorization Coldstart-scenario	18		Slim Categorization Coldstart	1529265923031	1529265928780	OK	 
+REQUEST	Slim Categorization Coldstart-scenario	7		Slim Categorization Coldstart	1529265923014	1529265928780	OK	 
+USER	Slim Categorization Coldstart-scenario	18	END	1529265923030	1529265928782
+USER	Slim Categorization Coldstart-scenario	7	END	1529265923014	1529265928782
+REQUEST	Fat Categorization Coldstart-scenario	338		Fat Categorization Coldstart	1529265923344	1529265928785	OK	 
+REQUEST	Fat Categorization Coldstart-scenario	371		Fat Categorization Coldstart	1529265923381	1529265928785	OK	 
+USER	Fat Categorization Coldstart-scenario	338	END	1529265923344	1529265928786
+USER	Fat Categorization Coldstart-scenario	371	END	1529265923381	1529265928787
+REQUEST	Fat Categorization Coldstart-scenario	269		Fat Categorization Coldstart	1529265923321	1529265928797	OK	 
+USER	Fat Categorization Coldstart-scenario	269	END	1529265923321	1529265928798
+REQUEST	Slim Categorization Coldstart-scenario	27		Slim Categorization Coldstart	1529265923074	1529265928810	OK	 
+USER	Slim Categorization Coldstart-scenario	27	END	1529265923064	1529265928811
+REQUEST	Slim Categorization Coldstart-scenario	159		Slim Categorization Coldstart	1529265923177	1529265928812	OK	 
+USER	Slim Categorization Coldstart-scenario	159	END	1529265923177	1529265928812
+REQUEST	Slim Categorization Coldstart-scenario	6		Slim Categorization Coldstart	1529265923013	1529265928820	OK	 
+USER	Slim Categorization Coldstart-scenario	6	END	1529265923013	1529265928821
+REQUEST	Fat Categorization Coldstart-scenario	225		Fat Categorization Coldstart	1529265923285	1529265928820	OK	 
+USER	Fat Categorization Coldstart-scenario	225	END	1529265923285	1529265928821
+REQUEST	Slim Categorization Coldstart-scenario	200		Slim Categorization Coldstart	1529265923198	1529265928824	OK	 
+USER	Slim Categorization Coldstart-scenario	200	END	1529265923198	1529265928825
+REQUEST	Slim Categorization Coldstart-scenario	92		Slim Categorization Coldstart	1529265923113	1529265928833	OK	 
+USER	Slim Categorization Coldstart-scenario	92	END	1529265923113	1529265928833
+REQUEST	Slim Categorization Coldstart-scenario	110		Slim Categorization Coldstart	1529265923146	1529265928842	OK	 
+USER	Slim Categorization Coldstart-scenario	110	END	1529265923146	1529265928842
+REQUEST	Fat Categorization Coldstart-scenario	309		Fat Categorization Coldstart	1529265923337	1529265928847	OK	 
+USER	Fat Categorization Coldstart-scenario	309	END	1529265923336	1529265928847
+REQUEST	Fat Categorization Coldstart-scenario	320		Fat Categorization Coldstart	1529265923340	1529265928871	OK	 
+REQUEST	Slim Categorization Coldstart-scenario	192		Slim Categorization Coldstart	1529265923195	1529265928872	OK	 
+USER	Slim Categorization Coldstart-scenario	192	END	1529265923195	1529265928872
+USER	Fat Categorization Coldstart-scenario	320	END	1529265923340	1529265928872
+REQUEST	Fat Categorization Coldstart-scenario	213		Fat Categorization Coldstart	1529265923280	1529265928881	OK	 
+USER	Fat Categorization Coldstart-scenario	213	END	1529265923280	1529265928881
+REQUEST	Slim Categorization Coldstart-scenario	185		Slim Categorization Coldstart	1529265923192	1529265928884	OK	 
+USER	Slim Categorization Coldstart-scenario	185	END	1529265923192	1529265928885
+REQUEST	Slim Categorization Coldstart-scenario	142		Slim Categorization Coldstart	1529265923169	1529265928895	OK	 
+USER	Slim Categorization Coldstart-scenario	142	END	1529265923169	1529265928895
+REQUEST	Fat Categorization Coldstart-scenario	310		Fat Categorization Coldstart	1529265923337	1529265928896	OK	 
+USER	Fat Categorization Coldstart-scenario	310	END	1529265923337	1529265928897
+REQUEST	Fat Categorization Coldstart-scenario	227		Fat Categorization Coldstart	1529265923303	1529265928904	OK	 
+USER	Fat Categorization Coldstart-scenario	227	END	1529265923303	1529265928904
+REQUEST	Fat Categorization Coldstart-scenario	342		Fat Categorization Coldstart	1529265923345	1529265928908	OK	 
+USER	Fat Categorization Coldstart-scenario	342	END	1529265923345	1529265928909
+REQUEST	Fat Categorization Coldstart-scenario	279		Fat Categorization Coldstart	1529265923328	1529265928911	OK	 
+USER	Fat Categorization Coldstart-scenario	279	END	1529265923328	1529265928911
+REQUEST	Slim Categorization Coldstart-scenario	73		Slim Categorization Coldstart	1529265923104	1529265928925	OK	 
+USER	Slim Categorization Coldstart-scenario	73	END	1529265923104	1529265928927
+REQUEST	Slim Categorization Coldstart-scenario	169		Slim Categorization Coldstart	1529265923181	1529265928931	OK	 
+USER	Slim Categorization Coldstart-scenario	169	END	1529265923181	1529265928933
+REQUEST	Slim Categorization Coldstart-scenario	84		Slim Categorization Coldstart	1529265923109	1529265928933	OK	 
+USER	Slim Categorization Coldstart-scenario	84	END	1529265923109	1529265928935
+REQUEST	Slim Categorization Coldstart-scenario	91		Slim Categorization Coldstart	1529265923113	1529265928947	OK	 
+USER	Slim Categorization Coldstart-scenario	91	END	1529265923112	1529265928949
+REQUEST	Fat Categorization Coldstart-scenario	343		Fat Categorization Coldstart	1529265923346	1529265928949	OK	 
+USER	Fat Categorization Coldstart-scenario	343	END	1529265923345	1529265928951
+REQUEST	Fat Categorization Coldstart-scenario	232		Fat Categorization Coldstart	1529265923305	1529265928957	OK	 
+USER	Fat Categorization Coldstart-scenario	232	END	1529265923305	1529265928959
+REQUEST	Fat Categorization Coldstart-scenario	332		Fat Categorization Coldstart	1529265923343	1529265928960	OK	 
+USER	Fat Categorization Coldstart-scenario	332	END	1529265923343	1529265928962
+REQUEST	Slim Categorization Coldstart-scenario	126		Slim Categorization Coldstart	1529265923155	1529265928967	OK	 
+USER	Slim Categorization Coldstart-scenario	126	END	1529265923155	1529265928968
+REQUEST	Slim Categorization Coldstart-scenario	116		Slim Categorization Coldstart	1529265923150	1529265928969	OK	 
+REQUEST	Fat Categorization Coldstart-scenario	341		Fat Categorization Coldstart	1529265923345	1529265928969	OK	 
+USER	Slim Categorization Coldstart-scenario	116	END	1529265923150	1529265928970
+USER	Fat Categorization Coldstart-scenario	341	END	1529265923345	1529265928970
+REQUEST	Slim Categorization Coldstart-scenario	195		Slim Categorization Coldstart	1529265923196	1529265928974	OK	 
+USER	Slim Categorization Coldstart-scenario	195	END	1529265923196	1529265928975
+REQUEST	Slim Categorization Coldstart-scenario	168		Slim Categorization Coldstart	1529265923181	1529265928986	OK	 
+USER	Slim Categorization Coldstart-scenario	168	END	1529265923181	1529265928987
+REQUEST	Slim Categorization Coldstart-scenario	47		Slim Categorization Coldstart	1529265923091	1529265928988	OK	 
+USER	Slim Categorization Coldstart-scenario	47	END	1529265923091	1529265928988
+REQUEST	Slim Categorization Coldstart-scenario	163		Slim Categorization Coldstart	1529265923179	1529265928994	OK	 
+USER	Slim Categorization Coldstart-scenario	163	END	1529265923179	1529265928995
+REQUEST	Slim Categorization Coldstart-scenario	80		Slim Categorization Coldstart	1529265923107	1529265928998	OK	 
+USER	Slim Categorization Coldstart-scenario	80	END	1529265923107	1529265928998
+REQUEST	Slim Categorization Coldstart-scenario	57		Slim Categorization Coldstart	1529265923096	1529265929009	OK	 
+USER	Slim Categorization Coldstart-scenario	57	END	1529265923096	1529265929010
+REQUEST	Fat Categorization Coldstart-scenario	307		Fat Categorization Coldstart	1529265923336	1529265929013	OK	 
+USER	Fat Categorization Coldstart-scenario	307	END	1529265923336	1529265929013
+REQUEST	Slim Categorization Coldstart-scenario	51		Slim Categorization Coldstart	1529265923093	1529265929014	OK	 
+USER	Slim Categorization Coldstart-scenario	51	END	1529265923093	1529265929014
+REQUEST	Slim Categorization Coldstart-scenario	41		Slim Categorization Coldstart	1529265923086	1529265929015	OK	 
+USER	Slim Categorization Coldstart-scenario	41	END	1529265923086	1529265929016
+REQUEST	Slim Categorization Coldstart-scenario	1		Slim Categorization Coldstart	1529265922980	1529265929018	OK	 
+USER	Slim Categorization Coldstart-scenario	1	END	1529265922962	1529265929018
+REQUEST	Fat Categorization Coldstart-scenario	254		Fat Categorization Coldstart	1529265923313	1529265929026	OK	 
+USER	Fat Categorization Coldstart-scenario	254	END	1529265923313	1529265929027
+REQUEST	Fat Categorization Coldstart-scenario	242		Fat Categorization Coldstart	1529265923309	1529265929028	OK	 
+USER	Fat Categorization Coldstart-scenario	242	END	1529265923308	1529265929028
+REQUEST	Fat Categorization Coldstart-scenario	205		Fat Categorization Coldstart	1529265923272	1529265929028	OK	 
+USER	Fat Categorization Coldstart-scenario	205	END	1529265923272	1529265929028
+REQUEST	Slim Categorization Coldstart-scenario	196		Slim Categorization Coldstart	1529265923196	1529265929030	OK	 
+USER	Slim Categorization Coldstart-scenario	196	END	1529265923196	1529265929030
+REQUEST	Slim Categorization Coldstart-scenario	135		Slim Categorization Coldstart	1529265923165	1529265929033	OK	 
+USER	Slim Categorization Coldstart-scenario	135	END	1529265923165	1529265929034
+REQUEST	Slim Categorization Coldstart-scenario	173		Slim Categorization Coldstart	1529265923187	1529265929050	OK	 
+USER	Slim Categorization Coldstart-scenario	173	END	1529265923187	1529265929051
+REQUEST	Fat Categorization Coldstart-scenario	392		Fat Categorization Coldstart	1529265923388	1529265929055	OK	 
+USER	Fat Categorization Coldstart-scenario	392	END	1529265923388	1529265929055
+REQUEST	Slim Categorization Coldstart-scenario	198		Slim Categorization Coldstart	1529265923197	1529265929068	OK	 
+USER	Slim Categorization Coldstart-scenario	198	END	1529265923197	1529265929069
+REQUEST	Fat Categorization Coldstart-scenario	238		Fat Categorization Coldstart	1529265923307	1529265929075	OK	 
+USER	Fat Categorization Coldstart-scenario	238	END	1529265923307	1529265929076
+REQUEST	Fat Categorization Coldstart-scenario	312		Fat Categorization Coldstart	1529265923337	1529265929083	OK	 
+USER	Fat Categorization Coldstart-scenario	312	END	1529265923337	1529265929083
+REQUEST	Slim Categorization Coldstart-scenario	199		Slim Categorization Coldstart	1529265923197	1529265929087	OK	 
+USER	Slim Categorization Coldstart-scenario	199	END	1529265923197	1529265929088
+REQUEST	Fat Categorization Coldstart-scenario	271		Fat Categorization Coldstart	1529265923322	1529265929089	OK	 
+USER	Fat Categorization Coldstart-scenario	271	END	1529265923322	1529265929090
+REQUEST	Fat Categorization Coldstart-scenario	237		Fat Categorization Coldstart	1529265923307	1529265929093	OK	 
+USER	Fat Categorization Coldstart-scenario	237	END	1529265923307	1529265929093
+REQUEST	Fat Categorization Coldstart-scenario	304		Fat Categorization Coldstart	1529265923335	1529265929096	OK	 
+USER	Fat Categorization Coldstart-scenario	304	END	1529265923335	1529265929097
+REQUEST	Slim Categorization Coldstart-scenario	103		Slim Categorization Coldstart	1529265923143	1529265929102	OK	 
+USER	Slim Categorization Coldstart-scenario	103	END	1529265923143	1529265929102
+REQUEST	Slim Categorization Coldstart-scenario	112		Slim Categorization Coldstart	1529265923147	1529265929105	OK	 
+USER	Slim Categorization Coldstart-scenario	112	END	1529265923147	1529265929105
+REQUEST	Slim Categorization Coldstart-scenario	172		Slim Categorization Coldstart	1529265923187	1529265929113	OK	 
+USER	Slim Categorization Coldstart-scenario	172	END	1529265923186	1529265929113
+REQUEST	Slim Categorization Coldstart-scenario	49		Slim Categorization Coldstart	1529265923092	1529265929116	OK	 
+REQUEST	Fat Categorization Coldstart-scenario	223		Fat Categorization Coldstart	1529265923284	1529265929116	OK	 
+USER	Slim Categorization Coldstart-scenario	49	END	1529265923092	1529265929117
+USER	Fat Categorization Coldstart-scenario	223	END	1529265923284	1529265929117
+REQUEST	Fat Categorization Coldstart-scenario	228		Fat Categorization Coldstart	1529265923304	1529265929118	OK	 
+USER	Fat Categorization Coldstart-scenario	228	END	1529265923303	1529265929119
+REQUEST	Slim Categorization Coldstart-scenario	113		Slim Categorization Coldstart	1529265923148	1529265929120	OK	 
+USER	Slim Categorization Coldstart-scenario	113	END	1529265923148	1529265929121
+REQUEST	Fat Categorization Coldstart-scenario	202		Fat Categorization Coldstart	1529265923269	1529265929121	OK	 
+USER	Fat Categorization Coldstart-scenario	202	END	1529265923269	1529265929121
+REQUEST	Fat Categorization Coldstart-scenario	311		Fat Categorization Coldstart	1529265923337	1529265929123	OK	 
+USER	Fat Categorization Coldstart-scenario	311	END	1529265923337	1529265929123
+REQUEST	Fat Categorization Coldstart-scenario	201		Fat Categorization Coldstart	1529265923199	1529265929125	OK	 
+USER	Fat Categorization Coldstart-scenario	201	END	1529265923198	1529265929125
+REQUEST	Fat Categorization Coldstart-scenario	313		Fat Categorization Coldstart	1529265923338	1529265929136	OK	 
+USER	Fat Categorization Coldstart-scenario	313	END	1529265923338	1529265929136
+REQUEST	Slim Categorization Coldstart-scenario	119		Slim Categorization Coldstart	1529265923152	1529265929140	OK	 
+USER	Slim Categorization Coldstart-scenario	119	END	1529265923152	1529265929141
+REQUEST	Fat Categorization Coldstart-scenario	262		Fat Categorization Coldstart	1529265923318	1529265929149	OK	 
+USER	Fat Categorization Coldstart-scenario	262	END	1529265923318	1529265929149
+REQUEST	Fat Categorization Coldstart-scenario	340		Fat Categorization Coldstart	1529265923345	1529265929150	OK	 
+USER	Fat Categorization Coldstart-scenario	340	END	1529265923345	1529265929150
+REQUEST	Fat Categorization Coldstart-scenario	207		Fat Categorization Coldstart	1529265923277	1529265929156	OK	 
+USER	Fat Categorization Coldstart-scenario	207	END	1529265923276	1529265929157
+REQUEST	Slim Categorization Coldstart-scenario	53		Slim Categorization Coldstart	1529265923094	1529265929158	OK	 
+USER	Slim Categorization Coldstart-scenario	53	END	1529265923094	1529265929159
+REQUEST	Slim Categorization Coldstart-scenario	127		Slim Categorization Coldstart	1529265923156	1529265929161	OK	 
+USER	Slim Categorization Coldstart-scenario	127	END	1529265923156	1529265929162
+REQUEST	Fat Categorization Coldstart-scenario	381		Fat Categorization Coldstart	1529265923384	1529265929162	OK	 
+USER	Fat Categorization Coldstart-scenario	381	END	1529265923384	1529265929163
+REQUEST	Slim Categorization Coldstart-scenario	188		Slim Categorization Coldstart	1529265923193	1529265929163	OK	 
+USER	Slim Categorization Coldstart-scenario	188	END	1529265923193	1529265929163
+REQUEST	Fat Categorization Coldstart-scenario	217		Fat Categorization Coldstart	1529265923281	1529265929169	OK	 
+USER	Fat Categorization Coldstart-scenario	217	END	1529265923281	1529265929169
+REQUEST	Slim Categorization Coldstart-scenario	197		Slim Categorization Coldstart	1529265923197	1529265929177	OK	 
+USER	Slim Categorization Coldstart-scenario	197	END	1529265923196	1529265929177
+REQUEST	Fat Categorization Coldstart-scenario	351		Fat Categorization Coldstart	1529265923374	1529265929177	OK	 
+REQUEST	Slim Categorization Coldstart-scenario	128		Slim Categorization Coldstart	1529265923157	1529265929177	OK	 
+USER	Fat Categorization Coldstart-scenario	351	END	1529265923374	1529265929178
+USER	Slim Categorization Coldstart-scenario	128	END	1529265923157	1529265929178
+REQUEST	Fat Categorization Coldstart-scenario	210		Fat Categorization Coldstart	1529265923278	1529265929187	OK	 
+REQUEST	Slim Categorization Coldstart-scenario	184		Slim Categorization Coldstart	1529265923191	1529265929187	OK	 
+USER	Fat Categorization Coldstart-scenario	210	END	1529265923278	1529265929187
+USER	Slim Categorization Coldstart-scenario	184	END	1529265923191	1529265929187
+REQUEST	Slim Categorization Coldstart-scenario	171		Slim Categorization Coldstart	1529265923182	1529265929192	OK	 
+REQUEST	Fat Categorization Coldstart-scenario	367		Fat Categorization Coldstart	1529265923379	1529265929192	OK	 
+USER	Fat Categorization Coldstart-scenario	367	END	1529265923379	1529265929192
+USER	Slim Categorization Coldstart-scenario	171	END	1529265923182	1529265929192
+REQUEST	Fat Categorization Coldstart-scenario	350		Fat Categorization Coldstart	1529265923347	1529265929196	OK	 
+USER	Fat Categorization Coldstart-scenario	350	END	1529265923347	1529265929196
+REQUEST	Fat Categorization Coldstart-scenario	246		Fat Categorization Coldstart	1529265923310	1529265929204	OK	 
+USER	Fat Categorization Coldstart-scenario	246	END	1529265923310	1529265929204
+REQUEST	Slim Categorization Coldstart-scenario	182		Slim Categorization Coldstart	1529265923190	1529265929204	OK	 
+USER	Slim Categorization Coldstart-scenario	182	END	1529265923190	1529265929204
+REQUEST	Slim Categorization Coldstart-scenario	134		Slim Categorization Coldstart	1529265923164	1529265929207	OK	 
+USER	Slim Categorization Coldstart-scenario	134	END	1529265923164	1529265929207
+REQUEST	Fat Categorization Coldstart-scenario	224		Fat Categorization Coldstart	1529265923285	1529265929218	OK	 
+REQUEST	Slim Categorization Coldstart-scenario	75		Slim Categorization Coldstart	1529265923105	1529265929218	OK	 
+REQUEST	Slim Categorization Coldstart-scenario	10		Slim Categorization Coldstart	1529265923019	1529265929225	OK	 
+REQUEST	Slim Categorization Coldstart-scenario	186		Slim Categorization Coldstart	1529265923192	1529265929225	OK	 
+USER	Slim Categorization Coldstart-scenario	75	END	1529265923105	1529265929225
+USER	Fat Categorization Coldstart-scenario	224	END	1529265923284	1529265929225
+USER	Slim Categorization Coldstart-scenario	10	END	1529265923019	1529265929225
+USER	Slim Categorization Coldstart-scenario	186	END	1529265923192	1529265929225
+REQUEST	Slim Categorization Coldstart-scenario	81		Slim Categorization Coldstart	1529265923108	1529265929231	OK	 
+USER	Slim Categorization Coldstart-scenario	81	END	1529265923108	1529265929231
+REQUEST	Slim Categorization Coldstart-scenario	99		Slim Categorization Coldstart	1529265923141	1529265929236	OK	 
+USER	Slim Categorization Coldstart-scenario	99	END	1529265923140	1529265929236
+REQUEST	Slim Categorization Coldstart-scenario	133		Slim Categorization Coldstart	1529265923164	1529265929238	OK	 
+USER	Slim Categorization Coldstart-scenario	133	END	1529265923159	1529265929238
+REQUEST	Slim Categorization Coldstart-scenario	191		Slim Categorization Coldstart	1529265923194	1529265929250	OK	 
+USER	Slim Categorization Coldstart-scenario	191	END	1529265923194	1529265929250
+REQUEST	Slim Categorization Coldstart-scenario	175		Slim Categorization Coldstart	1529265923188	1529265929251	OK	 
+USER	Slim Categorization Coldstart-scenario	175	END	1529265923188	1529265929252
+REQUEST	Slim Categorization Coldstart-scenario	39		Slim Categorization Coldstart	1529265923085	1529265929264	OK	 
+USER	Slim Categorization Coldstart-scenario	39	END	1529265923084	1529265929264
+REQUEST	Slim Categorization Coldstart-scenario	115		Slim Categorization Coldstart	1529265923150	1529265929266	OK	 
+USER	Slim Categorization Coldstart-scenario	115	END	1529265923149	1529265929266
+REQUEST	Fat Categorization Coldstart-scenario	364		Fat Categorization Coldstart	1529265923378	1529265929268	OK	 
+USER	Fat Categorization Coldstart-scenario	364	END	1529265923378	1529265929268
+REQUEST	Fat Categorization Coldstart-scenario	258		Fat Categorization Coldstart	1529265923316	1529265929268	OK	 
+USER	Fat Categorization Coldstart-scenario	258	END	1529265923316	1529265929269
+REQUEST	Fat Categorization Coldstart-scenario	215		Fat Categorization Coldstart	1529265923281	1529265929278	OK	 
+USER	Fat Categorization Coldstart-scenario	215	END	1529265923280	1529265929278
+REQUEST	Slim Categorization Coldstart-scenario	158		Slim Categorization Coldstart	1529265923176	1529265929281	OK	 
+USER	Slim Categorization Coldstart-scenario	158	END	1529265923176	1529265929281
+REQUEST	Fat Categorization Coldstart-scenario	236		Fat Categorization Coldstart	1529265923306	1529265929282	OK	 
+USER	Fat Categorization Coldstart-scenario	236	END	1529265923306	1529265929282
+REQUEST	Fat Categorization Coldstart-scenario	263		Fat Categorization Coldstart	1529265923319	1529265929283	OK	 
+USER	Fat Categorization Coldstart-scenario	263	END	1529265923319	1529265929283
+REQUEST	Fat Categorization Coldstart-scenario	295		Fat Categorization Coldstart	1529265923332	1529265929294	OK	 
+USER	Fat Categorization Coldstart-scenario	295	END	1529265923332	1529265929295
+REQUEST	Fat Categorization Coldstart-scenario	369		Fat Categorization Coldstart	1529265923380	1529265929296	OK	 
+USER	Fat Categorization Coldstart-scenario	369	END	1529265923380	1529265929296
+REQUEST	Slim Categorization Coldstart-scenario	62		Slim Categorization Coldstart	1529265923098	1529265929303	OK	 
+USER	Slim Categorization Coldstart-scenario	62	END	1529265923098	1529265929304
+REQUEST	Slim Categorization Coldstart-scenario	129		Slim Categorization Coldstart	1529265923158	1529265929324	OK	 
+REQUEST	Fat Categorization Coldstart-scenario	216		Fat Categorization Coldstart	1529265923281	1529265929325	OK	 
+USER	Slim Categorization Coldstart-scenario	129	END	1529265923158	1529265929325
+USER	Fat Categorization Coldstart-scenario	216	END	1529265923281	1529265929326
+REQUEST	Fat Categorization Coldstart-scenario	366		Fat Categorization Coldstart	1529265923379	1529265929342	OK	 
+USER	Fat Categorization Coldstart-scenario	366	END	1529265923379	1529265929343
+REQUEST	Fat Categorization Coldstart-scenario	266		Fat Categorization Coldstart	1529265923320	1529265929357	OK	 
+USER	Fat Categorization Coldstart-scenario	266	END	1529265923320	1529265929359
+REQUEST	Slim Categorization Coldstart-scenario	178		Slim Categorization Coldstart	1529265923189	1529265929385	OK	 
+USER	Slim Categorization Coldstart-scenario	178	END	1529265923189	1529265929385
+REQUEST	Fat Categorization Coldstart-scenario	385		Fat Categorization Coldstart	1529265923386	1529265929386	OK	 
+USER	Fat Categorization Coldstart-scenario	385	END	1529265923386	1529265929387
+REQUEST	Slim Categorization Coldstart-scenario	66		Slim Categorization Coldstart	1529265923100	1529265929392	OK	 
+USER	Slim Categorization Coldstart-scenario	66	END	1529265923100	1529265929392
+REQUEST	Slim Categorization Coldstart-scenario	79		Slim Categorization Coldstart	1529265923107	1529265929407	OK	 
+USER	Slim Categorization Coldstart-scenario	79	END	1529265923107	1529265929408
+REQUEST	Slim Categorization Coldstart-scenario	104		Slim Categorization Coldstart	1529265923143	1529265929434	OK	 
+USER	Slim Categorization Coldstart-scenario	104	END	1529265923143	1529265929435
+REQUEST	Slim Categorization Coldstart-scenario	164		Slim Categorization Coldstart	1529265923179	1529265929457	OK	 
+USER	Slim Categorization Coldstart-scenario	164	END	1529265923179	1529265929458
+REQUEST	Slim Categorization Coldstart-scenario	176		Slim Categorization Coldstart	1529265923188	1529265929464	OK	 
+USER	Slim Categorization Coldstart-scenario	176	END	1529265923188	1529265929465
+REQUEST	Fat Categorization Coldstart-scenario	208		Fat Categorization Coldstart	1529265923277	1529265929468	OK	 
+USER	Fat Categorization Coldstart-scenario	208	END	1529265923277	1529265929468
+REQUEST	Slim Categorization Coldstart-scenario	130		Slim Categorization Coldstart	1529265923158	1529265929471	OK	 
+USER	Slim Categorization Coldstart-scenario	130	END	1529265923158	1529265929472
+REQUEST	Fat Categorization Coldstart-scenario	335		Fat Categorization Coldstart	1529265923343	1529265929487	OK	 
+USER	Fat Categorization Coldstart-scenario	335	END	1529265923343	1529265929488
+REQUEST	Slim Categorization Coldstart-scenario	179		Slim Categorization Coldstart	1529265923189	1529265929491	OK	 
+USER	Slim Categorization Coldstart-scenario	179	END	1529265923189	1529265929491
+REQUEST	Slim Categorization Coldstart-scenario	109		Slim Categorization Coldstart	1529265923146	1529265929495	OK	 
+USER	Slim Categorization Coldstart-scenario	109	END	1529265923146	1529265929495
+REQUEST	Slim Categorization Coldstart-scenario	174		Slim Categorization Coldstart	1529265923187	1529265929501	OK	 
+USER	Slim Categorization Coldstart-scenario	174	END	1529265923187	1529265929501
+REQUEST	Slim Categorization Coldstart-scenario	144		Slim Categorization Coldstart	1529265923170	1529265929507	OK	 
+USER	Slim Categorization Coldstart-scenario	144	END	1529265923170	1529265929508
+REQUEST	Fat Categorization Coldstart-scenario	212		Fat Categorization Coldstart	1529265923279	1529265929511	OK	 
+USER	Fat Categorization Coldstart-scenario	212	END	1529265923279	1529265929511
+REQUEST	Fat Categorization Coldstart-scenario	249		Fat Categorization Coldstart	1529265923311	1529265929552	OK	 
+USER	Fat Categorization Coldstart-scenario	249	END	1529265923311	1529265929553
+REQUEST	Fat Categorization Coldstart-scenario	247		Fat Categorization Coldstart	1529265923310	1529265929579	OK	 
+USER	Fat Categorization Coldstart-scenario	247	END	1529265923310	1529265929581
+REQUEST	Slim Categorization Coldstart-scenario	54		Slim Categorization Coldstart	1529265923095	1529265929590	OK	 
+USER	Slim Categorization Coldstart-scenario	54	END	1529265923094	1529265929590
+REQUEST	Slim Categorization Coldstart-scenario	189		Slim Categorization Coldstart	1529265923193	1529265929602	OK	 
+USER	Slim Categorization Coldstart-scenario	189	END	1529265923193	1529265929602
+REQUEST	Fat Categorization Coldstart-scenario	368		Fat Categorization Coldstart	1529265923380	1529265929608	OK	 
+USER	Fat Categorization Coldstart-scenario	368	END	1529265923380	1529265929609
+REQUEST	Slim Categorization Coldstart-scenario	147		Slim Categorization Coldstart	1529265923172	1529265929619	OK	 
+USER	Slim Categorization Coldstart-scenario	147	END	1529265923172	1529265929620
+REQUEST	Slim Categorization Coldstart-scenario	111		Slim Categorization Coldstart	1529265923147	1529265929622	OK	 
+USER	Slim Categorization Coldstart-scenario	111	END	1529265923147	1529265929623
+REQUEST	Slim Categorization Coldstart-scenario	100		Slim Categorization Coldstart	1529265923141	1529265929633	OK	 
+USER	Slim Categorization Coldstart-scenario	100	END	1529265923141	1529265929633
+REQUEST	Slim Categorization Coldstart-scenario	122		Slim Categorization Coldstart	1529265923153	1529265929654	OK	 
+USER	Slim Categorization Coldstart-scenario	122	END	1529265923153	1529265929655
+REQUEST	Slim Categorization Coldstart-scenario	143		Slim Categorization Coldstart	1529265923170	1529265929662	OK	 
+USER	Slim Categorization Coldstart-scenario	143	END	1529265923170	1529265929662
+REQUEST	Fat Categorization Coldstart-scenario	288		Fat Categorization Coldstart	1529265923331	1529265929694	OK	 
+USER	Fat Categorization Coldstart-scenario	288	END	1529265923330	1529265929696
+REQUEST	Slim Categorization Coldstart-scenario	181		Slim Categorization Coldstart	1529265923190	1529265929696	OK	 
+USER	Slim Categorization Coldstart-scenario	181	END	1529265923190	1529265929698
+REQUEST	Fat Categorization Coldstart-scenario	248		Fat Categorization Coldstart	1529265923310	1529265929717	OK	 
+USER	Fat Categorization Coldstart-scenario	248	END	1529265923310	1529265929718
+REQUEST	Fat Categorization Coldstart-scenario	233		Fat Categorization Coldstart	1529265923305	1529265929737	OK	 
+USER	Fat Categorization Coldstart-scenario	233	END	1529265923305	1529265929738
+REQUEST	Fat Categorization Coldstart-scenario	297		Fat Categorization Coldstart	1529265923333	1529265929754	OK	 
+USER	Fat Categorization Coldstart-scenario	297	END	1529265923333	1529265929756
+REQUEST	Slim Categorization Coldstart-scenario	167		Slim Categorization Coldstart	1529265923181	1529265929837	OK	 
+USER	Slim Categorization Coldstart-scenario	167	END	1529265923180	1529265929838
+REQUEST	Fat Categorization Coldstart-scenario	382		Fat Categorization Coldstart	1529265923384	1529265929848	OK	 
+USER	Fat Categorization Coldstart-scenario	382	END	1529265923384	1529265929849
+REQUEST	Slim Categorization Coldstart-scenario	132		Slim Categorization Coldstart	1529265923159	1529265929875	OK	 
+USER	Slim Categorization Coldstart-scenario	132	END	1529265923159	1529265929875
+REQUEST	Fat Categorization Coldstart-scenario	292		Fat Categorization Coldstart	1529265923332	1529265929891	OK	 
+USER	Fat Categorization Coldstart-scenario	292	END	1529265923331	1529265929891
+REQUEST	Fat Categorization Coldstart-scenario	291		Fat Categorization Coldstart	1529265923331	1529265929893	OK	 
+USER	Fat Categorization Coldstart-scenario	291	END	1529265923331	1529265929893
+REQUEST	Slim Categorization Coldstart-scenario	117		Slim Categorization Coldstart	1529265923151	1529265929905	OK	 
+USER	Slim Categorization Coldstart-scenario	117	END	1529265923151	1529265929907
+REQUEST	Slim Categorization Coldstart-scenario	114		Slim Categorization Coldstart	1529265923149	1529265929910	OK	 
+USER	Slim Categorization Coldstart-scenario	114	END	1529265923149	1529265929912
+REQUEST	Fat Categorization Coldstart-scenario	229		Fat Categorization Coldstart	1529265923304	1529265929927	OK	 
+USER	Fat Categorization Coldstart-scenario	229	END	1529265923304	1529265929928
+REQUEST	Slim Categorization Coldstart-scenario	151		Slim Categorization Coldstart	1529265923173	1529265929929	OK	 
+USER	Slim Categorization Coldstart-scenario	151	END	1529265923173	1529265929930
+REQUEST	Slim Categorization Coldstart-scenario	124		Slim Categorization Coldstart	1529265923154	1529265929933	OK	 
+USER	Slim Categorization Coldstart-scenario	124	END	1529265923154	1529265929934
+REQUEST	Slim Categorization Coldstart-scenario	98		Slim Categorization Coldstart	1529265923140	1529265929953	OK	 
+USER	Slim Categorization Coldstart-scenario	98	END	1529265923140	1529265929954
+REQUEST	Fat Categorization Coldstart-scenario	278		Fat Categorization Coldstart	1529265923327	1529265929956	OK	 
+USER	Fat Categorization Coldstart-scenario	278	END	1529265923327	1529265929957
+REQUEST	Slim Categorization Coldstart-scenario	160		Slim Categorization Coldstart	1529265923177	1529265929981	OK	 
+USER	Slim Categorization Coldstart-scenario	160	END	1529265923177	1529265929983
+REQUEST	Slim Categorization Coldstart-scenario	123		Slim Categorization Coldstart	1529265923154	1529265929989	OK	 
+USER	Slim Categorization Coldstart-scenario	123	END	1529265923154	1529265929991
+REQUEST	Fat Categorization Coldstart-scenario	349		Fat Categorization Coldstart	1529265923347	1529265929990	OK	 
+USER	Fat Categorization Coldstart-scenario	349	END	1529265923347	1529265929992
+REQUEST	Fat Categorization Coldstart-scenario	296		Fat Categorization Coldstart	1529265923333	1529265930053	OK	 
+USER	Fat Categorization Coldstart-scenario	296	END	1529265923333	1529265930054
+REQUEST	Fat Categorization Coldstart-scenario	282		Fat Categorization Coldstart	1529265923329	1529265930092	OK	 
+USER	Fat Categorization Coldstart-scenario	282	END	1529265923329	1529265930093
+REQUEST	Fat Categorization Coldstart-scenario	387		Fat Categorization Coldstart	1529265923387	1529265930105	OK	 
+USER	Fat Categorization Coldstart-scenario	387	END	1529265923387	1529265930106
+REQUEST	Fat Categorization Coldstart-scenario	400		Fat Categorization Coldstart	1529265923391	1529265930122	OK	 
+USER	Fat Categorization Coldstart-scenario	400	END	1529265923391	1529265930123
+REQUEST	Fat Categorization Coldstart-scenario	277		Fat Categorization Coldstart	1529265923327	1529265930135	OK	 
+USER	Fat Categorization Coldstart-scenario	277	END	1529265923327	1529265930136
+REQUEST	Fat Categorization Coldstart-scenario	316		Fat Categorization Coldstart	1529265923339	1529265930173	OK	 
+USER	Fat Categorization Coldstart-scenario	316	END	1529265923338	1529265930175
+REQUEST	Fat Categorization Coldstart-scenario	299		Fat Categorization Coldstart	1529265923333	1529265930181	OK	 
+USER	Fat Categorization Coldstart-scenario	299	END	1529265923333	1529265930182
+REQUEST	Fat Categorization Coldstart-scenario	285		Fat Categorization Coldstart	1529265923330	1529265930186	OK	 
+USER	Fat Categorization Coldstart-scenario	285	END	1529265923330	1529265930188
+REQUEST	Fat Categorization Coldstart-scenario	323		Fat Categorization Coldstart	1529265923340	1529265930232	OK	 
+USER	Fat Categorization Coldstart-scenario	323	END	1529265923340	1529265930232
+REQUEST	Fat Categorization Coldstart-scenario	280		Fat Categorization Coldstart	1529265923328	1529265930247	OK	 
+USER	Fat Categorization Coldstart-scenario	280	END	1529265923328	1529265930248
+REQUEST	Fat Categorization Coldstart-scenario	301		Fat Categorization Coldstart	1529265923334	1529265930271	OK	 
+USER	Fat Categorization Coldstart-scenario	301	END	1529265923334	1529265930271
+REQUEST	Slim Categorization Coldstart-scenario	72		Slim Categorization Coldstart	1529265923104	1529265930276	OK	 
+USER	Slim Categorization Coldstart-scenario	72	END	1529265923103	1529265930276
+REQUEST	Fat Categorization Coldstart-scenario	329		Fat Categorization Coldstart	1529265923342	1529265930303	OK	 
+USER	Fat Categorization Coldstart-scenario	329	END	1529265923342	1529265930304
+REQUEST	Fat Categorization Coldstart-scenario	302		Fat Categorization Coldstart	1529265923334	1529265930304	OK	 
+USER	Fat Categorization Coldstart-scenario	302	END	1529265923334	1529265930304
+REQUEST	Fat Categorization Coldstart-scenario	308		Fat Categorization Coldstart	1529265923336	1529265930315	OK	 
+USER	Fat Categorization Coldstart-scenario	308	END	1529265923336	1529265930316
+REQUEST	Fat Categorization Coldstart-scenario	276		Fat Categorization Coldstart	1529265923327	1529265930319	OK	 
+USER	Fat Categorization Coldstart-scenario	276	END	1529265923327	1529265930320
+REQUEST	Slim Categorization Coldstart-scenario	30		Slim Categorization Coldstart	1529265923077	1529265930369	OK	 
+USER	Slim Categorization Coldstart-scenario	30	END	1529265923077	1529265930370
+REQUEST	Fat Categorization Coldstart-scenario	378		Fat Categorization Coldstart	1529265923383	1529265930373	OK	 
+REQUEST	Fat Categorization Coldstart-scenario	399		Fat Categorization Coldstart	1529265923390	1529265930374	OK	 
+USER	Fat Categorization Coldstart-scenario	378	END	1529265923383	1529265930375
+USER	Fat Categorization Coldstart-scenario	399	END	1529265923390	1529265930375
+REQUEST	Fat Categorization Coldstart-scenario	275		Fat Categorization Coldstart	1529265923327	1529265930446	OK	 
+USER	Fat Categorization Coldstart-scenario	275	END	1529265923326	1529265930447
+REQUEST	Fat Categorization Coldstart-scenario	274		Fat Categorization Coldstart	1529265923326	1529265930482	OK	 
+USER	Fat Categorization Coldstart-scenario	274	END	1529265923326	1529265930483
+REQUEST	Fat Categorization Coldstart-scenario	359		Fat Categorization Coldstart	1529265923377	1529265930490	OK	 
+USER	Fat Categorization Coldstart-scenario	359	END	1529265923377	1529265930490
+REQUEST	Fat Categorization Coldstart-scenario	298		Fat Categorization Coldstart	1529265923333	1529265930528	OK	 
+USER	Fat Categorization Coldstart-scenario	298	END	1529265923333	1529265930529
+REQUEST	Slim Categorization Coldstart-scenario	161		Slim Categorization Coldstart	1529265923178	1529265930530	OK	 
+USER	Slim Categorization Coldstart-scenario	161	END	1529265923178	1529265930531
+REQUEST	Fat Categorization Coldstart-scenario	214		Fat Categorization Coldstart	1529265923280	1529265930573	OK	 
+USER	Fat Categorization Coldstart-scenario	214	END	1529265923280	1529265930574
+REQUEST	Fat Categorization Coldstart-scenario	250		Fat Categorization Coldstart	1529265923311	1529265930584	OK	 
+USER	Fat Categorization Coldstart-scenario	250	END	1529265923311	1529265930584
+REQUEST	Fat Categorization Coldstart-scenario	289		Fat Categorization Coldstart	1529265923331	1529265930591	OK	 
+USER	Fat Categorization Coldstart-scenario	289	END	1529265923331	1529265930592
+REQUEST	Slim Categorization Coldstart-scenario	177		Slim Categorization Coldstart	1529265923189	1529265930609	OK	 
+USER	Slim Categorization Coldstart-scenario	177	END	1529265923188	1529265930611
+REQUEST	Fat Categorization Coldstart-scenario	219		Fat Categorization Coldstart	1529265923282	1529265930682	OK	 
+USER	Fat Categorization Coldstart-scenario	219	END	1529265923282	1529265930683
+REQUEST	Fat Categorization Coldstart-scenario	345		Fat Categorization Coldstart	1529265923346	1529265930700	OK	 
+USER	Fat Categorization Coldstart-scenario	345	END	1529265923346	1529265930700
+REQUEST	Fat Categorization Coldstart-scenario	395		Fat Categorization Coldstart	1529265923389	1529265930714	OK	 
+USER	Fat Categorization Coldstart-scenario	395	END	1529265923389	1529265930715
+REQUEST	Fat Categorization Coldstart-scenario	375		Fat Categorization Coldstart	1529265923382	1529265930723	OK	 
+USER	Fat Categorization Coldstart-scenario	375	END	1529265923382	1529265930724
+REQUEST	Zip Categorization Coldstart-scenario	443		Zip Categorization Coldstart	1529265924447	1529265930768	OK	 
+USER	Zip Categorization Coldstart-scenario	443	END	1529265924446	1529265930770
+REQUEST	Fat Categorization Coldstart-scenario	348		Fat Categorization Coldstart	1529265923347	1529265930773	OK	 
+USER	Fat Categorization Coldstart-scenario	348	END	1529265923347	1529265930774
+REQUEST	Fat Categorization Coldstart-scenario	283		Fat Categorization Coldstart	1529265923329	1529265930775	OK	 
+USER	Fat Categorization Coldstart-scenario	283	END	1529265923329	1529265930776
+REQUEST	Fat Categorization Coldstart-scenario	373		Fat Categorization Coldstart	1529265923381	1529265930787	OK	 
+USER	Fat Categorization Coldstart-scenario	373	END	1529265923381	1529265930789
+REQUEST	Fat Categorization Coldstart-scenario	305		Fat Categorization Coldstart	1529265923335	1529265930815	OK	 
+USER	Fat Categorization Coldstart-scenario	305	END	1529265923335	1529265930816
+REQUEST	Zip Categorization Coldstart-scenario	442		Zip Categorization Coldstart	1529265924446	1529265930825	OK	 
+USER	Zip Categorization Coldstart-scenario	442	END	1529265924446	1529265930826
+REQUEST	Fat Categorization Coldstart-scenario	356		Fat Categorization Coldstart	1529265923376	1529265930856	OK	 
+USER	Fat Categorization Coldstart-scenario	356	END	1529265923376	1529265930857
+REQUEST	Zip Categorization Coldstart-scenario	468		Zip Categorization Coldstart	1529265924452	1529265930890	OK	 
+USER	Zip Categorization Coldstart-scenario	468	END	1529265924452	1529265930891
+REQUEST	Fat Categorization Coldstart-scenario	317		Fat Categorization Coldstart	1529265923339	1529265930905	OK	 
+REQUEST	Fat Categorization Coldstart-scenario	251		Fat Categorization Coldstart	1529265923312	1529265930905	OK	 
+USER	Fat Categorization Coldstart-scenario	317	END	1529265923339	1529265930905
+USER	Fat Categorization Coldstart-scenario	251	END	1529265923312	1529265930905
+REQUEST	Zip Categorization Coldstart-scenario	440		Zip Categorization Coldstart	1529265924446	1529265930907	OK	 
+USER	Zip Categorization Coldstart-scenario	440	END	1529265924446	1529265930907
+REQUEST	Fat Categorization Coldstart-scenario	261		Fat Categorization Coldstart	1529265923318	1529265930976	OK	 
+USER	Fat Categorization Coldstart-scenario	261	END	1529265923318	1529265930977
+REQUEST	Fat Categorization Coldstart-scenario	315		Fat Categorization Coldstart	1529265923338	1529265930977	OK	 
+USER	Fat Categorization Coldstart-scenario	315	END	1529265923338	1529265930979
+REQUEST	Fat Categorization Coldstart-scenario	374		Fat Categorization Coldstart	1529265923382	1529265930986	OK	 
+USER	Fat Categorization Coldstart-scenario	374	END	1529265923382	1529265930988
+REQUEST	Fat Categorization Coldstart-scenario	331		Fat Categorization Coldstart	1529265923342	1529265931013	OK	 
+USER	Fat Categorization Coldstart-scenario	331	END	1529265923342	1529265931015
+REQUEST	Fat Categorization Coldstart-scenario	386		Fat Categorization Coldstart	1529265923386	1529265931016	OK	 
+USER	Fat Categorization Coldstart-scenario	386	END	1529265923386	1529265931017
+REQUEST	Fat Categorization Coldstart-scenario	235		Fat Categorization Coldstart	1529265923306	1529265931027	OK	 
+USER	Fat Categorization Coldstart-scenario	235	END	1529265923306	1529265931028
+REQUEST	Fat Categorization Coldstart-scenario	376		Fat Categorization Coldstart	1529265923382	1529265931037	OK	 
+USER	Fat Categorization Coldstart-scenario	376	END	1529265923382	1529265931037
+REQUEST	Fat Categorization Coldstart-scenario	380		Fat Categorization Coldstart	1529265923384	1529265931057	OK	 
+USER	Fat Categorization Coldstart-scenario	380	END	1529265923384	1529265931058
+REQUEST	Fat Categorization Coldstart-scenario	327		Fat Categorization Coldstart	1529265923341	1529265931064	OK	 
+USER	Fat Categorization Coldstart-scenario	327	END	1529265923341	1529265931064
+REQUEST	Fat Categorization Coldstart-scenario	393		Fat Categorization Coldstart	1529265923389	1529265931067	OK	 
+USER	Fat Categorization Coldstart-scenario	393	END	1529265923388	1529265931067
+REQUEST	Fat Categorization Coldstart-scenario	346		Fat Categorization Coldstart	1529265923346	1529265931076	OK	 
+USER	Fat Categorization Coldstart-scenario	346	END	1529265923346	1529265931076
+REQUEST	Fat Categorization Coldstart-scenario	328		Fat Categorization Coldstart	1529265923342	1529265931120	OK	 
+USER	Fat Categorization Coldstart-scenario	328	END	1529265923342	1529265931121
+REQUEST	Fat Categorization Coldstart-scenario	355		Fat Categorization Coldstart	1529265923376	1529265931199	OK	 
+USER	Fat Categorization Coldstart-scenario	355	END	1529265923376	1529265931200
+REQUEST	Fat Categorization Coldstart-scenario	314		Fat Categorization Coldstart	1529265923338	1529265931232	OK	 
+USER	Fat Categorization Coldstart-scenario	314	END	1529265923338	1529265931233
+REQUEST	Fat Categorization Coldstart-scenario	388		Fat Categorization Coldstart	1529265923387	1529265931242	OK	 
+USER	Fat Categorization Coldstart-scenario	388	END	1529265923387	1529265931242
+REQUEST	Fat Categorization Coldstart-scenario	370		Fat Categorization Coldstart	1529265923380	1529265931303	OK	 
+USER	Fat Categorization Coldstart-scenario	370	END	1529265923380	1529265931304
+REQUEST	Fat Categorization Coldstart-scenario	396		Fat Categorization Coldstart	1529265923390	1529265931321	OK	 
+USER	Fat Categorization Coldstart-scenario	396	END	1529265923389	1529265931322
+REQUEST	Fat Categorization Coldstart-scenario	389		Fat Categorization Coldstart	1529265923387	1529265931339	OK	 
+USER	Fat Categorization Coldstart-scenario	389	END	1529265923387	1529265931340
+REQUEST	Zip Categorization Coldstart-scenario	419		Zip Categorization Coldstart	1529265924441	1529265931350	OK	 
+USER	Zip Categorization Coldstart-scenario	419	END	1529265924441	1529265931351
+REQUEST	Fat Categorization Coldstart-scenario	326		Fat Categorization Coldstart	1529265923341	1529265931361	OK	 
+REQUEST	Fat Categorization Coldstart-scenario	362		Fat Categorization Coldstart	1529265923378	1529265931361	OK	 
+USER	Fat Categorization Coldstart-scenario	326	END	1529265923341	1529265931362
+USER	Fat Categorization Coldstart-scenario	362	END	1529265923378	1529265931363
+REQUEST	Fat Categorization Coldstart-scenario	318		Fat Categorization Coldstart	1529265923339	1529265931376	OK	 
+USER	Fat Categorization Coldstart-scenario	318	END	1529265923339	1529265931377
+REQUEST	Fat Categorization Coldstart-scenario	358		Fat Categorization Coldstart	1529265923377	1529265931445	OK	 
+USER	Fat Categorization Coldstart-scenario	358	END	1529265923376	1529265931446
+REQUEST	Fat Categorization Coldstart-scenario	372		Fat Categorization Coldstart	1529265923381	1529265931481	OK	 
+USER	Fat Categorization Coldstart-scenario	372	END	1529265923381	1529265931482
+REQUEST	Fat Categorization Coldstart-scenario	394		Fat Categorization Coldstart	1529265923389	1529265931524	OK	 
+USER	Fat Categorization Coldstart-scenario	394	END	1529265923389	1529265931525
+REQUEST	Slim Categorization Coldstart-scenario	43		Slim Categorization Coldstart	1529265923089	1529265931753	OK	 
+USER	Slim Categorization Coldstart-scenario	43	END	1529265923088	1529265931753
+REQUEST	Slim Categorization Coldstart-scenario	155		Slim Categorization Coldstart	1529265923175	1529265931850	OK	 
+USER	Slim Categorization Coldstart-scenario	155	END	1529265923175	1529265931852
+REQUEST	Zip Categorization Coldstart-scenario	461		Zip Categorization Coldstart	1529265924451	1529265931978	OK	 
+USER	Zip Categorization Coldstart-scenario	461	END	1529265924451	1529265931979
+REQUEST	Zip Categorization Coldstart-scenario	425		Zip Categorization Coldstart	1529265924442	1529265931994	OK	 
+USER	Zip Categorization Coldstart-scenario	425	END	1529265924442	1529265931995
+REQUEST	Fat Categorization Coldstart-scenario	361		Fat Categorization Coldstart	1529265923377	1529265931996	OK	 
+USER	Fat Categorization Coldstart-scenario	361	END	1529265923377	1529265931996
+REQUEST	Fat Categorization Coldstart-scenario	336		Fat Categorization Coldstart	1529265923344	1529265932064	OK	 
+USER	Fat Categorization Coldstart-scenario	336	END	1529265923344	1529265932065
+REQUEST	Fat Categorization Coldstart-scenario	397		Fat Categorization Coldstart	1529265923390	1529265932070	OK	 
+USER	Fat Categorization Coldstart-scenario	397	END	1529265923390	1529265932070
+REQUEST	Zip Categorization Coldstart-scenario	424		Zip Categorization Coldstart	1529265924442	1529265932162	OK	 
+USER	Zip Categorization Coldstart-scenario	424	END	1529265924442	1529265932163
+REQUEST	Zip Categorization Coldstart-scenario	513		Zip Categorization Coldstart	1529265924463	1529265932170	OK	 
+USER	Zip Categorization Coldstart-scenario	513	END	1529265924463	1529265932171
+REQUEST	Fat Categorization Coldstart-scenario	234		Fat Categorization Coldstart	1529265923306	1529265932300	OK	 
+USER	Fat Categorization Coldstart-scenario	234	END	1529265923306	1529265932300
+REQUEST	Zip Categorization Coldstart-scenario	437		Zip Categorization Coldstart	1529265924445	1529265932312	OK	 
+USER	Zip Categorization Coldstart-scenario	437	END	1529265924445	1529265932312
+REQUEST	Fat Categorization Coldstart-scenario	357		Fat Categorization Coldstart	1529265923376	1529265932361	OK	 
+USER	Fat Categorization Coldstart-scenario	357	END	1529265923376	1529265932363
+REQUEST	Fat Categorization Coldstart-scenario	290		Fat Categorization Coldstart	1529265923331	1529265932424	OK	 
+USER	Fat Categorization Coldstart-scenario	290	END	1529265923331	1529265932424
+REQUEST	Zip Categorization Coldstart-scenario	418		Zip Categorization Coldstart	1529265924441	1529265932459	OK	 
+USER	Zip Categorization Coldstart-scenario	418	END	1529265924441	1529265932460
+REQUEST	Zip Categorization Coldstart-scenario	430		Zip Categorization Coldstart	1529265924443	1529265932482	OK	 
+USER	Zip Categorization Coldstart-scenario	430	END	1529265924443	1529265932483
+REQUEST	Fat Categorization Coldstart-scenario	306		Fat Categorization Coldstart	1529265923336	1529265932494	OK	 
+USER	Fat Categorization Coldstart-scenario	306	END	1529265923336	1529265932495
+REQUEST	Zip Categorization Coldstart-scenario	426		Zip Categorization Coldstart	1529265924443	1529265932496	OK	 
+USER	Zip Categorization Coldstart-scenario	426	END	1529265924443	1529265932498
+REQUEST	Fat Categorization Coldstart-scenario	360		Fat Categorization Coldstart	1529265923377	1529265932535	OK	 
+USER	Fat Categorization Coldstart-scenario	360	END	1529265923377	1529265932536
+REQUEST	Fat Categorization Coldstart-scenario	281		Fat Categorization Coldstart	1529265923328	1529265932579	OK	 
+USER	Fat Categorization Coldstart-scenario	281	END	1529265923328	1529265932580
+REQUEST	Fat Categorization Coldstart-scenario	379		Fat Categorization Coldstart	1529265923383	1529265932601	OK	 
+USER	Fat Categorization Coldstart-scenario	379	END	1529265923383	1529265932602
+REQUEST	Fat Categorization Coldstart-scenario	300		Fat Categorization Coldstart	1529265923334	1529265932605	OK	 
+USER	Fat Categorization Coldstart-scenario	300	END	1529265923334	1529265932605
+REQUEST	Fat Categorization Coldstart-scenario	344		Fat Categorization Coldstart	1529265923346	1529265932633	OK	 
+USER	Fat Categorization Coldstart-scenario	344	END	1529265923346	1529265932634
+REQUEST	Fat Categorization Coldstart-scenario	391		Fat Categorization Coldstart	1529265923388	1529265932644	OK	 
+USER	Fat Categorization Coldstart-scenario	391	END	1529265923388	1529265932644
+REQUEST	Fat Categorization Coldstart-scenario	354		Fat Categorization Coldstart	1529265923375	1529265932646	OK	 
+USER	Fat Categorization Coldstart-scenario	354	END	1529265923375	1529265932647
+REQUEST	Zip Categorization Coldstart-scenario	490		Zip Categorization Coldstart	1529265924457	1529265932707	OK	 
+USER	Zip Categorization Coldstart-scenario	490	END	1529265924457	1529265932708
+REQUEST	Fat Categorization Coldstart-scenario	390		Fat Categorization Coldstart	1529265923388	1529265932842	OK	 
+USER	Fat Categorization Coldstart-scenario	390	END	1529265923388	1529265932843
+REQUEST	Zip Categorization Coldstart-scenario	483		Zip Categorization Coldstart	1529265924456	1529265932927	OK	 
+USER	Zip Categorization Coldstart-scenario	483	END	1529265924456	1529265932928
+REQUEST	Zip Categorization Coldstart-scenario	447		Zip Categorization Coldstart	1529265924448	1529265932935	OK	 
+USER	Zip Categorization Coldstart-scenario	447	END	1529265924448	1529265932935
+REQUEST	Zip Categorization Coldstart-scenario	467		Zip Categorization Coldstart	1529265924452	1529265932996	OK	 
+USER	Zip Categorization Coldstart-scenario	467	END	1529265924452	1529265932997
+REQUEST	Zip Categorization Coldstart-scenario	569		Zip Categorization Coldstart	1529265924474	1529265933232	OK	 
+USER	Zip Categorization Coldstart-scenario	569	END	1529265924474	1529265933232
+REQUEST	Zip Categorization Coldstart-scenario	445		Zip Categorization Coldstart	1529265924447	1529265933311	OK	 
+USER	Zip Categorization Coldstart-scenario	445	END	1529265924447	1529265933312
+REQUEST	Fat Categorization Coldstart-scenario	398		Fat Categorization Coldstart	1529265923390	1529265933346	OK	 
+USER	Fat Categorization Coldstart-scenario	398	END	1529265923390	1529265933347
+REQUEST	Zip Categorization Coldstart-scenario	499		Zip Categorization Coldstart	1529265924459	1529265933391	OK	 
+USER	Zip Categorization Coldstart-scenario	499	END	1529265924459	1529265933391
+REQUEST	Zip Categorization Coldstart-scenario	455		Zip Categorization Coldstart	1529265924450	1529265933449	OK	 
+USER	Zip Categorization Coldstart-scenario	455	END	1529265924450	1529265933449
+REQUEST	Zip Categorization Coldstart-scenario	574		Zip Categorization Coldstart	1529265924475	1529265933592	OK	 
+USER	Zip Categorization Coldstart-scenario	574	END	1529265924475	1529265933593
+REQUEST	Zip Categorization Coldstart-scenario	460		Zip Categorization Coldstart	1529265924451	1529265933635	OK	 
+USER	Zip Categorization Coldstart-scenario	460	END	1529265924451	1529265933636
+REQUEST	Zip Categorization Coldstart-scenario	533		Zip Categorization Coldstart	1529265924467	1529265933704	OK	 
+USER	Zip Categorization Coldstart-scenario	533	END	1529265924467	1529265933705
+REQUEST	Fat Categorization Coldstart-scenario	319		Fat Categorization Coldstart	1529265923339	1529265933787	OK	 
+USER	Fat Categorization Coldstart-scenario	319	END	1529265923339	1529265933789
+REQUEST	Zip Categorization Coldstart-scenario	511		Zip Categorization Coldstart	1529265924462	1529265933813	OK	 
+USER	Zip Categorization Coldstart-scenario	511	END	1529265924462	1529265933814
+REQUEST	Zip Categorization Coldstart-scenario	528		Zip Categorization Coldstart	1529265924466	1529265934100	OK	 
+USER	Zip Categorization Coldstart-scenario	528	END	1529265924466	1529265934101
+REQUEST	Zip Categorization Coldstart-scenario	591		Zip Categorization Coldstart	1529265924479	1529265934218	OK	 
+USER	Zip Categorization Coldstart-scenario	591	END	1529265924479	1529265934219
+REQUEST	Fat Categorization Coldstart-scenario	347		Fat Categorization Coldstart	1529265923347	1529265934401	OK	 
+USER	Fat Categorization Coldstart-scenario	347	END	1529265923347	1529265934402
+REQUEST	Zip Categorization Coldstart-scenario	560		Zip Categorization Coldstart	1529265924472	1529265934476	OK	 
+USER	Zip Categorization Coldstart-scenario	560	END	1529265924472	1529265934477
+REQUEST	Zip Categorization Coldstart-scenario	586		Zip Categorization Coldstart	1529265924478	1529265934736	OK	 
+USER	Zip Categorization Coldstart-scenario	586	END	1529265924478	1529265934736
+REQUEST	Zip Categorization Coldstart-scenario	416		Zip Categorization Coldstart	1529265924441	1529265934736	OK	 
+USER	Zip Categorization Coldstart-scenario	416	END	1529265924441	1529265934737
+REQUEST	Zip Categorization Coldstart-scenario	408		Zip Categorization Coldstart	1529265924439	1529265934820	OK	 
+USER	Zip Categorization Coldstart-scenario	408	END	1529265924439	1529265934822
+REQUEST	Zip Categorization Coldstart-scenario	412		Zip Categorization Coldstart	1529265924440	1529265934923	OK	 
+USER	Zip Categorization Coldstart-scenario	412	END	1529265924440	1529265934924
+REQUEST	Zip Categorization Coldstart-scenario	417		Zip Categorization Coldstart	1529265924441	1529265935112	OK	 
+USER	Zip Categorization Coldstart-scenario	417	END	1529265924441	1529265935113
+REQUEST	Fat Categorization Coldstart-scenario	321		Fat Categorization Coldstart	1529265923340	1529265935234	OK	 
+USER	Fat Categorization Coldstart-scenario	321	END	1529265923340	1529265935235
+REQUEST	Zip Categorization Coldstart-scenario	489		Zip Categorization Coldstart	1529265924457	1529265935266	OK	 
+USER	Zip Categorization Coldstart-scenario	489	END	1529265924457	1529265935267
+REQUEST	Zip Categorization Coldstart-scenario	453		Zip Categorization Coldstart	1529265924450	1529265935499	OK	 
+REQUEST	Zip Categorization Coldstart-scenario	514		Zip Categorization Coldstart	1529265924463	1529265935499	OK	 
+USER	Zip Categorization Coldstart-scenario	453	END	1529265924449	1529265935500
+USER	Zip Categorization Coldstart-scenario	514	END	1529265924463	1529265935500
+REQUEST	Zip Categorization Coldstart-scenario	580		Zip Categorization Coldstart	1529265924477	1529265935666	OK	 
+USER	Zip Categorization Coldstart-scenario	580	END	1529265924476	1529265935667
+REQUEST	Zip Categorization Coldstart-scenario	439		Zip Categorization Coldstart	1529265924446	1529265935695	OK	 
+USER	Zip Categorization Coldstart-scenario	439	END	1529265924445	1529265935696
+REQUEST	Zip Categorization Coldstart-scenario	573		Zip Categorization Coldstart	1529265924475	1529265935696	OK	 
+USER	Zip Categorization Coldstart-scenario	573	END	1529265924475	1529265935697
+REQUEST	Fat Categorization Coldstart-scenario	324		Fat Categorization Coldstart	1529265923341	1529265935714	OK	 
+USER	Fat Categorization Coldstart-scenario	324	END	1529265923341	1529265935715
+REQUEST	Zip Categorization Coldstart-scenario	555		Zip Categorization Coldstart	1529265924471	1529265935794	OK	 
+USER	Zip Categorization Coldstart-scenario	555	END	1529265924471	1529265935795
+REQUEST	Zip Categorization Coldstart-scenario	469		Zip Categorization Coldstart	1529265924453	1529265935822	OK	 
+USER	Zip Categorization Coldstart-scenario	469	END	1529265924453	1529265935823
+REQUEST	Zip Categorization Coldstart-scenario	458		Zip Categorization Coldstart	1529265924451	1529265935849	OK	 
+USER	Zip Categorization Coldstart-scenario	458	END	1529265924450	1529265935849
+REQUEST	Zip Categorization Coldstart-scenario	465		Zip Categorization Coldstart	1529265924452	1529265935872	OK	 
+USER	Zip Categorization Coldstart-scenario	465	END	1529265924452	1529265935872
+REQUEST	Fat Categorization Coldstart-scenario	322		Fat Categorization Coldstart	1529265923340	1529265935924	OK	 
+USER	Fat Categorization Coldstart-scenario	322	END	1529265923340	1529265935925
+REQUEST	Zip Categorization Coldstart-scenario	565		Zip Categorization Coldstart	1529265924473	1529265936348	OK	 
+USER	Zip Categorization Coldstart-scenario	565	END	1529265924473	1529265936349
+REQUEST	Zip Categorization Coldstart-scenario	599		Zip Categorization Coldstart	1529265924481	1529265936356	OK	 
+USER	Zip Categorization Coldstart-scenario	599	END	1529265924481	1529265936357
+REQUEST	Fat Categorization Coldstart-scenario	294		Fat Categorization Coldstart	1529265923332	1529265936364	OK	 
+USER	Fat Categorization Coldstart-scenario	294	END	1529265923332	1529265936365
+REQUEST	Fat Categorization Coldstart-scenario	330		Fat Categorization Coldstart	1529265923342	1529265936487	OK	 
+USER	Fat Categorization Coldstart-scenario	330	END	1529265923342	1529265936488
+REQUEST	Zip Categorization Coldstart-scenario	517		Zip Categorization Coldstart	1529265924464	1529265937542	OK	 
+USER	Zip Categorization Coldstart-scenario	517	END	1529265924464	1529265937542
+REQUEST	Zip Categorization Coldstart-scenario	486		Zip Categorization Coldstart	1529265924457	1529265937685	OK	 
+USER	Zip Categorization Coldstart-scenario	486	END	1529265924456	1529265937685
+REQUEST	Zip Categorization Coldstart-scenario	526		Zip Categorization Coldstart	1529265924466	1529265937886	OK	 
+USER	Zip Categorization Coldstart-scenario	526	END	1529265924466	1529265937887
+REQUEST	Zip Categorization Coldstart-scenario	432		Zip Categorization Coldstart	1529265924444	1529265937924	OK	 
+USER	Zip Categorization Coldstart-scenario	432	END	1529265924444	1529265937924
+REQUEST	Zip Categorization Coldstart-scenario	568		Zip Categorization Coldstart	1529265924474	1529265937964	OK	 
+USER	Zip Categorization Coldstart-scenario	568	END	1529265924473	1529265937964
+REQUEST	Zip Categorization Coldstart-scenario	530		Zip Categorization Coldstart	1529265924467	1529265937975	OK	 
+USER	Zip Categorization Coldstart-scenario	530	END	1529265924467	1529265937976
+REQUEST	Zip Categorization Coldstart-scenario	488		Zip Categorization Coldstart	1529265924457	1529265937997	OK	 
+USER	Zip Categorization Coldstart-scenario	488	END	1529265924457	1529265937997
+REQUEST	Zip Categorization Coldstart-scenario	420		Zip Categorization Coldstart	1529265924441	1529265938122	OK	 
+USER	Zip Categorization Coldstart-scenario	420	END	1529265924441	1529265938123
+REQUEST	Zip Categorization Coldstart-scenario	571		Zip Categorization Coldstart	1529265924474	1529265938277	OK	 
+USER	Zip Categorization Coldstart-scenario	571	END	1529265924474	1529265938278
+REQUEST	Zip Categorization Coldstart-scenario	510		Zip Categorization Coldstart	1529265924461	1529265938308	OK	 
+USER	Zip Categorization Coldstart-scenario	510	END	1529265924461	1529265938309
+REQUEST	Zip Categorization Coldstart-scenario	518		Zip Categorization Coldstart	1529265924464	1529265938432	OK	 
+USER	Zip Categorization Coldstart-scenario	518	END	1529265924464	1529265938433
+REQUEST	Zip Categorization Coldstart-scenario	509		Zip Categorization Coldstart	1529265924461	1529265938522	OK	 
+USER	Zip Categorization Coldstart-scenario	509	END	1529265924461	1529265938523
+REQUEST	Zip Categorization Coldstart-scenario	484		Zip Categorization Coldstart	1529265924456	1529265938538	OK	 
+USER	Zip Categorization Coldstart-scenario	484	END	1529265924456	1529265938539
+REQUEST	Zip Categorization Coldstart-scenario	527		Zip Categorization Coldstart	1529265924466	1529265938696	OK	 
+USER	Zip Categorization Coldstart-scenario	527	END	1529265924466	1529265938697
+REQUEST	Zip Categorization Coldstart-scenario	466		Zip Categorization Coldstart	1529265924452	1529265938937	OK	 
+USER	Zip Categorization Coldstart-scenario	466	END	1529265924452	1529265938938
+REQUEST	Zip Categorization Coldstart-scenario	529		Zip Categorization Coldstart	1529265924467	1529265938940	OK	 
+USER	Zip Categorization Coldstart-scenario	529	END	1529265924466	1529265938940
+REQUEST	Zip Categorization Coldstart-scenario	497		Zip Categorization Coldstart	1529265924459	1529265939072	OK	 
+USER	Zip Categorization Coldstart-scenario	497	END	1529265924459	1529265939073
+REQUEST	Zip Categorization Coldstart-scenario	409		Zip Categorization Coldstart	1529265924439	1529265939087	OK	 
+USER	Zip Categorization Coldstart-scenario	409	END	1529265924439	1529265939088
+REQUEST	Fat Categorization Coldstart-scenario	284		Fat Categorization Coldstart	1529265923329	1529265939492	OK	 
+USER	Fat Categorization Coldstart-scenario	284	END	1529265923329	1529265939493
+REQUEST	Zip Categorization Coldstart-scenario	506		Zip Categorization Coldstart	1529265924460	1529265939806	OK	 
+USER	Zip Categorization Coldstart-scenario	506	END	1529265924460	1529265939807
+REQUEST	Fat Categorization Coldstart-scenario	325		Fat Categorization Coldstart	1529265923341	1529265939828	OK	 
+USER	Fat Categorization Coldstart-scenario	325	END	1529265923341	1529265939829
+REQUEST	Fat Categorization Coldstart-scenario	377		Fat Categorization Coldstart	1529265923383	1529265940172	OK	 
+USER	Fat Categorization Coldstart-scenario	377	END	1529265923383	1529265940172
+REQUEST	Zip Categorization Coldstart-scenario	431		Zip Categorization Coldstart	1529265924444	1529265940343	OK	 
+USER	Zip Categorization Coldstart-scenario	431	END	1529265924444	1529265940344
+REQUEST	Zip Categorization Coldstart-scenario	444		Zip Categorization Coldstart	1529265924447	1529265940352	OK	 
+USER	Zip Categorization Coldstart-scenario	444	END	1529265924447	1529265940353
+REQUEST	Zip Categorization Coldstart-scenario	503		Zip Categorization Coldstart	1529265924460	1529265940441	OK	 
+USER	Zip Categorization Coldstart-scenario	503	END	1529265924460	1529265940441
+REQUEST	Zip Categorization Coldstart-scenario	470		Zip Categorization Coldstart	1529265924453	1529265940484	OK	 
+USER	Zip Categorization Coldstart-scenario	470	END	1529265924453	1529265940484
+REQUEST	Zip Categorization Coldstart-scenario	464		Zip Categorization Coldstart	1529265924452	1529265940497	OK	 
+USER	Zip Categorization Coldstart-scenario	464	END	1529265924452	1529265940498
+REQUEST	Zip Categorization Coldstart-scenario	422		Zip Categorization Coldstart	1529265924442	1529265940607	OK	 
+USER	Zip Categorization Coldstart-scenario	422	END	1529265924442	1529265940608
+REQUEST	Zip Categorization Coldstart-scenario	435		Zip Categorization Coldstart	1529265924445	1529265940613	OK	 
+USER	Zip Categorization Coldstart-scenario	435	END	1529265924444	1529265940614
+REQUEST	Zip Categorization Coldstart-scenario	459		Zip Categorization Coldstart	1529265924451	1529265940693	OK	 
+USER	Zip Categorization Coldstart-scenario	459	END	1529265924451	1529265940694
+REQUEST	Zip Categorization Coldstart-scenario	463		Zip Categorization Coldstart	1529265924452	1529265940704	OK	 
+USER	Zip Categorization Coldstart-scenario	463	END	1529265924451	1529265940705
+REQUEST	Zip Categorization Coldstart-scenario	515		Zip Categorization Coldstart	1529265924464	1529265940718	OK	 
+USER	Zip Categorization Coldstart-scenario	515	END	1529265924464	1529265940718
+REQUEST	Zip Categorization Coldstart-scenario	471		Zip Categorization Coldstart	1529265924453	1529265940838	OK	 
+USER	Zip Categorization Coldstart-scenario	471	END	1529265924453	1529265940838
+REQUEST	Zip Categorization Coldstart-scenario	449		Zip Categorization Coldstart	1529265924449	1529265940846	OK	 
+USER	Zip Categorization Coldstart-scenario	449	END	1529265924449	1529265940846
+REQUEST	Zip Categorization Coldstart-scenario	531		Zip Categorization Coldstart	1529265924467	1529265940850	OK	 
+USER	Zip Categorization Coldstart-scenario	531	END	1529265924467	1529265940850
+REQUEST	Zip Categorization Coldstart-scenario	423		Zip Categorization Coldstart	1529265924442	1529265940870	OK	 
+USER	Zip Categorization Coldstart-scenario	423	END	1529265924442	1529265940870
+REQUEST	Zip Categorization Coldstart-scenario	485		Zip Categorization Coldstart	1529265924456	1529265940931	OK	 
+USER	Zip Categorization Coldstart-scenario	485	END	1529265924456	1529265940931
+REQUEST	Zip Categorization Coldstart-scenario	495		Zip Categorization Coldstart	1529265924458	1529265940953	OK	 
+USER	Zip Categorization Coldstart-scenario	495	END	1529265924458	1529265940954
+REQUEST	Zip Categorization Coldstart-scenario	512		Zip Categorization Coldstart	1529265924463	1529265940988	OK	 
+USER	Zip Categorization Coldstart-scenario	512	END	1529265924462	1529265940988
+REQUEST	Zip Categorization Coldstart-scenario	434		Zip Categorization Coldstart	1529265924444	1529265941008	OK	 
+USER	Zip Categorization Coldstart-scenario	434	END	1529265924444	1529265941008
+REQUEST	Zip Categorization Coldstart-scenario	433		Zip Categorization Coldstart	1529265924444	1529265941045	OK	 
+USER	Zip Categorization Coldstart-scenario	433	END	1529265924444	1529265941045
+REQUEST	Zip Categorization Coldstart-scenario	448		Zip Categorization Coldstart	1529265924448	1529265941059	OK	 
+USER	Zip Categorization Coldstart-scenario	448	END	1529265924448	1529265941059
+REQUEST	Zip Categorization Coldstart-scenario	494		Zip Categorization Coldstart	1529265924458	1529265941063	OK	 
+USER	Zip Categorization Coldstart-scenario	494	END	1529265924458	1529265941063
+REQUEST	Zip Categorization Coldstart-scenario	487		Zip Categorization Coldstart	1529265924457	1529265941110	OK	 
+USER	Zip Categorization Coldstart-scenario	487	END	1529265924457	1529265941110
+REQUEST	Zip Categorization Coldstart-scenario	462		Zip Categorization Coldstart	1529265924451	1529265941111	OK	 
+USER	Zip Categorization Coldstart-scenario	462	END	1529265924451	1529265941112
+REQUEST	Zip Categorization Coldstart-scenario	446		Zip Categorization Coldstart	1529265924448	1529265941115	OK	 
+USER	Zip Categorization Coldstart-scenario	446	END	1529265924447	1529265941116
+REQUEST	Zip Categorization Coldstart-scenario	476		Zip Categorization Coldstart	1529265924454	1529265941133	OK	 
+USER	Zip Categorization Coldstart-scenario	476	END	1529265924454	1529265941134
+REQUEST	Zip Categorization Coldstart-scenario	516		Zip Categorization Coldstart	1529265924464	1529265941142	OK	 
+USER	Zip Categorization Coldstart-scenario	516	END	1529265924464	1529265941142
+REQUEST	Zip Categorization Coldstart-scenario	532		Zip Categorization Coldstart	1529265924467	1529265941145	OK	 
+USER	Zip Categorization Coldstart-scenario	532	END	1529265924467	1529265941145
+REQUEST	Zip Categorization Coldstart-scenario	429		Zip Categorization Coldstart	1529265924443	1529265941160	OK	 
+USER	Zip Categorization Coldstart-scenario	429	END	1529265924443	1529265941161
+REQUEST	Zip Categorization Coldstart-scenario	438		Zip Categorization Coldstart	1529265924445	1529265941167	OK	 
+USER	Zip Categorization Coldstart-scenario	438	END	1529265924445	1529265941168
+REQUEST	Zip Categorization Coldstart-scenario	491		Zip Categorization Coldstart	1529265924457	1529265941170	OK	 
+USER	Zip Categorization Coldstart-scenario	491	END	1529265924457	1529265941170
+REQUEST	Zip Categorization Coldstart-scenario	428		Zip Categorization Coldstart	1529265924443	1529265941178	OK	 
+USER	Zip Categorization Coldstart-scenario	428	END	1529265924443	1529265941178
+REQUEST	Zip Categorization Coldstart-scenario	572		Zip Categorization Coldstart	1529265924475	1529265941186	OK	 
+USER	Zip Categorization Coldstart-scenario	572	END	1529265924475	1529265941187
+REQUEST	Zip Categorization Coldstart-scenario	561		Zip Categorization Coldstart	1529265924472	1529265941227	OK	 
+USER	Zip Categorization Coldstart-scenario	561	END	1529265924472	1529265941228
+REQUEST	Fat Categorization Coldstart-scenario	352		Fat Categorization Coldstart	1529265923375	1529265941233	OK	 
+USER	Fat Categorization Coldstart-scenario	352	END	1529265923375	1529265941234
+REQUEST	Zip Categorization Coldstart-scenario	534		Zip Categorization Coldstart	1529265924467	1529265941236	OK	 
+USER	Zip Categorization Coldstart-scenario	534	END	1529265924467	1529265941236
+REQUEST	Zip Categorization Coldstart-scenario	415		Zip Categorization Coldstart	1529265924440	1529265941237	OK	 
+USER	Zip Categorization Coldstart-scenario	415	END	1529265924440	1529265941237
+REQUEST	Zip Categorization Coldstart-scenario	413		Zip Categorization Coldstart	1529265924440	1529265941279	OK	 
+USER	Zip Categorization Coldstart-scenario	413	END	1529265924440	1529265941279
+REQUEST	Zip Categorization Coldstart-scenario	474		Zip Categorization Coldstart	1529265924454	1529265941282	OK	 
+USER	Zip Categorization Coldstart-scenario	474	END	1529265924454	1529265941283
+REQUEST	Zip Categorization Coldstart-scenario	401		Zip Categorization Coldstart	1529265923391	1529265941384	OK	 
+USER	Zip Categorization Coldstart-scenario	401	END	1529265923391	1529265941385
+REQUEST	Zip Categorization Coldstart-scenario	493		Zip Categorization Coldstart	1529265924458	1529265941412	OK	 
+USER	Zip Categorization Coldstart-scenario	493	END	1529265924458	1529265941413
+REQUEST	Zip Categorization Coldstart-scenario	454		Zip Categorization Coldstart	1529265924450	1529265941423	OK	 
+USER	Zip Categorization Coldstart-scenario	454	END	1529265924450	1529265941424
+REQUEST	Zip Categorization Coldstart-scenario	480		Zip Categorization Coldstart	1529265924455	1529265941425	OK	 
+USER	Zip Categorization Coldstart-scenario	480	END	1529265924455	1529265941433
+REQUEST	Zip Categorization Coldstart-scenario	403		Zip Categorization Coldstart	1529265924438	1529265941453	OK	 
+USER	Zip Categorization Coldstart-scenario	403	END	1529265924438	1529265941454
+REQUEST	Zip Categorization Coldstart-scenario	594		Zip Categorization Coldstart	1529265924480	1529265941476	OK	 
+USER	Zip Categorization Coldstart-scenario	594	END	1529265924480	1529265941476
+REQUEST	Zip Categorization Coldstart-scenario	579		Zip Categorization Coldstart	1529265924476	1529265941528	OK	 
+USER	Zip Categorization Coldstart-scenario	579	END	1529265924476	1529265941529
+REQUEST	Zip Categorization Coldstart-scenario	538		Zip Categorization Coldstart	1529265924468	1529265941551	OK	 
+USER	Zip Categorization Coldstart-scenario	538	END	1529265924468	1529265941552
+REQUEST	Zip Categorization Coldstart-scenario	582		Zip Categorization Coldstart	1529265924477	1529265941562	OK	 
+USER	Zip Categorization Coldstart-scenario	582	END	1529265924477	1529265941564
+REQUEST	Zip Categorization Coldstart-scenario	507		Zip Categorization Coldstart	1529265924461	1529265941571	OK	 
+USER	Zip Categorization Coldstart-scenario	507	END	1529265924461	1529265941572
+REQUEST	Zip Categorization Coldstart-scenario	549		Zip Categorization Coldstart	1529265924470	1529265941576	OK	 
+USER	Zip Categorization Coldstart-scenario	549	END	1529265924470	1529265941579
+REQUEST	Zip Categorization Coldstart-scenario	427		Zip Categorization Coldstart	1529265924443	1529265941581	OK	 
+USER	Zip Categorization Coldstart-scenario	427	END	1529265924443	1529265941583
+REQUEST	Zip Categorization Coldstart-scenario	596		Zip Categorization Coldstart	1529265924481	1529265941586	OK	 
+USER	Zip Categorization Coldstart-scenario	596	END	1529265924481	1529265941588
+REQUEST	Zip Categorization Coldstart-scenario	472		Zip Categorization Coldstart	1529265924453	1529265941609	OK	 
+USER	Zip Categorization Coldstart-scenario	472	END	1529265924453	1529265941610
+REQUEST	Zip Categorization Coldstart-scenario	441		Zip Categorization Coldstart	1529265924446	1529265941611	OK	 
+USER	Zip Categorization Coldstart-scenario	441	END	1529265924446	1529265941611
+REQUEST	Zip Categorization Coldstart-scenario	452		Zip Categorization Coldstart	1529265924449	1529265941619	OK	 
+USER	Zip Categorization Coldstart-scenario	452	END	1529265924449	1529265941620
+REQUEST	Zip Categorization Coldstart-scenario	421		Zip Categorization Coldstart	1529265924442	1529265941629	OK	 
+USER	Zip Categorization Coldstart-scenario	421	END	1529265924441	1529265941629
+REQUEST	Zip Categorization Coldstart-scenario	550		Zip Categorization Coldstart	1529265924470	1529265941633	OK	 
+USER	Zip Categorization Coldstart-scenario	550	END	1529265924470	1529265941634
+REQUEST	Zip Categorization Coldstart-scenario	508		Zip Categorization Coldstart	1529265924461	1529265941652	OK	 
+USER	Zip Categorization Coldstart-scenario	508	END	1529265924461	1529265941652
+REQUEST	Zip Categorization Coldstart-scenario	551		Zip Categorization Coldstart	1529265924471	1529265941664	OK	 
+USER	Zip Categorization Coldstart-scenario	551	END	1529265924470	1529265941665
+REQUEST	Zip Categorization Coldstart-scenario	588		Zip Categorization Coldstart	1529265924479	1529265941678	OK	 
+USER	Zip Categorization Coldstart-scenario	588	END	1529265924478	1529265941678
+REQUEST	Zip Categorization Coldstart-scenario	436		Zip Categorization Coldstart	1529265924445	1529265941707	OK	 
+USER	Zip Categorization Coldstart-scenario	436	END	1529265924445	1529265941707
+REQUEST	Zip Categorization Coldstart-scenario	558		Zip Categorization Coldstart	1529265924472	1529265941709	OK	 
+USER	Zip Categorization Coldstart-scenario	558	END	1529265924472	1529265941709
+REQUEST	Zip Categorization Coldstart-scenario	524		Zip Categorization Coldstart	1529265924465	1529265941774	OK	 
+USER	Zip Categorization Coldstart-scenario	524	END	1529265924465	1529265941775
+REQUEST	Zip Categorization Coldstart-scenario	557		Zip Categorization Coldstart	1529265924472	1529265941807	OK	 
+USER	Zip Categorization Coldstart-scenario	557	END	1529265924471	1529265941808
+REQUEST	Zip Categorization Coldstart-scenario	479		Zip Categorization Coldstart	1529265924455	1529265941816	OK	 
+USER	Zip Categorization Coldstart-scenario	479	END	1529265924455	1529265941817
+REQUEST	Zip Categorization Coldstart-scenario	556		Zip Categorization Coldstart	1529265924471	1529265941848	OK	 
+USER	Zip Categorization Coldstart-scenario	556	END	1529265924471	1529265941848
+REQUEST	Zip Categorization Coldstart-scenario	600		Zip Categorization Coldstart	1529265924481	1529265941902	OK	 
+USER	Zip Categorization Coldstart-scenario	600	END	1529265924481	1529265941903
+REQUEST	Zip Categorization Coldstart-scenario	546		Zip Categorization Coldstart	1529265924470	1529265941921	OK	 
+USER	Zip Categorization Coldstart-scenario	546	END	1529265924470	1529265941921
+REQUEST	Zip Categorization Coldstart-scenario	587		Zip Categorization Coldstart	1529265924478	1529265941923	OK	 
+USER	Zip Categorization Coldstart-scenario	587	END	1529265924478	1529265941923
+REQUEST	Zip Categorization Coldstart-scenario	545		Zip Categorization Coldstart	1529265924469	1529265941962	OK	 
+USER	Zip Categorization Coldstart-scenario	545	END	1529265924469	1529265941963
+REQUEST	Zip Categorization Coldstart-scenario	505		Zip Categorization Coldstart	1529265924460	1529265941967	OK	 
+USER	Zip Categorization Coldstart-scenario	505	END	1529265924460	1529265941968
+REQUEST	Zip Categorization Coldstart-scenario	593		Zip Categorization Coldstart	1529265924480	1529265941968	OK	 
+USER	Zip Categorization Coldstart-scenario	593	END	1529265924480	1529265941969
+REQUEST	Zip Categorization Coldstart-scenario	576		Zip Categorization Coldstart	1529265924476	1529265941988	OK	 
+USER	Zip Categorization Coldstart-scenario	576	END	1529265924476	1529265941989
+REQUEST	Zip Categorization Coldstart-scenario	584		Zip Categorization Coldstart	1529265924478	1529265942010	OK	 
+USER	Zip Categorization Coldstart-scenario	584	END	1529265924477	1529265942011
+REQUEST	Zip Categorization Coldstart-scenario	589		Zip Categorization Coldstart	1529265924479	1529265942010	OK	 
+USER	Zip Categorization Coldstart-scenario	589	END	1529265924479	1529265942011
+REQUEST	Zip Categorization Coldstart-scenario	540		Zip Categorization Coldstart	1529265924469	1529265942012	OK	 
+USER	Zip Categorization Coldstart-scenario	540	END	1529265924468	1529265942013
+REQUEST	Zip Categorization Coldstart-scenario	475		Zip Categorization Coldstart	1529265924454	1529265942019	OK	 
+USER	Zip Categorization Coldstart-scenario	475	END	1529265924454	1529265942020
+REQUEST	Zip Categorization Coldstart-scenario	547		Zip Categorization Coldstart	1529265924470	1529265942041	OK	 
+USER	Zip Categorization Coldstart-scenario	547	END	1529265924470	1529265942042
+REQUEST	Zip Categorization Coldstart-scenario	542		Zip Categorization Coldstart	1529265924469	1529265942051	OK	 
+USER	Zip Categorization Coldstart-scenario	542	END	1529265924469	1529265942052
+REQUEST	Zip Categorization Coldstart-scenario	520		Zip Categorization Coldstart	1529265924465	1529265942056	OK	 
+USER	Zip Categorization Coldstart-scenario	520	END	1529265924465	1529265942057
+REQUEST	Zip Categorization Coldstart-scenario	583		Zip Categorization Coldstart	1529265924477	1529265942090	OK	 
+USER	Zip Categorization Coldstart-scenario	583	END	1529265924477	1529265942091
+REQUEST	Zip Categorization Coldstart-scenario	522		Zip Categorization Coldstart	1529265924465	1529265942091	OK	 
+USER	Zip Categorization Coldstart-scenario	522	END	1529265924465	1529265942091
+REQUEST	Zip Categorization Coldstart-scenario	407		Zip Categorization Coldstart	1529265924439	1529265942121	OK	 
+USER	Zip Categorization Coldstart-scenario	407	END	1529265924439	1529265942121
+REQUEST	Zip Categorization Coldstart-scenario	523		Zip Categorization Coldstart	1529265924465	1529265942128	OK	 
+USER	Zip Categorization Coldstart-scenario	523	END	1529265924465	1529265942128
+REQUEST	Zip Categorization Coldstart-scenario	592		Zip Categorization Coldstart	1529265924480	1529265942131	OK	 
+REQUEST	Zip Categorization Coldstart-scenario	590		Zip Categorization Coldstart	1529265924479	1529265942132	OK	 
+USER	Zip Categorization Coldstart-scenario	592	END	1529265924479	1529265942132
+USER	Zip Categorization Coldstart-scenario	590	END	1529265924479	1529265942132
+REQUEST	Zip Categorization Coldstart-scenario	544		Zip Categorization Coldstart	1529265924469	1529265942145	OK	 
+USER	Zip Categorization Coldstart-scenario	544	END	1529265924469	1529265942145
+REQUEST	Zip Categorization Coldstart-scenario	457		Zip Categorization Coldstart	1529265924450	1529265942145	OK	 
+USER	Zip Categorization Coldstart-scenario	457	END	1529265924450	1529265942145
+REQUEST	Zip Categorization Coldstart-scenario	414		Zip Categorization Coldstart	1529265924440	1529265942164	OK	 
+USER	Zip Categorization Coldstart-scenario	414	END	1529265924440	1529265942165
+REQUEST	Zip Categorization Coldstart-scenario	539		Zip Categorization Coldstart	1529265924468	1529265942200	OK	 
+USER	Zip Categorization Coldstart-scenario	539	END	1529265924468	1529265942200
+REQUEST	Zip Categorization Coldstart-scenario	552		Zip Categorization Coldstart	1529265924471	1529265942210	OK	 
+USER	Zip Categorization Coldstart-scenario	552	END	1529265924471	1529265942210
+REQUEST	Zip Categorization Coldstart-scenario	578		Zip Categorization Coldstart	1529265924476	1529265942213	OK	 
+REQUEST	Zip Categorization Coldstart-scenario	598		Zip Categorization Coldstart	1529265924481	1529265942213	OK	 
+USER	Zip Categorization Coldstart-scenario	578	END	1529265924476	1529265942214
+USER	Zip Categorization Coldstart-scenario	598	END	1529265924481	1529265942214
+REQUEST	Zip Categorization Coldstart-scenario	501		Zip Categorization Coldstart	1529265924459	1529265942220	OK	 
+USER	Zip Categorization Coldstart-scenario	501	END	1529265924459	1529265942220
+REQUEST	Zip Categorization Coldstart-scenario	543		Zip Categorization Coldstart	1529265924469	1529265942223	OK	 
+USER	Zip Categorization Coldstart-scenario	543	END	1529265924469	1529265942223
+REQUEST	Zip Categorization Coldstart-scenario	536		Zip Categorization Coldstart	1529265924468	1529265942232	OK	 
+USER	Zip Categorization Coldstart-scenario	536	END	1529265924468	1529265942233
+REQUEST	Zip Categorization Coldstart-scenario	481		Zip Categorization Coldstart	1529265924455	1529265942252	OK	 
+USER	Zip Categorization Coldstart-scenario	481	END	1529265924455	1529265942253
+REQUEST	Zip Categorization Coldstart-scenario	585		Zip Categorization Coldstart	1529265924478	1529265942269	OK	 
+USER	Zip Categorization Coldstart-scenario	585	END	1529265924478	1529265942269
+REQUEST	Zip Categorization Coldstart-scenario	595		Zip Categorization Coldstart	1529265924480	1529265942270	OK	 
+USER	Zip Categorization Coldstart-scenario	595	END	1529265924480	1529265942270
+REQUEST	Zip Categorization Coldstart-scenario	498		Zip Categorization Coldstart	1529265924459	1529265942275	OK	 
+USER	Zip Categorization Coldstart-scenario	498	END	1529265924459	1529265942276
+REQUEST	Zip Categorization Coldstart-scenario	406		Zip Categorization Coldstart	1529265924439	1529265942277	OK	 
+USER	Zip Categorization Coldstart-scenario	406	END	1529265924438	1529265942277
+REQUEST	Zip Categorization Coldstart-scenario	562		Zip Categorization Coldstart	1529265924472	1529265942281	OK	 
+USER	Zip Categorization Coldstart-scenario	562	END	1529265924472	1529265942281
+REQUEST	Zip Categorization Coldstart-scenario	502		Zip Categorization Coldstart	1529265924460	1529265942287	OK	 
+USER	Zip Categorization Coldstart-scenario	502	END	1529265924460	1529265942287
+REQUEST	Zip Categorization Coldstart-scenario	519		Zip Categorization Coldstart	1529265924464	1529265942301	OK	 
+USER	Zip Categorization Coldstart-scenario	519	END	1529265924464	1529265942301
+REQUEST	Zip Categorization Coldstart-scenario	451		Zip Categorization Coldstart	1529265924449	1529265942304	OK	 
+USER	Zip Categorization Coldstart-scenario	451	END	1529265924449	1529265942304
+REQUEST	Zip Categorization Coldstart-scenario	473		Zip Categorization Coldstart	1529265924454	1529265942327	OK	 
+USER	Zip Categorization Coldstart-scenario	473	END	1529265924454	1529265942327
+REQUEST	Zip Categorization Coldstart-scenario	405		Zip Categorization Coldstart	1529265924438	1529265942339	OK	 
+USER	Zip Categorization Coldstart-scenario	405	END	1529265924438	1529265942340
+REQUEST	Zip Categorization Coldstart-scenario	535		Zip Categorization Coldstart	1529265924468	1529265942343	OK	 
+USER	Zip Categorization Coldstart-scenario	535	END	1529265924468	1529265942343
+REQUEST	Zip Categorization Coldstart-scenario	450		Zip Categorization Coldstart	1529265924449	1529265942345	OK	 
+USER	Zip Categorization Coldstart-scenario	450	END	1529265924449	1529265942345
+REQUEST	Zip Categorization Coldstart-scenario	402		Zip Categorization Coldstart	1529265924437	1529265942365	OK	 
+USER	Zip Categorization Coldstart-scenario	402	END	1529265924437	1529265942366
+REQUEST	Zip Categorization Coldstart-scenario	537		Zip Categorization Coldstart	1529265924468	1529265942367	OK	 
+USER	Zip Categorization Coldstart-scenario	537	END	1529265924468	1529265942368
+REQUEST	Zip Categorization Coldstart-scenario	567		Zip Categorization Coldstart	1529265924473	1529265942368	OK	 
+USER	Zip Categorization Coldstart-scenario	567	END	1529265924473	1529265942369
+REQUEST	Zip Categorization Coldstart-scenario	492		Zip Categorization Coldstart	1529265924458	1529265942378	OK	 
+USER	Zip Categorization Coldstart-scenario	492	END	1529265924458	1529265942379
+REQUEST	Zip Categorization Coldstart-scenario	597		Zip Categorization Coldstart	1529265924481	1529265942386	OK	 
+USER	Zip Categorization Coldstart-scenario	597	END	1529265924481	1529265942387
+REQUEST	Zip Categorization Coldstart-scenario	482		Zip Categorization Coldstart	1529265924456	1529265942422	OK	 
+USER	Zip Categorization Coldstart-scenario	482	END	1529265924456	1529265942423
+REQUEST	Zip Categorization Coldstart-scenario	525		Zip Categorization Coldstart	1529265924466	1529265942427	OK	 
+USER	Zip Categorization Coldstart-scenario	525	END	1529265924466	1529265942428
+REQUEST	Zip Categorization Coldstart-scenario	564		Zip Categorization Coldstart	1529265924473	1529265942434	OK	 
+USER	Zip Categorization Coldstart-scenario	564	END	1529265924473	1529265942435
+REQUEST	Zip Categorization Coldstart-scenario	477		Zip Categorization Coldstart	1529265924455	1529265942461	OK	 
+USER	Zip Categorization Coldstart-scenario	477	END	1529265924455	1529265942463
+REQUEST	Zip Categorization Coldstart-scenario	496		Zip Categorization Coldstart	1529265924458	1529265942488	OK	 
+USER	Zip Categorization Coldstart-scenario	496	END	1529265924458	1529265942488
+REQUEST	Zip Categorization Coldstart-scenario	575		Zip Categorization Coldstart	1529265924475	1529265942490	OK	 
+USER	Zip Categorization Coldstart-scenario	575	END	1529265924475	1529265942491
+REQUEST	Zip Categorization Coldstart-scenario	404		Zip Categorization Coldstart	1529265924438	1529265942521	OK	 
+USER	Zip Categorization Coldstart-scenario	404	END	1529265924438	1529265942521
+REQUEST	Zip Categorization Coldstart-scenario	566		Zip Categorization Coldstart	1529265924473	1529265942646	OK	 
+USER	Zip Categorization Coldstart-scenario	566	END	1529265924473	1529265942646
+REQUEST	Zip Categorization Coldstart-scenario	521		Zip Categorization Coldstart	1529265924465	1529265942708	OK	 
+USER	Zip Categorization Coldstart-scenario	521	END	1529265924465	1529265942709
+REQUEST	Zip Categorization Coldstart-scenario	548		Zip Categorization Coldstart	1529265924470	1529265942721	OK	 
+USER	Zip Categorization Coldstart-scenario	548	END	1529265924470	1529265942721
+REQUEST	Zip Categorization Coldstart-scenario	553		Zip Categorization Coldstart	1529265924471	1529265943064	OK	 
+USER	Zip Categorization Coldstart-scenario	553	END	1529265924471	1529265943065
+REQUEST	Zip Categorization Coldstart-scenario	411		Zip Categorization Coldstart	1529265924440	1529265943220	OK	 
+USER	Zip Categorization Coldstart-scenario	411	END	1529265924440	1529265943221
+REQUEST	Zip Categorization Coldstart-scenario	570		Zip Categorization Coldstart	1529265924474	1529265943236	OK	 
+USER	Zip Categorization Coldstart-scenario	570	END	1529265924474	1529265943237
+REQUEST	Zip Categorization Coldstart-scenario	410		Zip Categorization Coldstart	1529265924439	1529265943296	OK	 
+USER	Zip Categorization Coldstart-scenario	410	END	1529265924439	1529265943297
+REQUEST	Zip Categorization Coldstart-scenario	456		Zip Categorization Coldstart	1529265924450	1529265943345	OK	 
+USER	Zip Categorization Coldstart-scenario	456	END	1529265924450	1529265943345
+REQUEST	Zip Categorization Coldstart-scenario	581		Zip Categorization Coldstart	1529265924477	1529265943364	OK	 
+USER	Zip Categorization Coldstart-scenario	581	END	1529265924477	1529265943365
+REQUEST	Zip Categorization Coldstart-scenario	478		Zip Categorization Coldstart	1529265924455	1529265943374	OK	 
+USER	Zip Categorization Coldstart-scenario	478	END	1529265924455	1529265943375
+REQUEST	Zip Categorization Coldstart-scenario	504		Zip Categorization Coldstart	1529265924460	1529265943376	OK	 
+USER	Zip Categorization Coldstart-scenario	504	END	1529265924460	1529265943377
+REQUEST	Zip Categorization Coldstart-scenario	500		Zip Categorization Coldstart	1529265924459	1529265943653	OK	 
+USER	Zip Categorization Coldstart-scenario	500	END	1529265924459	1529265943654
+REQUEST	Zip Categorization Coldstart-scenario	541		Zip Categorization Coldstart	1529265924469	1529265943683	OK	 
+USER	Zip Categorization Coldstart-scenario	541	END	1529265924469	1529265943684
+REQUEST	Zip Categorization Coldstart-scenario	559		Zip Categorization Coldstart	1529265924472	1529265943686	OK	 
+USER	Zip Categorization Coldstart-scenario	559	END	1529265924472	1529265943687
+REQUEST	Zip Categorization Coldstart-scenario	577		Zip Categorization Coldstart	1529265924476	1529265944452	OK	 
+USER	Zip Categorization Coldstart-scenario	577	END	1529265924476	1529265944453
+REQUEST	Zip Categorization Coldstart-scenario	563		Zip Categorization Coldstart	1529265924473	1529265944502	OK	 
+USER	Zip Categorization Coldstart-scenario	563	END	1529265924472	1529265944503
+REQUEST	Zip Categorization Coldstart-scenario	554		Zip Categorization Coldstart	1529265924471	1529265944567	OK	 
+USER	Zip Categorization Coldstart-scenario	554	END	1529265924471	1529265944568
