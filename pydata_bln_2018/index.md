@@ -7,7 +7,9 @@
 ---
 
 ### AWS API Gateway - Call Flow
-.>>
 
 <img src="images/api_gw_call_flow.png">
 
+.>>
+
+**
