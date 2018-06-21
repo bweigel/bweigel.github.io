@@ -25,7 +25,7 @@
 
 ### API Gateway Pricing
 
-3.7$ per 1 Million API calls (1 Mio./month free in first 12 months)
+3.7$ per 1 Million API calls (1 Mio./month free in first year)
 
 <section>
 	<table>
@@ -35,6 +35,8 @@
         </tr></tbody>
     </table>
 </section>
+
+.>>
 
 ### Define an API
 
