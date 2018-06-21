@@ -1,8 +1,8 @@
-# PyData Berlin 2018
+# Serverless ML-Models Workshop
 
-### Deploying ML-Models to the cloud using AWS lambda
+#### Deploying ML-Models to the cloud using AWS lambda
 
-<small>Benjamin Weigel, 06.07.2018</small>
+<small>Benjamin Weigel, PyData Berlin 2018 - 06.07.2018</small>
 
 ---
 
@@ -28,7 +28,6 @@
 3.7$ per 1 Million API calls (1 Mio./month free in first 12 months)
 
 <section>
-	<h2>Pricing information</h2>
 	<table>
         <tbody><tr>
             <td><img src="images/api_gw_cost_1.png"></td>
