@@ -25,7 +25,7 @@
 
 ### API Gateway Pricing
 
-3.7$ per 1 Million API calls
+3.7$ per 1 Million API calls (1 Mio./month free in first 12 months)
 
 <section>
 	<h2>Pricing information</h2>
@@ -49,4 +49,10 @@
 
 ---
 
-## AWS Lambda
+## Serverless Evolution
+
+<img src="images/api_gw_cost_1.png">
+
+.>>
+
+### AWS Lambda
