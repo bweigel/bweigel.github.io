@@ -12,13 +12,40 @@
 
 .>>
 
-### What API Gateway does for you
+### What API Gateway can do for you
 
-- managed cache to store API responses
-- reduced latency and DDoS protection
+- managed throttling  and caching
+- usage plans
+- authorization / authentication
+- DDoS protection
 - Swagger support
 - request/response data transformation and API mocking
-- SDK generation (iOS, Android, JS)
+
+.>>
+
+### API Gateway Pricing
+
+3.7$ per 1 Million API calls
+
+<section>
+	<h2>Pricing information</h2>
+	<table>
+        <tbody><tr>
+            <td><img src="images/api_gw_cost_1.png"></td>
+            <td><img src="images/api_gw_cost_2.png"></td>
+        </tr></tbody>
+    </table>
+</section>
+
+### Define an API
+
+- create and API e.g. **MyCarAPI**
+- define resources  
+    - `/cars`
+- define methoods for a resource `/cars/{carid}`
+    - `GET`
+    - `POST`
+    - `DELETE`    
 
 ---
 
