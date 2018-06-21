@@ -52,7 +52,7 @@
 
 ## Serverless Evolution
 
-<img src="images/api_gw_cost_1.png">
+<img src="images/serverless_evolution.png">
 
 .>>
 
