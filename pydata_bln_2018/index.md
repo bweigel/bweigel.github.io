@@ -34,6 +34,8 @@
 
 <img src="images/aws_lambda_workflow.png">
 
+.>>
+
 ### What AWS Lambda can do for you
 
 - function-as-a-service (FaaS)
