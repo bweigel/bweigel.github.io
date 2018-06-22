@@ -6,7 +6,56 @@
 
 ---
 
-## AWS API Gateway - Call Flow
+## Serverless Evolution
+
+<img src="images/serverless_evolution.png">
+
+.>>
+
+### Serverless und ML
+
+- ML development is interactive and very iterative <!-- .element: class="fragment" data-fragment-index="1" -->
+    - jupyter noteooks, rstudio etc
+- once your model is finished you will want to use it: <!-- .element: class="fragment" data-fragment-index="2" -->
+    - show your findings to the world
+    - let the world use it <!-- .element: class="fragment" data-fragment-index="3" -->
+    - raise productivity  <!-- .element: class="fragment" data-fragment-index="4" -->  
+
+.>>
+
+### How-to ML marry to serverless
+
+- API + AWS Lambdas to use your model
+- 
+
+---
+
+## AWS Lambda 
+
+<img src="images/aws_lambda_workflow.png">
+
+### What AWS Lambda can do for you
+
+- function-as-a-service (FaaS)
+- runs your Python, NodeJs, JVM, .NET or Go Code
+- no need for clusters, servers or containers
+- no need to think about scaling 
+- don't pay for idle
+- built-in fault tolerance (e.g. dead letter queues)
+- synchronous, asynchronous and stream based execution
+
+.>>
+
+### AWS Lambda Pricing
+
+**Free Tier (every user, every month)**
+ - 1 million requests
+ - 400 000 GBs of compute time
+  
+
+---
+
+## AWS API Gateway
 
 <img src="images/api_gw_call_flow.png">
 
@@ -48,12 +97,3 @@
     - `POST`
     - `DELETE`    
 
----
-
-## Serverless Evolution
-
-<img src="images/serverless_evolution.png">
-
-.>>
-
-### AWS Lambda
