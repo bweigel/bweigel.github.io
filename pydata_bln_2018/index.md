@@ -1,8 +1,19 @@
 # Serverless ML-Models Workshop
 
-#### Deploying ML-Models to the cloud using AWS lambda
+<h4 style="color:#888888">Deploying ML-Models to the cloud using AWS lambda</h4>
 
-<small>Benjamin Weigel, PyData Berlin 2018 - 06.07.2018</small>
+<div style="text-align:right">
+<small>Benjamin Weigel</small>
+</div>
+<div style="text-align:right;color:#888888">
+<small>
+PyData Berlin - 06.07.2018
+</small>
+</div>
+
+---
+
+<iframe width="1280px" height="720px" data-src="https://www.europace.de/"></iframe>
 
 ---
 
@@ -18,6 +29,7 @@
     - show your findings to the world
     - let the world use it 
     - raise productivity    
+
 
 
 ---
@@ -99,6 +111,21 @@
 
 .>>
 
-### What Serverless framework can do for you
+### Why the serverless framework?
 
+- manages packaging & deployment of code    
+- easy to use abstraction over cloudformation
+    - &rarr; provisioning of infrastructure
+    - uses cloudformation behind the scenes
+- infrastructure as code &rarr; no click orgies
+- maturity &rarr; great community & tooling via plugins
+    
 <img src="images/sls_2.png">
+
+---
+
+## What we will build today
+
+<div style="background:#ffffff">
+<img src="images/architecture.svg" style="background:#ffffff">
+</div>
