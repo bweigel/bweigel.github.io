@@ -14,19 +14,11 @@
 
 ### Serverless und ML
 
-- ML development is interactive and very iterative <!-- .element: class="fragment" data-fragment-index="1" -->
-    - jupyter noteooks, rstudio etc
-- once your model is finished you will want to use it: <!-- .element: class="fragment" data-fragment-index="2" -->
+- once your model is finished you will want to use it: 
     - show your findings to the world
-    - let the world use it <!-- .element: class="fragment" data-fragment-index="3" -->
-    - raise productivity  <!-- .element: class="fragment" data-fragment-index="4" -->  
+    - let the world use it 
+    - raise productivity    
 
-.>>
-
-### How-to ML marry to serverless
-
-- API + AWS Lambdas to use your model
-- 
 
 ---
 
