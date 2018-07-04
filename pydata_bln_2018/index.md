@@ -99,3 +99,14 @@
     - `POST`
     - `DELETE`    
 
+---
+
+## Serverless Framework
+
+<img src="images/sls_1.png">
+
+.>>
+
+### What Serverless framework can do for you
+
+<img src="images/sls_2.png">
