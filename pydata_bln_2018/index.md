@@ -145,3 +145,18 @@ PyData Berlin - 06.07.2018
 
 - Memory & CPU Limit in AWS Lambda (3008 MB / 2? vCPUs)
 - size of deployment package (max 250MB unzipped)
+
+---
+
+<div style="text-align:left">
+
+<h2> Thank you </h2>
+
+<b>Stay in touch</b>
+
+<p>
+[www.github.com/bweigel](https://www.github.com/bweigel)<br>
+[www.linkedin.com/in/weigelb](https://www.linkedin.com/in/weigelb)
+</p>
+
+</div>
