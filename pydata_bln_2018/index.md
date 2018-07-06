@@ -13,6 +13,16 @@ PyData Berlin - 06.07.2018
 
 ---
 
+## Who am I?
+
+- Benjamin Weigel
+- biochemist
+- Data Engineer at Europace AG for the last 2 years
+**Interests:**
+- serverless architecture, functional programming, scala, bayesian stats & methods
+
+.>>
+
 <iframe width="1280px" height="720px" data-src="https://www.europace.de/"></iframe>
 
 ---
