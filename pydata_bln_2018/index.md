@@ -138,3 +138,10 @@ PyData Berlin - 06.07.2018
 <div style="background:#ffffff">
 <img src="images/architecture.svg" style="background:#ffffff">
 </div>
+
+.>>
+
+### Limitations of AWS Lambda & ML
+
+- Memory & CPU Limit in AWS Lambda (3008 MB / 2? vCPUs)
+- size of deployment package (max 250MB unzipped)
