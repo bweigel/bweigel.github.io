@@ -26,6 +26,14 @@ PyData Berlin - 06.07.2018
 
 ---
 
+## What we will build today
+
+<div style="background:#ffffff">
+<img src="images/architecture.svg" style="background:#ffffff">
+</div>
+
+---
+
 ## Serverless Evolution
 
 <img src="images/serverless_evolution.png">
@@ -39,6 +47,12 @@ PyData Berlin - 06.07.2018
     - let the world use it 
     - raise productivity    
 
+.>>
+
+### Limitations of AWS Lambda & ML
+
+- Memory & CPU Limit in AWS Lambda (3008 MB / 2? vCPUs)
+- size of deployment package (max 250MB unzipped)
 
 
 ---
@@ -133,18 +147,7 @@ PyData Berlin - 06.07.2018
 
 ---
 
-## What we will build today
-
-<div style="background:#ffffff">
-<img src="images/architecture.svg" style="background:#ffffff">
-</div>
-
-.>>
-
-### Limitations of AWS Lambda & ML
-
-- Memory & CPU Limit in AWS Lambda (3008 MB / 2? vCPUs)
-- size of deployment package (max 250MB unzipped)
+## Let's get to it then ...
 
 ---
 
