@@ -133,81 +133,174 @@ AWS Usergroup Meetup - 29.08.2018
 </div>
 
 
+---
+
+## Problem 1
+#### There is soo much stuff to do for a deployment ...
+
+- creating a lambda function
+    - and roles/policies
+    - and event/triggering resources (e.g. SNS-Topics)
+    - and event-subscriptions/triggers
+- zipping your sources
+- uploading your sources to s3
+
+
+&rarr; **Don't do it yourself** and try reinventing the wheel 
+
 .>>
 
-#### Why not use (cascading) S3-triggers?
+#### Instead: 
 
-- only one trigger per Bucket
-- needed to include some metadata in the messages (page number, to know when we are done)
+Use something that already exists ...
+
+<img src="images/lambda_tools.png">
+
+---
+
+### Serverless Framework
+
+<div style="height:450px">
+    <img src="images/sls_1.png">
+</div>
+<div style="height:100px">
+    <img src="images/sls_2.png">
+</div>
+
+.>>
+
+<img src="images/sls_python_requirements.png">
+
+#### Perks
+
+- cross-compilation (for binary dependecies)
+- tons of configurable features
+
+.>>
+
+#### `serverless.yml`
+```yaml
+service: myService
+
+provider:
+  name: aws
+  runtime: python3.6
+  memorySize: 512
+  timeout: 10 
+
+custom:
+  pythonRequirements:
+    dockerizePip: true
+
+functions:
+  hello:
+    handler: main.hello 
+    name: ${self:provider.stage}-helloWorld 
+    reservedConcurrency: 5 
+```
 
 
 ---
 
+## Problem 2
 #### Large deployment-artifacts
 
-<div id="left" style="font-size:80%">
-**Problem**<br>
-- ML-libraries are large<br>
-&rarr; slow cold-start times<br>
-&rarr; potentially too large for deployment
-</div>
 
+- some libraries are large (e.g. Python ML-Libraries)
+- &rarr; potentially too large for deployment:
+    - hard limit of 250 MB for unzipped artifact
+    - 50 MB (zipped) limit, when updating code for a single function
 
-<div id="right" style="font-size:80%">
-**Solution**
-<br>
-- excluding tests & stripping libraries (`*.so`-files)
-</div>
 
 .>>
 
 <div style="text-align:left; font-size:80%">
-**Example:**<br>Lambda function with numpy, scipy and sklearn dependencies
+**Solution 1:** excluding tests & stripping libraries (`*.so`-files)<br>
+&rarr; Example: Function with numpy, scipy and sklearn dependencies
 </div>
 
 ```yaml
+# serverless.yml
 custom:
   pythonRequirements:
     slim: true
 ```
 
-<img src="images/serverless_fat_slim_compare.png">
+<img src="images/serverless_fat_slim_compare.png", height>
 
 .>>
 
-### You might also try...
+<div style="text-align:left; font-size:80%">
+**Solution 2:** zip-in-zip and extract at runtime<br>
+</div>
 
-- zip-inside-zip (zip libraries inside deployment-zip & extract at runtime)
+```yaml
+custom:
+  pythonRequirements:
+    zip: true
+```
+
+```python
+try:
+  import unzip_requirements
+except ImportError:
+  pass
+```
+
+
+.>>
+
+#### You might also try...
+
 - load dependencies from s3
 - customize your libraries (remove stuff you don't use)
 
 ---
 
-#### Long cold start-times
+## Problem 3
+#### Long (cold) start-times
 
-
----
-
-## Serverless Framework
-
-<img src="images/sls_1.png">
+- linked to the size of the artifact
+- language of choice
+- VPC
+- and what you have to do in advance to your logic
 
 .>>
 
-### Why the serverless framework?
+#### Influence of artifact size on cold-start times
 
-- manages packaging & deployment of code    
-- easy to use abstraction over cloudformation
-    - &rarr; provisioning of infrastructure
-    - uses cloudformation behind the scenes
-- infrastructure as code &rarr; no click orgies
-- maturity &rarr; great community & tooling via plugins
-    
-<img src="images/sls_2.png">
+<div style="height:500px">
+<img src="images/cold_start_times.svg">
+</div>
 
----
 
-## Let's get to it then ...
+.>>
+
+#### Influence of language/memory on cold-start times
+
+<div style="height:450px">
+<img src="images/lambda_coldstart_language.png">
+</div>
+
+<small>
+https://read.acloud.guru/does-coding-language-memory-or-package-size-affect-cold-starts-of-aws-lambda-a15e26d12c76
+</small>
+
+.>>
+
+<div style="text-align:left; font-size:80%">
+**Solution:** 
+</div>
+
+- use another runtime
+- smaller artifact &rarr; strip away everything unnecessary
+- more Memory (hence CPU power) for Lambda
+- avoid Lambdas in VPCs   
+- preemptive Lambda warm-ups
+- avoid multiple initialization / authentication calls during container uptime
+    - keep connections open
+    - use singletons and global/module state when possible 
+
 
 ---
 
@@ -223,3 +316,10 @@ custom:
 </p>
 
 </div>
+
+---
+
+#### Why not use (cascading) S3-triggers?
+
+- only one trigger per Bucket
+- needed to include some metadata in the messages (page number, to know when we are done)
