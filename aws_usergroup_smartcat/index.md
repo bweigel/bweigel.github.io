@@ -301,6 +301,40 @@ https://read.acloud.guru/does-coding-language-memory-or-package-size-affect-cold
     - keep connections open
     - use singletons and global/module state when possible 
 
+---
+
+### A word on concurrency
+
+#### beware of your backend!
+
+<section>
+  <div style="text-align: left; float: left; height:400px">
+       <img src="images/loadtest_gatling.png">
+  </div>
+
+  <div style="text-align: right; float: right; height:400px">
+    <div style="height:220px">
+    <img src="images/loadtest_lambda_overview.png">
+    </div>
+    <div style="height:150px">
+    <img src="images/loadtest_dynamo_write.png">
+    </div>
+  </div>
+</section>
+
+
+.>>
+
+#### Lambda might scale endlessly
+<div style="text-align:left;color:#888888">
+(...other services may not)
+</div>
+
+&rarr; scale everything according to your concurrency
+- relational DBs &rarr; limit connections/sessions
+- DynamoDB &rarr; increase read/write-throughput
+- REST-Endpoints &rarr; self-DDoS anyone?
+
 
 ---
 
