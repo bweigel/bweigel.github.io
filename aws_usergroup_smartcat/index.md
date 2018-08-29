@@ -54,7 +54,7 @@ AWS Usergroup Meetup - 29.08.2018
 
 .>>
 
-#### Getting some paperwork ...
+#### Getting together some paperwork ...
 
 <img src="images/oh_no.gif">
 
