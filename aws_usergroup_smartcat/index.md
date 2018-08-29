@@ -135,7 +135,7 @@ AWS Usergroup Meetup - 29.08.2018
 
 ---
 
-## Problem 1
+## Issue:
 #### There is soo much stuff to do for a deployment ...
 
 - creating a lambda function
@@ -202,7 +202,7 @@ functions:
 
 ---
 
-## Problem 2
+## Issue:
 #### Large deployment-artifacts
 
 
@@ -257,7 +257,7 @@ except ImportError:
 
 ---
 
-## Problem 3
+## Issue:
 #### Long (cold) start-times
 
 - linked to the size of the artifact
@@ -272,7 +272,7 @@ except ImportError:
 <div style="height:500px">
 <img src="images/cold_start_times.svg">
 </div>
-
+<small>as measured on lambdas with 256 MB of memory</small>
 
 .>>
 
@@ -317,9 +317,3 @@ https://read.acloud.guru/does-coding-language-memory-or-package-size-affect-cold
 
 </div>
 
----
-
-#### Why not use (cascading) S3-triggers?
-
-- only one trigger per Bucket
-- needed to include some metadata in the messages (page number, to know when we are done)
