@@ -5,5 +5,8 @@
 - [Deploying a ML Service to AWS lambda](deploying_a_ml_service_to_aws_lambda.md)
 - [IAM Roles for AWS Lambdas](iam_roles_in_aws_lambdas.md)
 
+## Talks
 
+### 2018
 - [PyData Berlin 2018 Workshop](pydata_bln_2018/index.html)
+- [AWS Berlin User Group Meetup](aws_usergroup_smartcat/index.html)
