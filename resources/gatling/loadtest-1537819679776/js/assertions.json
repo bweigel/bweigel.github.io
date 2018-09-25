@@ -1,0 +1,10 @@
+{
+  "simulation": "loadTest",
+  "simulationId": "loadtest",
+  "start": 1537819679776,
+  "description": "",
+  "scenarios": ["Slim - WarmedUp-scenario", "Fat - WarmedUp-scenario", "Zip - WarmedUp-scenario"],
+  "assertions": [
+
+  ]
+}

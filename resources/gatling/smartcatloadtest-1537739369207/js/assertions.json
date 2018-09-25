@@ -1,0 +1,10 @@
+{
+  "simulation": "smartcatLoadtest",
+  "simulationId": "smartcatloadtest",
+  "start": 1537739369207,
+  "description": "",
+  "scenarios": ["smartCat-Loadtest"],
+  "assertions": [
+
+  ]
+}

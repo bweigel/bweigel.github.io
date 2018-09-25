@@ -1,0 +1,317 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 900,
+        "ok": 600,
+        "ko": 300
+    },
+    "minResponseTime": {
+        "total": 1453,
+        "ok": 3179,
+        "ko": 1453
+    },
+    "maxResponseTime": {
+        "total": 10996,
+        "ok": 10996,
+        "ko": 9764
+    },
+    "meanResponseTime": {
+        "total": 4698,
+        "ok": 5402,
+        "ko": 3291
+    },
+    "standardDeviation": {
+        "total": 1650,
+        "ok": 1204,
+        "ko": 1518
+    },
+    "percentiles1": {
+        "total": 4763,
+        "ok": 5293,
+        "ko": 3130
+    },
+    "percentiles2": {
+        "total": 5817,
+        "ok": 6171,
+        "ko": 3489
+    },
+    "percentiles3": {
+        "total": 7197,
+        "ok": 7672,
+        "ko": 7189
+    },
+    "percentiles4": {
+        "total": 8451,
+        "ok": 8525,
+        "ko": 7200
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 600,
+        "percentage": 67
+    },
+    "group4": {
+        "name": "failed",
+        "count": 300,
+        "percentage": 33
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 75.0,
+        "ok": 50.0,
+        "ko": 25.0
+    }
+},
+"contents": {
+"req_slim---coldstar-bf6f5": {
+        "type": "REQUEST",
+        "name": "Slim - Coldstart",
+"path": "Slim - Coldstart",
+"pathFormatted": "req_slim---coldstar-bf6f5",
+"stats": {
+    "name": "Slim - Coldstart",
+    "numberOfRequests": {
+        "total": 300,
+        "ok": 300,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 3179,
+        "ok": 3179,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 10996,
+        "ok": 10996,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 5138,
+        "ok": 5138,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 1404,
+        "ok": 1404,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 4883,
+        "ok": 4883,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 5695,
+        "ok": 5695,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 8089,
+        "ok": 8089,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 8595,
+        "ok": 8595,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 300,
+        "percentage": 100
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 25.0,
+        "ok": 25.0,
+        "ko": 0
+    }
+}
+    },"req_fat---coldstart-c38d4": {
+        "type": "REQUEST",
+        "name": "Fat - Coldstart",
+"path": "Fat - Coldstart",
+"pathFormatted": "req_fat---coldstart-c38d4",
+"stats": {
+    "name": "Fat - Coldstart",
+    "numberOfRequests": {
+        "total": 300,
+        "ok": 300,
+        "ko": 0
+    },
+    "minResponseTime": {
+        "total": 3849,
+        "ok": 3849,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 10343,
+        "ok": 10343,
+        "ko": 0
+    },
+    "meanResponseTime": {
+        "total": 5665,
+        "ok": 5665,
+        "ko": 0
+    },
+    "standardDeviation": {
+        "total": 887,
+        "ok": 887,
+        "ko": 0
+    },
+    "percentiles1": {
+        "total": 5621,
+        "ok": 5621,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 6243,
+        "ok": 6243,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 7037,
+        "ok": 7037,
+        "ko": 0
+    },
+    "percentiles4": {
+        "total": 7706,
+        "ok": 7706,
+        "ko": 0
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 300,
+        "percentage": 100
+    },
+    "group4": {
+        "name": "failed",
+        "count": 0,
+        "percentage": 0
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 25.0,
+        "ok": 25.0,
+        "ko": 0
+    }
+}
+    },"req_zip---coldstart-7003a": {
+        "type": "REQUEST",
+        "name": "Zip - Coldstart",
+"path": "Zip - Coldstart",
+"pathFormatted": "req_zip---coldstart-7003a",
+"stats": {
+    "name": "Zip - Coldstart",
+    "numberOfRequests": {
+        "total": 300,
+        "ok": 0,
+        "ko": 300
+    },
+    "minResponseTime": {
+        "total": 1453,
+        "ok": 0,
+        "ko": 1453
+    },
+    "maxResponseTime": {
+        "total": 9764,
+        "ok": 0,
+        "ko": 9764
+    },
+    "meanResponseTime": {
+        "total": 3291,
+        "ok": 0,
+        "ko": 3291
+    },
+    "standardDeviation": {
+        "total": 1518,
+        "ok": 0,
+        "ko": 1518
+    },
+    "percentiles1": {
+        "total": 3130,
+        "ok": 0,
+        "ko": 3130
+    },
+    "percentiles2": {
+        "total": 3489,
+        "ok": 0,
+        "ko": 3489
+    },
+    "percentiles3": {
+        "total": 7189,
+        "ok": 0,
+        "ko": 7189
+    },
+    "percentiles4": {
+        "total": 7200,
+        "ok": 0,
+        "ko": 7200
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 300,
+        "percentage": 100
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 25.0,
+        "ok": 0,
+        "ko": 25.0
+    }
+}
+    }
+}
+
+}

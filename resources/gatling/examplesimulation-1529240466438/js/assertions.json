@@ -1,0 +1,10 @@
+{
+  "simulation": "ExampleSimulation",
+  "simulationId": "examplesimulation",
+  "start": 1529240466438,
+  "description": "",
+  "scenarios": ["Slim Categorization Coldstart-scenario", "Fat Categorization Coldstart-scenario"],
+  "assertions": [
+
+  ]
+}
