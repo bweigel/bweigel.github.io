@@ -311,8 +311,9 @@ https://read.acloud.guru/does-coding-language-memory-or-package-size-affect-cold
 <b>Stay in touch</b>
 
 <p>
-[www.github.com/bweigel](https://www.github.com/bweigel)<br>
-[www.linkedin.com/in/weigelb](https://www.linkedin.com/in/weigelb)
+[github.com/bweigel](https://www.github.com/bweigel)<br>
+[linkedin.com/in/weigelb](https://www.linkedin.com/in/weigelb)<br>
+[@dreigelb](https://twitter.com/dreigelb)
 </p>
 
 </div>
