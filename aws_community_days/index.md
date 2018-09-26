@@ -13,18 +13,14 @@ AWS Community Day - Frankfurt, 26.-27.09.2018
 
 ---
 
-### Who am I?
-
-- biochemist
-- Data Engineer in dNa-Team at Europace AG for the last 2 years
-- experiences in serverless architectures:
-    - etl-pipelines
-    - reporting-services
-    - serverless machine-learning services
-
-.>>
-
-<iframe width="1280px" height="720px" data-src="https://www.europace.de/"></iframe>
+<div style="font-size:200%">
+<div>
+<img src="images/twitter.png" style="width:20%"> 
+</div>
+<div>
+@dreigelb
+</div>
+</div>
 
 ---
 
@@ -130,6 +126,13 @@ AWS Community Day - Frankfurt, 26.-27.09.2018
 <img src="images/smartcat_workflow.svg" style="background:#ffffff">
 </div>
 
+.>>
+
+### Long Polling REST-Pattern
+
+<div class="stretch">
+<img src="images/long_polling_pattern.svg" style="background:#ffffff">
+</div>
 
 ---
 
