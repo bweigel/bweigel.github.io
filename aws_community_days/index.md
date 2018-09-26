@@ -3,7 +3,7 @@
 <h4 style="color:#516188">Building a serverless multi-class document classification service using AWS Lambda</h4>
 
 <div style="text-align:right">
-<small>Benjamin Weigel</small>
+<small>Dr. Benjamin Weigel</small>
 </div>
 <div style="text-align:right;color:#516188">
 <small>
@@ -36,34 +36,41 @@ AWS Community Day - Frankfurt, 26.-27.09.2018
 
 #### The house of your dreams ...
 
+<div class="stretch"  >
 <img src="images/neuschwanstein.jpg">
-
+</div>
 
 .>>
 
 #### Knowing you can afford it ...
 
+<div class="stretch"  >
 <img src="images/happy.gif" style="width:150%;">
-
+</div>
 
 ---
 
 ### Our usecase
 
+<div class="stretch"  >
 <img src="images/paperwork.jpg">
+</div>
 
 .>>
 
 #### Getting some paperwork ...
 
+<div class="stretch"  >
 <img src="images/oh_no.gif">
+</div>
 
 .>>
 
 #### Manually ordering tons of paperwork ...
 
+<div class="stretch"  >
 <img src="images/oh_noes.gif">
-
+</div>
 
 ---
 
@@ -112,7 +119,7 @@ AWS Community Day - Frankfurt, 26.-27.09.2018
 - no need for clusters, servers or containers
 - no need to think about scaling 
 - don't pay for idle
-- built-in fault tolerance (e.g. dead letter queues)
+- built-in fault tolerance (e.g. retries, DLQs)
 - synchronous, asynchronous and stream based execution
 
 ---
@@ -126,7 +133,7 @@ AWS Community Day - Frankfurt, 26.-27.09.2018
 
 ---
 
-### Which problems we encountered...
+### Problems we encountered...
 
 <div style="text-align:left;color:#516188">
 ...and how we solved them
@@ -135,16 +142,20 @@ AWS Community Day - Frankfurt, 26.-27.09.2018
 
 ---
 
-### Problem 1
-#### There is soo much stuff to do for a deployment ...
+## Issue
+#### Deployments of lambda functions is quite complex
 
-- creating a lambda function
+.>>
+
+### How-to deploy a lambda function
+
+- package (zip) your sources
+- upload your sources to s3
+- create a lambda function
     - and roles/policies
     - and event/triggering resources (e.g. SNS-Topics)
     - and event-subscriptions/triggers
-- zipping your sources
-- uploading your sources to s3
-
+    - _you might also need:_ Api-Gateway, step-functions, canary deployment, other resources ...
 
 &rarr; **Don't do it yourself** and try reinventing the wheel 
 
@@ -154,7 +165,9 @@ AWS Community Day - Frankfurt, 26.-27.09.2018
 
 Use something that already exists ...
 
-<img src="images/lambda_tools.png">
+<div class="stretch">
+    <img src="images/lambda_tools.png">
+</div>
 
 ---
 
@@ -202,9 +215,13 @@ functions:
 
 ---
 
-### Problem 2
+## Issue
 #### Large deployment-artifacts
 
+
+.>>
+
+<< Picture here of size of dependencies ... screenshot from `du` >>
 
 - some libraries are large (e.g. Python ML-Libraries)
 - &rarr; potentially too large for deployment:
@@ -257,50 +274,124 @@ except ImportError:
 
 ---
 
-### Problem 3
-#### Long (cold) start-times
+## Issue
 
-- linked to the size of the artifact
-- language of choice
-- VPC
-- and what you have to do in advance to your logic
+#### Long (cold) start-times
 
 .>>
 
 #### Influence of artifact size on cold-start times
 
-<div style="height:500px">
-<img src="images/cold_start_times.svg">
+<div class="stretch">
+    <img src="images/cold_start_times.svg">
 </div>
+<small>as measured on lambdas with 256 MB of memory</small>
 
+&rarr; cold-start times increase with size of artifact
 
 .>>
 
 #### Influence of language/memory on cold-start times
 
-<div style="height:450px">
-<img src="images/lambda_coldstart_language.png">
+<div class="stretch">
+    <img src="images/lambda_coldstart_language.png">
 </div>
-
 <small>
-https://read.acloud.guru/does-coding-language-memory-or-package-size-affect-cold-starts-of-aws-lambda-a15e26d12c76
+from: https://read.acloud.guru/does-coding-language-memory-or-package-size-affect-cold-starts-of-aws-lambda-a15e26d12c76
 </small>
+
+&rarr; cold-start times influenced by language of choice
 
 .>>
 
-<div style="text-align:left; font-size:80%">
-**Solution:** 
+#### VPCs and cold-start times
+
+
+.>>
+
+#### (Container)-Instance lifetime is longer than you think!
+
+<div class="stretch">
+<img src="images/instance_lifetime.png">
+</div>
+<small>
+from: Peeking Behind the Curtains of Serverless Platforms.<br> https://www.usenix.org/conference/atc18/presentation/wang-liang
+</small>
+
+<div style="font-size:80%">
+    &rarr; median instance lifetime 6.2 hrs; maximum idle time just 27 mins!
+    &rarr; reuse connections; limit any I/O to initialization during cold-starts for blazingly fast warm-starts
+</div>
+
+.>>
+
+#### Solution (1/2)
+ 
+ 
+<div style="text-align: left;color:#516188">
+<small>... for faster cold-starts</small>
 </div>
 
 - use another runtime
-- smaller artifact &rarr; strip away everything unnecessary
-- more Memory (hence CPU power) for Lambda
+- make smaller artifacts 
+    - strip away everything unnecessary
+    - avoid clutter: use one artifact per function
+- more memory (hence CPU) for Lambda
 - avoid Lambdas in VPCs   
 - preemptive Lambda warm-ups
-- avoid multiple initialization / authentication calls during container uptime
-    - keep connections open
-    - use singletons and global/module state when possible 
 
+.>>
+
+#### Solution (2/2) 
+
+<div style="text-align: left;color:#516188">
+<small>... for faster warm-starts</small>
+</div>
+
+- avoid unnecessary I/O & network-calls during container uptime 
+    - keep connections open
+- do repetitive operations only once (during cold-start)
+    - calls to external APIs (e.g. auth-flows)
+    - decryption of env-variables using KMS  
+    - use singletons and global/module state when possible
+
+
+---
+
+### A word on concurrency
+
+#### beware of your backend!
+
+<div class="stretch">
+  <div style="text-align: left; float: left; height:400px">
+       <img src="images/loadtest_gatling.png">
+  </div>
+
+  <div style="text-align: right; float: right; height:400px">
+    <div style="height:220px">
+    <img src="images/loadtest_lambda_overview.png">
+    </div>
+    <div style="height:150px">
+    <img src="images/loadtest_dynamo_write.png">
+    </div>
+  </div>
+</div>
+
+.>>
+
+#### Lambda might scale endlessly
+<div style="text-align:left;color:#516188">
+(...other services may not)
+</div>
+
+&rarr; scale according to lambda concurrency setting, or lower concurrency 
+
+- relational DBs &rarr; limit connections/sessions
+- DynamoDB &rarr; increase read/write-throughput
+- Aurora Serverless &rarr; increase Capacity Units
+- REST-Endpoints &rarr; self-DDoS anyone?
+    - beware of (multiple) self-invokation
+    - also: mind the costs!
 
 ---
 
@@ -320,7 +411,73 @@ https://read.acloud.guru/does-coding-language-memory-or-package-size-affect-cold
 
 ---
 
-#### Why not use (cascading) S3-triggers?
+<div class="stretch">
+<img src="images/ep_conf_slides/22.png">
+</div>
 
-- only one trigger per Bucket
-- needed to include some metadata in the messages (page number, to know when we are done)
+.>>
+
+
+<div class="stretch">
+<img src="images/ep_conf_slides/23.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/24.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/25.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/26.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/27.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/28.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/29.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/30.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/31.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/32.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/33.png">
+</div>
