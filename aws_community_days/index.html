@@ -140,6 +140,7 @@
         history: true,
         center: true,
         slideNumber: true,
+        defaultTiming: 45,
 
         transition: 'slide', // none/fade/slide/convex/concave/zoom
 
@@ -172,6 +173,39 @@
 
     Reveal.configure({ pdfMaxPagesPerSlide: 1 });
 
+</script>
+
+<style type="text/css">
+    #footer {
+        position: absolute;
+        bottom: 2.5%;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        font-size:65%;
+        color: #516188;
+    }
+</style>
+
+<!-- 2. Create hidden header/footer <div> -->
+<div id="hidden" style="display:none;">
+    <div id="header">
+        <div id="footer">@dreigelb -- https://bweigel.github.io/aws_community_days</div>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script type="text/javascript">
+    // 3. On Reveal.js ready event, copy header/footer <div> into each `.slide-background` <div>
+    var header = $('#header').html();
+    if ( window.location.search.match( /print-pdf/gi ) ) {
+        Reveal.addEventListener( 'ready', function( event ) {
+            $('.slide-background').append(header);
+        });
+    }
+    else {
+        $('div.reveal').append(header);
+   }
 </script>
 
 </body>

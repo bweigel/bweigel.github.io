@@ -7,7 +7,7 @@
 </div>
 <div style="text-align:right;color:#516188">
 <small>
-AWS Community Day - Frankfurt, 26.-27.09.2018
+AWS Community Days - Frankfurt, 26.-27.09.2018
 </small>
 </div>
 
@@ -28,25 +28,27 @@ AWS Community Day - Frankfurt, 26.-27.09.2018
 
 <img src="images/logo.gif">
 
-.>>
-
-#### The house of your dreams ...
-
-<div class="stretch"  >
-<img src="images/neuschwanstein.jpg">
-</div>
 
 .>>
 
-#### Knowing you can afford it ...
+#### Helping you get the best financing...
 
 <div class="stretch"  >
 <img src="images/happy.gif" style="width:150%;">
 </div>
 
+.>>
+
+#### ... for the home of your dreams
+
+<div class="stretch"  >
+<img src="images/neuschwanstein.jpg">
+</div>
+
+
 ---
 
-### Our usecase
+### What the bank needs from you...
 
 <div class="stretch"  >
 <img src="images/paperwork.jpg">
@@ -54,7 +56,7 @@ AWS Community Day - Frankfurt, 26.-27.09.2018
 
 .>>
 
-#### Getting some paperwork ...
+#### You, needing to get some paperwork ...
 
 <div class="stretch"  >
 <img src="images/oh_no.gif">
@@ -62,7 +64,7 @@ AWS Community Day - Frankfurt, 26.-27.09.2018
 
 .>>
 
-#### Manually ordering tons of paperwork ...
+#### The poor bank guy manually sorting & labelling tons of paperwork ...
 
 <div class="stretch"  >
 <img src="images/oh_noes.gif">
@@ -94,10 +96,13 @@ AWS Community Day - Frankfurt, 26.-27.09.2018
 
 .>>
 
-#### serverless!
 
 <div class="stretch"  >
 <img  src="images/lambda.png">
+</div>
+
+<div style="font-size:150%">
+SERVERLESS!
 </div>
 
 ---
@@ -117,6 +122,83 @@ AWS Community Day - Frankfurt, 26.-27.09.2018
 - don't pay for idle
 - built-in fault tolerance (e.g. retries, DLQs)
 - synchronous, asynchronous and stream based execution
+
+
+---
+
+## How to label a bunch of documents?
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/22.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/23.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/24.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/25.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/26.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/27.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/28.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/29.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/30.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/31.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/32.png">
+</div>
+
+.>>
+
+<div class="stretch">
+<img src="images/ep_conf_slides/33.png">
+</div>
 
 ---
 
@@ -224,7 +306,7 @@ functions:
 
 .>>
 
-<< Picture here of size of dependencies ... screenshot from `du` >>
+<img src="images/du_requirements.png">
 
 - some libraries are large (e.g. Python ML-Libraries)
 - &rarr; potentially too large for deployment:
@@ -309,6 +391,9 @@ from: https://read.acloud.guru/does-coding-language-memory-or-package-size-affec
 
 #### VPCs and cold-start times
 
+<div style="font-size:250%; text-align:center; vertical-align:middle; padding: 200px 0;" class="stretch">
+adds ~10 s
+</div>  
 
 .>>
 
@@ -410,77 +495,4 @@ from: Peeking Behind the Curtains of Serverless Platforms.<br> https://www.useni
 [@dreigelb](https://twitter.com/dreigelb)
 </p>
 
-</div>
-
----
-
-<div class="stretch">
-<img src="images/ep_conf_slides/22.png">
-</div>
-
-.>>
-
-
-<div class="stretch">
-<img src="images/ep_conf_slides/23.png">
-</div>
-
-.>>
-
-<div class="stretch">
-<img src="images/ep_conf_slides/24.png">
-</div>
-
-.>>
-
-<div class="stretch">
-<img src="images/ep_conf_slides/25.png">
-</div>
-
-.>>
-
-<div class="stretch">
-<img src="images/ep_conf_slides/26.png">
-</div>
-
-.>>
-
-<div class="stretch">
-<img src="images/ep_conf_slides/27.png">
-</div>
-
-.>>
-
-<div class="stretch">
-<img src="images/ep_conf_slides/28.png">
-</div>
-
-.>>
-
-<div class="stretch">
-<img src="images/ep_conf_slides/29.png">
-</div>
-
-.>>
-
-<div class="stretch">
-<img src="images/ep_conf_slides/30.png">
-</div>
-
-.>>
-
-<div class="stretch">
-<img src="images/ep_conf_slides/31.png">
-</div>
-
-.>>
-
-<div class="stretch">
-<img src="images/ep_conf_slides/32.png">
-</div>
-
-.>>
-
-<div class="stretch">
-<img src="images/ep_conf_slides/33.png">
 </div>
