@@ -107,25 +107,6 @@ SERVERLESS!
 
 ---
 
-### (Optional) Intro to AWS Lambda ?! 
-
-<img src="images/aws_lambda_workflow.png">
-
-.>>
-
-### What is AWS Lambda
-
-- function-as-a-service (FaaS)
-- runs your Python, NodeJs, JVM, .NET or Go Code
-- no need for clusters, servers or containers
-- no need to think about scaling 
-- don't pay for idle
-- built-in fault tolerance (e.g. retries, DLQs)
-- synchronous, asynchronous and stream based execution
-
-
----
-
 ## How to label a bunch of documents?
 
 .>>
@@ -480,6 +461,10 @@ from: Peeking Behind the Curtains of Serverless Platforms.<br> https://www.useni
 - REST-Endpoints &rarr; self-DDoS anyone?
     - beware of (multiple) self-invokation
     - also: mind the costs!
+
+---
+
+# Time for demo?
 
 ---
 
