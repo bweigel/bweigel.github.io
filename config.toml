@@ -1,0 +1,4 @@
+baseURL = "https://bweigel.github.io/dreigelb.eu/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "ananke"
