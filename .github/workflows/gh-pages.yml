@@ -9,6 +9,11 @@ jobs:
   deploy:
     runs-on: ubuntu-18.04
     steps:
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+          architecture: 'x64'
+
       - uses: actions/checkout@v2
         with:
           submodules: true  # Fetch Hugo themes (true OR recursive)
@@ -19,6 +24,9 @@ jobs:
         with:
           hugo-version: 'latest'
           # extended: true
+
+      - name: Install rst2html
+        run: pip install rst2html
 
       - name: Build
         run: hugo --minify
